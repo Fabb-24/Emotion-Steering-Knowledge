@@ -1,0 +1,19 @@
+{
+  "layer": 63,
+  "method": "diff_means",
+  "accuracy": 0.513,
+  "macro_f1": 0.5101,
+  "probe_macro_f1": 0.5789,
+  "f1_per_emotion": {
+    "afraid": 0.5389,
+    "joyful": 0.5446,
+    "sad": 0.4176,
+    "annoyed": 0.5612,
+    "ashamed": 0.5644,
+    "angry": 0.4236,
+    "trusting": 0.6771,
+    "anxious": 0.4348,
+    "content": 0.5597,
+    "devastated": 0.3787
+  }
+}

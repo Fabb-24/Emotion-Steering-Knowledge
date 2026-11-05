@@ -1,0 +1,210 @@
+\begin{thebibliography}{10}
+
+\bibitem{park2024linearrep}
+Kiho Park, Yo~Joong Choe, and Victor Veitch.
+\newblock The linear representation hypothesis and the geometry of large
+  language models.
+\newblock In Ruslan Salakhutdinov, Zico Kolter, Katherine~A. Heller, Adrian
+  Weller, Nuria Oliver, Jonathan Scarlett, and Felix Berkenkamp, editors, {\em
+  Forty-first International Conference on Machine Learning, {ICML} 2024,
+  Vienna, Austria, July 21-27, 2024}, volume 235 of {\em Proceedings of Machine
+  Learning Research}, pages 39643--39666. {PMLR} / OpenReview.net, 2024.
+
+\bibitem{turner2024steeract}
+Alexander~Matt Turner, Lisa Thiergart, Gavin Leech, David Udell, Juan~J.
+  Vazquez, Ulisse Mini, and Monte MacDiarmid.
+\newblock Steering language models with activation engineering, 2024.
+
+\bibitem{rashkin2019empathetic}
+Hannah Rashkin, Eric~Michael Smith, Margaret Li, and Y-Lan Boureau.
+\newblock Towards empathetic open-domain conversation models: A new benchmark
+  and dataset.
+\newblock In Anna Korhonen, David Traum, and Llu{\'i}s M{\`a}rquez, editors,
+  {\em Proceedings of the 57th Annual Meeting of the {A}ssociation for
+  {C}omputational {L}inguistics}, pages 5370--5381, Florence, Italy, July 2019.
+  Association for Computational Linguistics.
+
+\bibitem{zhou2018emotionalchat}
+Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, and Bing Liu.
+\newblock Emotional chatting machine: Emotional conversation generation with
+  internal and external memory.
+\newblock In Sheila~A. McIlraith and Kilian~Q. Weinberger, editors, {\em
+  Proceedings of the Thirty-Second {AAAI} Conference on Artificial
+  Intelligence, (AAAI-18), the 30th innovative Applications of Artificial
+  Intelligence (IAAI-18), and the 8th {AAAI} Symposium on Educational Advances
+  in Artificial Intelligence (EAAI-18), New Orleans, Louisiana, USA, February
+  2-7, 2018}, pages 730--739. {AAAI} Press, 2018.
+
+\bibitem{chen2024persona}
+Jiangjie Chen, Xintao Wang, Rui Xu, Siyu Yuan, Yikai Zhang, Wei Shi, Jian Xie,
+  Shuang Li, Ruihan Yang, Tinghui Zhu, Aili Chen, Nianqi Li, Lida Chen, Caiyu
+  Hu, Siye Wu, Scott Ren, Ziquan Fu, and Yanghua Xiao.
+\newblock From persona to personalization: {A} survey on role-playing language
+  agents.
+\newblock {\em Trans. Mach. Learn. Res.}, 2024, 2024.
+
+\bibitem{panickssery2024steerllama2}
+Nina Rimsky, Nick Gabrieli, Julian Schulz, Meg Tong, Evan Hubinger, and
+  Alexander Turner.
+\newblock Steering {L}lama 2 via contrastive activation addition.
+\newblock In Lun-Wei Ku, Andre Martins, and Vivek Srikumar, editors, {\em
+  Proceedings of the 62nd Annual Meeting of the {A}ssociation for
+  {C}omputational {L}inguistics (Volume 1: Long Papers)}, pages 15504--15522,
+  Bangkok, Thailand, August 2024. Association for Computational Linguistics.
+
+\bibitem{chen2025personavectors}
+Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, and Jack Lindsey.
+\newblock Persona vectors: Monitoring and controlling character traits in
+  language models.
+\newblock {\em CoRR}, abs/2507.21509, 2025.
+
+\bibitem{bhandari-etal-2026-personality}
+Pranav Bhandari, Usman Naseem, and Mehwish Nasim.
+\newblock Do personality traits interfere? geometric limitations of steering in
+  large language models.
+\newblock In Maria Liakata, Viviane~P. Moreira, Jiajun Zhang, and David
+  Jurgens, editors, {\em Findings of the {A}ssociation for {C}omputational
+  {L}inguistics: {ACL} 2026}, pages 29284--29293, San Diego, California, United
+  States, July 2026. Association for Computational Linguistics.
+
+\bibitem{dang2026selectivesteer}
+Quy-Anh Dang and Chris Ngo.
+\newblock Selective steering: Norm-preserving control through discriminative
+  layer selection.
+\newblock In Maria Liakata, Viviane~P. Moreira, Jiajun Zhang, and David
+  Jurgens, editors, {\em Findings of the {A}ssociation for {C}omputational
+  {L}inguistics: {ACL} 2026}, pages 10887--10910, San Diego, California, United
+  States, July 2026. Association for Computational Linguistics.
+
+\bibitem{tigges2023linearrep}
+Curt Tigges, Oskar~J. Hollinsworth, Atticus Geiger, and Neel Nanda.
+\newblock Language models linearly represent sentiment.
+\newblock In Yonatan Belinkov, Najoung Kim, Jaap Jumelet, Hosein Mohebbi, Aaron
+  Mueller, and Hanjie Chen, editors, {\em Proceedings of the 7th
+  {B}lackbox{NLP} Workshop: Analyzing and Interpreting Neural Networks for
+  {NLP}}, pages 58--87, Miami, Florida, US, November 2024. Association for
+  Computational Linguistics.
+
+\bibitem{wang2024act}
+Tianlong Wang, Xianfeng Jiao, Yinghao Zhu, Zhongzhi Chen, Yifan He, Xu~Chu,
+  Junyi Gao, Yasha Wang, and Liantao Ma.
+\newblock Adaptive activation steering: {A} tuning-free {LLM} truthfulness
+  improvement method for diverse hallucinations categories.
+\newblock In Guodong Long, Michale Blumestein, Yi~Chang, Liane Lewin{-}Eytan,
+  Zi~Helen Huang, and Elad Yom{-}Tov, editors, {\em Proceedings of the {ACM} on
+  Web Conference 2025, {WWW} 2025, Sydney, NSW, Australia, 28 April 2025- 2 May
+  2025}, pages 2562--2578. {ACM}, 2025.
+
+\bibitem{blanchette2004reasoning}
+Isabelle Blanchette and Anne Richards.
+\newblock Reasoning about emotional and neutral materials: Is logic affected by
+  emotion?
+\newblock {\em Psychological Science}, 15(11):745--752, 2004.
+\newblock PMID: 15482446.
+
+\bibitem{jung2014emotions}
+Nadine Jung, Christina Wranke, Kai Hamburger, and Markus Knauff.
+\newblock How emotions affect logical reasoning: evidence from experiments with
+  mood-manipulated participants, spider phobics, and people with exam anxiety.
+\newblock {\em Frontiers in Psychology}, Volume 5 - 2014, 2014.
+
+\bibitem{dokme2026temper}
+Atahan Dokme, Benjamin~Z. Reichman, and Larry Heck.
+\newblock {TEMPER:} testing emotional perturbation in quantitative reasoning.
+\newblock {\em CoRR}, abs/2604.07801, 2026.
+
+\bibitem{kassner2021beliefbank}
+Nora Kassner, Oyvind Tafjord, Hinrich Sch{\"u}tze, and Peter Clark.
+\newblock {B}elief{B}ank: Adding memory to a pre-trained language model for a
+  systematic notion of belief.
+\newblock In Marie-Francine Moens, Xuanjing Huang, Lucia Specia, and Scott
+  Wen-tau Yih, editors, {\em Proceedings of the 2021 Conference on Empirical
+  Methods in Natural Language Processing}, pages 8849--8861, Online and Punta
+  Cana, Dominican Republic, November 2021. Association for Computational
+  Linguistics.
+
+\bibitem{bdotloh2023edcontexts}
+bdotloh.
+\newblock empathetic-dialogues-contexts.
+\newblock Hugging Face Datasets, 2023.
+\newblock
+  \url{https://huggingface.co/datasets/bdotloh/empathetic-dialogues-contexts}.
+
+\bibitem{qwen25}
+An~Yang, Baosong Yang, Beichen Zhang, Binyuan Hui, Bo~Zheng, Bowen Yu,
+  Chengyuan Li, Dayiheng Liu, Fei Huang, Haoran Wei, Huan Lin, Jian Yang,
+  Jianhong Tu, Jianwei Zhang, Jianxin Yang, Jiaxi Yang, Jingren Zhou, Junyang
+  Lin, Kai Dang, Keming Lu, Keqin Bao, Kexin Yang, Le~Yu, Mei Li, Mingfeng Xue,
+  Pei Zhang, Qin Zhu, Rui Men, Runji Lin, Tianhao Li, Tingyu Xia, Xingzhang
+  Ren, Xuancheng Ren, Yang Fan, Yang Su, Yichang Zhang, Yu~Wan, Yuqiong Liu,
+  Zeyu Cui, Zhenru Zhang, and Zihan Qiu.
+\newblock Qwen2.5 technical report.
+\newblock {\em CoRR}, abs/2412.15115, 2024.
+
+\bibitem{llama}
+Llama Team.
+\newblock The llama 3 herd of models.
+\newblock {\em CoRR}, abs/2407.21783, 2024.
+
+\bibitem{qwen38}
+Qwen.
+\newblock Qwen3.8-27b.
+\newblock Hugging Face, 2026.
+\newblock \url{https://huggingface.co/Qwen/Qwen3.8-27B}.
+
+\bibitem{elhage2021mathematical}
+Nelson Elhage, Neel Nanda, Catherine Olsson, Tom Henighan, Nicholas Joseph, Ben
+  Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Nova DasSarma, Dawn
+  Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Andy Jones, Jackson
+  Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark,
+  Jared Kaplan, Sam McCandlish, and Chris Olah.
+\newblock A mathematical framework for transformer circuits.
+\newblock {\em Transformer Circuits Thread}, 2021.
+\newblock https://transformer-circuits.pub/2021/framework/index.html.
+
+\bibitem{liu2024universal}
+Junteng Liu, Shiqi Chen, Yu~Cheng, and Junxian He.
+\newblock On the universal truthfulness hyperplane inside {LLM}s.
+\newblock In Yaser Al-Onaizan, Mohit Bansal, and Yun-Nung Chen, editors, {\em
+  Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+  Processing}, pages 18199--18224, Miami, Florida, USA, November 2024.
+  Association for Computational Linguistics.
+
+\bibitem{fu2025tokenprepending}
+Yuchen Fu, Zifeng Cheng, Zhiwei Jiang, Zhonghui Wang, Yafeng Yin, Zhengliang
+  Li, and Qing Gu.
+\newblock Token prepending: A training-free approach for eliciting better
+  sentence embeddings from {LLM}s.
+\newblock In Wanxiang Che, Joyce Nabende, Ekaterina Shutova, and Mohammad~Taher
+  Pilehvar, editors, {\em Proceedings of the 63rd Annual Meeting of the
+  {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)},
+  pages 3168--3181, Vienna, Austria, July 2025. Association for Computational
+  Linguistics.
+
+\bibitem{zhao2026rep2text}
+Haiyan Zhao, Zirui He, Yiming Tang, Fan Yang, Ali Payani, Dianbo Liu, and
+  Mengnan Du.
+\newblock Rep2text: Decoding full text from a single llm token representation,
+  2026.
+
+\bibitem{alain2018understanding}
+Guillaume Alain and Yoshua Bengio.
+\newblock Understanding intermediate layers using linear classifier probes.
+\newblock In {\em 5th International Conference on Learning Representations,
+  {ICLR} 2017, Toulon, France, April 24-26, 2017, Workshop Track Proceedings}.
+  OpenReview.net, 2017.
+
+\bibitem{lad2025remarkable}
+Vedang Lad, Jin~Hwa Lee, Wes Gurnee, and Max Tegmark.
+\newblock The remarkable robustness of llms: Stages of inference?, 2025.
+
+\bibitem{li2023halueval}
+Junyi Li, Xiaoxue Cheng, Wayne~Xin Zhao, Jian-Yun Nie, and Ji-Rong Wen.
+\newblock {H}alu{E}val: A large-scale hallucination evaluation benchmark for
+  large language models.
+\newblock In Houda Bouamor, Juan Pino, and Kalika Bali, editors, {\em
+  Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing}, pages 6449--6464, Singapore, December 2023. Association for
+  Computational Linguistics.
+
+\end{thebibliography}

@@ -1,0 +1,1001 @@
+question,answer,type,id
+an albatross is an organism.,yes,factual,bbf-8
+an albatross is a mineral.,no,factual,bbf-56
+an albatross is a forest.,no,factual,bbf-112
+an albatross is an expert.,no,factual,bbf-148
+an albatross is a palm tree.,no,factual,bbf-151
+a computer is more complex than pencil.,yes,factual,bbf-170
+a computer has a disk cache.,yes,factual,bbf-206
+a computer has a monitor.,yes,factual,bbf-209
+a computer is a town.,no,factual,bbf-298
+a computer is africa.,no,factual,bbf-299
+a computer is an airplane.,no,factual,bbf-307
+a computer is a flower.,no,factual,bbf-311
+an ant has a cell.,yes,factual,bbf-391
+an ant is made of cells.,yes,factual,bbf-392
+an adder is one type of animal.,yes,factual,bbf-499
+an adder can sun itself.,yes,factual,bbf-503
+an adder is a machine.,no,factual,bbf-557
+an adder is an ocean.,no,factual,bbf-564
+an adder is a wheel.,no,factual,bbf-589
+an adder is a metal.,no,factual,bbf-603
+an adder is a boat.,no,factual,bbf-614
+an ape is a government.,no,factual,bbf-681
+an ape is a sport.,no,factual,bbf-686
+an ape is fire.,no,factual,bbf-688
+an ape is a dog.,no,factual,bbf-700
+an ape is a vehicle.,no,factual,bbf-719
+an ape is a rodent.,no,factual,bbf-765
+a cypress is an artifact.,no,factual,bbf-829
+a cypress is a deer.,no,factual,bbf-873
+a cypress is a meal.,no,factual,bbf-892
+a cypress is a cheese.,no,factual,bbf-895
+a daffodil is a jellyfish.,no,factual,bbf-1069
+an american bison is a science.,no,factual,bbf-1120
+a baboon is a warm blooded animal.,yes,factual,bbf-1210
+a baboon is a fruit.,no,factual,bbf-1221
+a baboon is a reptile.,no,factual,bbf-1227
+a baboon is a living creature.,yes,factual,bbf-1230
+a baboon is an action.,no,factual,bbf-1259
+a baboon is a lizard.,no,factual,bbf-1276
+a baboon is a building.,no,factual,bbf-1313
+a buck is an amniote.,yes,factual,bbf-1349
+a buck is a bacterium.,no,factual,bbf-1375
+a buck has a cell.,yes,factual,bbf-1381
+a buck is a politician.,no,factual,bbf-1405
+a buck is a wasp.,no,factual,bbf-1429
+a buck is plastic.,no,factual,bbf-1464
+a bull is an air breathing vertebrate.,yes,factual,bbf-1481
+a bull is a herb.,no,factual,bbf-1496
+a bull is a grass.,no,factual,bbf-1605
+a calf can fight for life.,yes,factual,bbf-1641
+a calf has a body part.,yes,factual,bbf-1651
+a calf is soda.,no,factual,bbf-1674
+a calf is a wasp.,no,factual,bbf-1682
+a calf is a protein.,no,factual,bbf-1718
+a camel is a mammal.,yes,factual,bbf-1742
+a camel is a living creature.,yes,factual,bbf-1766
+a camel is a company.,no,factual,bbf-1793
+a camel is an ant.,no,factual,bbf-1812
+a camel is a road.,no,factual,bbf-1835
+a camel is a human being.,no,factual,bbf-1852
+a camel is a politician.,no,factual,bbf-1869
+a carnivore is a living creature.,yes,factual,bbf-1879
+a carnivore is soda.,no,factual,bbf-1960
+a carnivore is a soup.,no,factual,bbf-1978
+a carnivore is a fruit.,no,factual,bbf-1996
+a carp has a distinctive fishy smell.,yes,factual,bbf-2034
+a carp can eat plankton.,yes,factual,bbf-2043
+a carp is a molecule.,no,factual,bbf-2093
+a carp is a location.,no,factual,bbf-2094
+a cat can cleaning itself.,yes,factual,bbf-2194
+a cat can hear mouse near.,yes,factual,bbf-2213
+a cat can catch bird.,yes,factual,bbf-2216
+a cat is a cake.,no,factual,bbf-2286
+a cat is clothes.,no,factual,bbf-2341
+a cat is a computer.,no,factual,bbf-2387
+a cat is water.,no,factual,bbf-2391
+a cheetah is hair.,no,factual,bbf-2452
+a cheetah is a disease.,no,factual,bbf-2455
+a cheetah is an ant.,no,factual,bbf-2482
+a chicken is a living organism.,yes,factual,bbf-2572
+a chicken is soda.,no,factual,bbf-2639
+a chick has feathers.,yes,factual,bbf-2701
+a chick is europe.,no,factual,bbf-2758
+a chimpanzee is an artifact.,no,factual,bbf-2885
+a chimpanzee is a country.,no,factual,bbf-2941
+a chimpanzee is an airplane.,no,factual,bbf-2949
+a cockerel is an organism.,yes,factual,bbf-3008
+a cockerel can move itself about.,yes,factual,bbf-3014
+a cockerel is a bacterium.,no,factual,bbf-3018
+a cockerel is a mineral.,no,factual,bbf-3027
+a cockerel is a president.,no,factual,bbf-3045
+a cockerel is a palm tree.,no,factual,bbf-3061
+a cockerel is a boat.,no,factual,bbf-3114
+a cock has a wing.,yes,factual,bbf-3134
+a cock is rising early.,yes,factual,bbf-3150
+a cock is a company.,no,factual,bbf-3187
+a cock is a liquid.,no,factual,bbf-3193
+a cock is a salad.,no,factual,bbf-3258
+a crocodile can fight for life.,yes,factual,bbf-3298
+a crocodile is water.,no,factual,bbf-3335
+a crocodile is a metal.,no,factual,bbf-3350
+a crocodile is a bridge.,no,factual,bbf-3357
+a crocodile is asia.,no,factual,bbf-3384
+a dog can become pet.,yes,factual,bbf-3441
+a dog can hear whistle.,yes,factual,bbf-3466
+a dog can feed it's babies.,yes,factual,bbf-3490
+a dog can drink liquids.,yes,factual,bbf-3530
+a dog is a fish.,no,factual,bbf-3544
+a dog is a fungus.,no,factual,bbf-3561
+a dog is an artifact.,no,factual,bbf-3569
+a dog is a country.,no,factual,bbf-3590
+a dog is a vehicle.,no,factual,bbf-3610
+a dog is a student.,no,factual,bbf-3617
+a dolphin is a dolphin.,yes,factual,bbf-3653
+a dolphin is hair.,no,factual,bbf-3704
+a dolphin is a wasp.,no,factual,bbf-3721
+a dolphin is a doctor.,no,factual,bbf-3725
+a dolphin is a road.,no,factual,bbf-3765
+a domestic ass is a herb.,no,factual,bbf-3808
+a domestic ass is a continent.,no,factual,bbf-3891
+a domestic ass is a publication.,no,factual,bbf-3897
+a duck can fight for life.,yes,factual,bbf-3962
+a duck is a fungus.,no,factual,bbf-3966
+a duck is a company.,no,factual,bbf-3980
+a duck is a country.,no,factual,bbf-3990
+a duck is a planet.,no,factual,bbf-4003
+a duck is an airplane.,no,factual,bbf-4057
+an eagle is a living organism.,yes,factual,bbf-4111
+an eagle is a virus.,no,factual,bbf-4118
+an eagle is made of cells.,yes,factual,bbf-4124
+an eagle is an artifact.,no,factual,bbf-4127
+an eagle is a lake.,no,factual,bbf-4156
+an eagle is a door.,no,factual,bbf-4197
+an eagle is clothes.,no,factual,bbf-4213
+an eagle is a computer.,no,factual,bbf-4217
+an earthworm is a fungus.,no,factual,bbf-4246
+an earthworm is a bathroom.,no,factual,bbf-4275
+an earthworm is jewelry.,no,factual,bbf-4276
+an earthworm is a salad.,no,factual,bbf-4314
+an earthworm is a wine.,no,factual,bbf-4319
+an elephant is a salad.,no,factual,bbf-4368
+an elephant is a living creature.,yes,factual,bbf-4380
+an elephant is a wheel.,no,factual,bbf-4472
+an elephant is a boat.,no,factual,bbf-4488
+an european wolf spider is fire.,no,factual,bbf-4539
+an european wolf spider is a cake.,no,factual,bbf-4607
+an european wolf spider is a country.,no,factual,bbf-4613
+an european wolf spider is a vegetable.,no,factual,bbf-4624
+a foxhound is a vertebrate.,yes,factual,bbf-4630
+a foxhound can note food.,yes,factual,bbf-4661
+a foxhound is a room.,no,factual,bbf-4704
+a foxhound is an ocean.,no,factual,bbf-4707
+a foxhound is a house.,no,factual,bbf-4721
+a foxhound is a cat.,no,factual,bbf-4722
+a foxhound is a computer.,no,factual,bbf-4746
+a foxhound is a horse.,no,factual,bbf-4756
+a frog has a cell.,yes,factual,bbf-4786
+a frog is a lake.,no,factual,bbf-4811
+a frog is a horse.,no,factual,bbf-4817
+a frog is a metal.,no,factual,bbf-4825
+a frog is a palm tree.,no,factual,bbf-4844
+a frog is an airplane.,no,factual,bbf-4876
+a frog is a drug.,no,factual,bbf-4878
+a frog is a movie.,no,factual,bbf-4883
+a gazelle can eating.,yes,factual,bbf-4915
+a gazelle is a dog.,no,factual,bbf-4961
+a gazelle is africa.,no,factual,bbf-5018
+a gecko is an animal.,yes,factual,bbf-5029
+a gecko is a religion.,no,factual,bbf-5054
+a gecko is hair.,no,factual,bbf-5059
+a gecko is fire.,no,factual,bbf-5063
+a gecko is a publication.,no,factual,bbf-5073
+a gecko is a wheel.,no,factual,bbf-5082
+a gecko is a vegetable.,no,factual,bbf-5083
+a gecko is a student.,no,factual,bbf-5095
+a gecko is a toy.,no,factual,bbf-5150
+a german shepherd can place bone in hole.,yes,factual,bbf-5205
+a german shepherd can circle tree.,yes,factual,bbf-5223
+a german shepherd can mark territory.,yes,factual,bbf-5241
+a german shepherd is a candy.,no,factual,bbf-5279
+a german shepherd can move itself about.,yes,factual,bbf-5299
+a german shepherd has a head.,yes,factual,bbf-5300
+a german shepherd is an ocean.,no,factual,bbf-5356
+a german shepherd is a lake.,no,factual,bbf-5376
+a german shepherd is an ant.,no,factual,bbf-5394
+a giant panda is a salad.,no,factual,bbf-5408
+a giant panda is a cake.,no,factual,bbf-5410
+a giant panda is a city.,no,factual,bbf-5472
+a giant panda is a boat.,no,factual,bbf-5480
+a giant panda is a deer.,no,factual,bbf-5491
+a giraffe is a reptile.,no,factual,bbf-5551
+a giraffe is a mineral.,no,factual,bbf-5574
+a giraffe is clothes.,no,factual,bbf-5600
+a giraffe is a lake.,no,factual,bbf-5601
+a giraffe is an expert.,no,factual,bbf-5610
+a giraffe is a car.,no,factual,bbf-5650
+a hen can chirp.,yes,factual,bbf-5685
+a hen is a mineral.,no,factual,bbf-5717
+a hen is a wine.,no,factual,bbf-5740
+a hen is a building.,no,factual,bbf-5742
+a hen is a room.,no,factual,bbf-5745
+a hippopotamus is a salad.,no,factual,bbf-5829
+a hippopotamus can eating.,yes,factual,bbf-5843
+a hippopotamus is a sport.,no,factual,bbf-5871
+a hippopotamus is a palm tree.,no,factual,bbf-5889
+a hippopotamus is a metal.,no,factual,bbf-5903
+a hippopotamus is an insect.,no,factual,bbf-5907
+a hippopotamus is a president.,no,factual,bbf-5915
+a hippopotamus is soda.,no,factual,bbf-5926
+a horse can wear saddle.,yes,factual,bbf-5996
+a horse can drink when led to water.,yes,factual,bbf-6000
+a horse is a crustacean.,no,factual,bbf-6096
+a hound is a mammal.,yes,factual,bbf-6128
+a hound can breathe.,yes,factual,bbf-6131
+a hound is one among many animals.,yes,factual,bbf-6157
+a hound is a herb.,no,factual,bbf-6264
+a hound is a sound.,no,factual,bbf-6287
+a hound is europe.,no,factual,bbf-6314
+a hound is a wine.,no,factual,bbf-6326
+a howler monkey can drink liquids.,yes,factual,bbf-6374
+a howler monkey is a vegetable.,no,factual,bbf-6387
+a howler monkey is a fish.,no,factual,bbf-6388
+a howler monkey is a science.,no,factual,bbf-6417
+a howler monkey is a door.,no,factual,bbf-6452
+a hummingbird is a human being.,no,factual,bbf-6592
+a hummingbird is water.,no,factual,bbf-6609
+a hummingbird is a car.,no,factual,bbf-6616
+a hummingbird is a palm tree.,no,factual,bbf-6655
+a jaguar can drink liquids.,yes,factual,bbf-6661
+a jaguar is an art.,no,factual,bbf-6706
+a jaguar is a vehicle.,no,factual,bbf-6719
+a jaguar is a toy.,no,factual,bbf-6731
+a jaguar is a leader.,no,factual,bbf-6744
+a ladybug is a government.,no,factual,bbf-6832
+a ladybug is an action.,no,factual,bbf-6836
+a lamb is hair.,no,factual,bbf-6979
+a lamb is a location.,no,factual,bbf-6986
+a lamb is a house.,no,factual,bbf-7007
+a lamb is a vehicle.,no,factual,bbf-7016
+a leopard is a soup.,no,factual,bbf-7078
+a leopard is a living thing.,yes,factual,bbf-7101
+a leopard is a location.,no,factual,bbf-7120
+a leopard is a machine.,no,factual,bbf-7160
+a leopard is a bathroom.,no,factual,bbf-7166
+a lion is a sport.,no,factual,bbf-7249
+a lion is an acid.,no,factual,bbf-7260
+a lion is a doctor.,no,factual,bbf-7270
+a lion is soda.,no,factual,bbf-7273
+a lion is a dog.,no,factual,bbf-7283
+a lion is an insect.,no,factual,bbf-7292
+a livestock is sugar.,no,factual,bbf-7342
+a livestock has a cell.,yes,factual,bbf-7370
+a livestock is a sport.,no,factual,bbf-7383
+a livestock is a machine.,no,factual,bbf-7423
+a livestock is a cat.,no,factual,bbf-7445
+a livestock is a doctor.,no,factual,bbf-7447
+a llama is a warm blooded animal.,yes,factual,bbf-7467
+a llama is a dog.,no,factual,bbf-7540
+a llama is a politician.,no,factual,bbf-7575
+a magpie is a terrestrial organism.,yes,factual,bbf-7602
+a magpie is a biped.,yes,factual,bbf-7607
+a magpie can grow to larger size.,yes,factual,bbf-7624
+a magpie is made of cells.,yes,factual,bbf-7648
+a magpie is a herb.,no,factual,bbf-7676
+a magpie is a city.,no,factual,bbf-7691
+a magpie is a meal.,no,factual,bbf-7719
+a magpie is sugar.,no,factual,bbf-7736
+a magpie is a building.,no,factual,bbf-7746
+a mammal is sugar.,no,factual,bbf-7762
+a mammal is an artifact.,no,factual,bbf-7794
+a mammal is europe.,no,factual,bbf-7810
+a mammal is a body of water.,no,factual,bbf-7833
+a mammal is a wheel.,no,factual,bbf-7878
+a midge is a fungus.,no,factual,bbf-7910
+a midge is a wild animal.,yes,factual,bbf-7913
+a midge is a body of water.,no,factual,bbf-7954
+a midge is a vegetable.,no,factual,bbf-7970
+a mink is a living thing.,yes,factual,bbf-8060
+a mink is a government.,no,factual,bbf-8069
+a mink is a publication.,no,factual,bbf-8107
+a mink is a structure.,no,factual,bbf-8118
+a mink is a grass.,no,factual,bbf-8127
+a mink is a dog.,no,factual,bbf-8131
+a mullet is a mullet.,yes,factual,bbf-8155
+a mullet is a salad.,no,factual,bbf-8166
+a mullet is a mineral.,no,factual,bbf-8198
+a mullet is a religion.,no,factual,bbf-8201
+a mullet is a vehicle.,no,factual,bbf-8230
+a mullet is a building.,no,factual,bbf-8260
+a myna has a head.,yes,factual,bbf-8329
+a myna is an art.,no,factual,bbf-8347
+a myna is a flower.,no,factual,bbf-8370
+a myna is a road.,no,factual,bbf-8375
+a myna is a wasp.,no,factual,bbf-8396
+a myna is a soup.,no,factual,bbf-8415
+a new world blackbird is jewelry.,no,factual,bbf-8546
+a new world blackbird is a boat.,no,factual,bbf-8592
+an oryx is an animal.,yes,factual,bbf-8596
+an oryx is a cake.,no,factual,bbf-8608
+an oryx is a fish.,no,factual,bbf-8613
+an oryx is alive.,yes,factual,bbf-8624
+an oryx is made of cells.,yes,factual,bbf-8636
+an oryx is an artifact.,no,factual,bbf-8639
+an oryx is jewelry.,no,factual,bbf-8693
+an owl can sing to mate.,yes,factual,bbf-8752
+an owl is a jellyfish.,no,factual,bbf-8812
+an ox is a salad.,no,factual,bbf-8893
+an ox is a vegetable.,no,factual,bbf-8899
+an ox is a living organism.,yes,factual,bbf-8910
+an ox is a living thing.,yes,factual,bbf-8921
+an ox can die no more than once.,yes,factual,bbf-8941
+a peacock has a talon.,yes,factual,bbf-9034
+a peacock can fight for life.,yes,factual,bbf-9057
+a peacock is a protein.,no,factual,bbf-9085
+a peacock is a publication.,no,factual,bbf-9087
+a peacock is a wine.,no,factual,bbf-9111
+a peacock is an ocean.,no,factual,bbf-9119
+a peacock is a computer.,no,factual,bbf-9125
+a peacock is a herb.,no,factual,bbf-9131
+a peacock is a body of water.,no,factual,bbf-9132
+a peacock is a drug.,no,factual,bbf-9153
+a peacock is a soup.,no,factual,bbf-9159
+a peacock is a human being.,no,factual,bbf-9160
+a peacock is a river.,no,factual,bbf-9162
+a penguin is a bird.,yes,factual,bbf-9168
+a penguin is a plant.,no,factual,bbf-9215
+a penguin is a liquid.,no,factual,bbf-9234
+a penguin is a dog.,no,factual,bbf-9239
+a penguin is a wine.,no,factual,bbf-9260
+a penguin is an ocean.,no,factual,bbf-9273
+a penguin is a school.,no,factual,bbf-9280
+a pigeon is a feathered animal.,yes,factual,bbf-9336
+a pigeon is an organism.,yes,factual,bbf-9355
+a pigeon is a living organism.,yes,factual,bbf-9359
+a pigeon is a forest.,no,factual,bbf-9406
+a pigeon is an airplane.,no,factual,bbf-9413
+a pigeon is a shop.,no,factual,bbf-9429
+a pigeon is an acid.,no,factual,bbf-9454
+a poodle has two ears.,yes,factual,bbf-9503
+a poodle can enjoy food.,yes,factual,bbf-9536
+a poodle is a deer.,no,factual,bbf-9591
+a poodle has a face.,yes,factual,bbf-9620
+a poodle is a bacterium.,no,factual,bbf-9626
+a poodle is a living thing.,yes,factual,bbf-9631
+a poodle is a government.,no,factual,bbf-9640
+a poodle is an action.,no,factual,bbf-9644
+a poodle is a protein.,no,factual,bbf-9674
+a poodle is a wheel.,no,factual,bbf-9712
+a porcupine can drink liquids.,yes,factual,bbf-9751
+a porcupine is a tree.,no,factual,bbf-9843
+a puppy is a dog.,yes,factual,bbf-9858
+a puppy has legs.,yes,factual,bbf-9867
+a puppy can put paw on knee.,yes,factual,bbf-9880
+a puppy can play with bone.,yes,factual,bbf-9934
+a puppy can cause rabbit to run away.,yes,factual,bbf-9954
+a puppy can play frisbee.,yes,factual,bbf-9959
+a puppy is a living organism.,yes,factual,bbf-10005
+a puppy is a virus.,no,factual,bbf-10011
+a puppy is a city.,no,factual,bbf-10051
+a puppy is a river.,no,factual,bbf-10082
+a rabbit is a fungus.,no,factual,bbf-10140
+a rabbit is an invertebrate.,no,factual,bbf-10142
+a rabbit is a science.,no,factual,bbf-10151
+a rabbit is soda.,no,factual,bbf-10181
+a rabbit is a planet.,no,factual,bbf-10189
+a rabbit is an ant.,no,factual,bbf-10219
+a rabbit is a dog.,no,factual,bbf-10223
+a rat is a small wild mammal.,yes,factual,bbf-10241
+a rat can note food.,yes,factual,bbf-10262
+a rat has hair.,yes,factual,bbf-10270
+a rat is a disease.,no,factual,bbf-10303
+a rat is a planet.,no,factual,bbf-10323
+a rat is a publication.,no,factual,bbf-10334
+a rat is soda.,no,factual,bbf-10354
+a rat is a leader.,no,factual,bbf-10358
+a reptile is made of cells molecules and atoms.,yes,factual,bbf-10383
+a reptile is a liquid.,no,factual,bbf-10416
+a reptile is a fruit.,no,factual,bbf-10434
+a reptile is jewelry.,no,factual,bbf-10457
+a reptile is a human being.,no,factual,bbf-10478
+a reptile is a rodent.,no,factual,bbf-10481
+a reptile is a boat.,no,factual,bbf-10502
+a robin has a wing.,yes,factual,bbf-10510
+a robin has wings.,yes,factual,bbf-10511
+a robin is an art.,no,factual,bbf-10562
+a robin is a location.,no,factual,bbf-10571
+a robin is a leader.,no,factual,bbf-10600
+a salamander is a reptile.,yes,factual,bbf-10656
+a salamander is a living creature.,yes,factual,bbf-10665
+a salamander is a plant.,no,factual,bbf-10679
+a salamander is a cat.,no,factual,bbf-10740
+a salamander is a leader.,no,factual,bbf-10756
+a sparrow hawk is rising early.,yes,factual,bbf-10807
+a sparrow hawk is a cake.,no,factual,bbf-10925
+a sparrow hawk is a horse.,no,factual,bbf-10934
+a sparrow is a virus.,no,factual,bbf-10982
+a sparrow is a government.,no,factual,bbf-10995
+a sparrow is a bridge.,no,factual,bbf-11008
+a sparrow is a movie.,no,factual,bbf-11032
+a sparrow is a cake.,no,factual,bbf-11050
+a squirrel has a head.,yes,factual,bbf-11113
+a squirrel is a planet.,no,factual,bbf-11201
+a starling is a starling.,yes,factual,bbf-11230
+a starling is an oviparous animal.,yes,factual,bbf-11251
+a starling is a forest.,no,factual,bbf-11365
+a starling is a continent.,no,factual,bbf-11375
+a tiger is a liquid.,no,factual,bbf-11439
+a tiger is a crustacean.,no,factual,bbf-11463
+a tiger is a grass.,no,factual,bbf-11467
+a tiger is a wasp.,no,factual,bbf-11470
+a tiger is a school.,no,factual,bbf-11500
+a turkey has a feather.,yes,factual,bbf-11533
+a turkey is rising early.,yes,factual,bbf-11539
+a turkey has a face.,yes,factual,bbf-11553
+a turkey is africa.,no,factual,bbf-11589
+a turkey is a deer.,no,factual,bbf-11599
+a turkey is a fruit.,no,factual,bbf-11607
+a turkey is asia.,no,factual,bbf-11625
+a turkey is a dog.,no,factual,bbf-11645
+a turkey is a boat.,no,factual,bbf-11659
+a turkey is an airplane.,no,factual,bbf-11666
+a turtle is a fish.,no,factual,bbf-11688
+a turtle is an invertebrate.,no,factual,bbf-11706
+a turtle is a salad.,no,factual,bbf-11731
+a turtle is a continent.,no,factual,bbf-11739
+a turtle is a candy.,no,factual,bbf-11784
+a vertebrate is a living organism.,yes,factual,bbf-11817
+a vertebrate has a head.,yes,factual,bbf-11820
+a vertebrate is a bacterium.,no,factual,bbf-11823
+a vertebrate is clothes.,no,factual,bbf-11869
+a vertebrate is a restaurant.,no,factual,bbf-11892
+a vertebrate is an acid.,no,factual,bbf-11899
+a vertebrate is soda.,no,factual,bbf-11911
+a vertebrate is asia.,no,factual,bbf-11921
+a whale has hair.,yes,factual,bbf-11941
+a whale is an air breathing vertebrate.,yes,factual,bbf-11942
+a whale is a movie.,no,factual,bbf-12020
+a whale is a publication.,no,factual,bbf-12038
+a wren has a beak.,yes,factual,bbf-12073
+a wren has feathers.,yes,factual,bbf-12083
+a wren is an invertebrate.,no,factual,bbf-12117
+a wren is an artifact.,no,factual,bbf-12123
+a wren is hair.,no,factual,bbf-12130
+a wren is a politician.,no,factual,bbf-12141
+a wren is a toy.,no,factual,bbf-12219
+a zebra is an animal.,yes,factual,bbf-12224
+a zebra can mate.,yes,factual,bbf-12230
+a zebra is sugar.,no,factual,bbf-12235
+a zebra is a living organism.,yes,factual,bbf-12251
+a zebra is a science.,no,factual,bbf-12270
+a zebra is europe.,no,factual,bbf-12294
+a zebra is a president.,no,factual,bbf-12304
+an oak is a woody plant.,yes,factual,bbf-12364
+an oak is a tracheophyte.,yes,factual,bbf-12396
+an oak has a burl.,yes,factual,bbf-12398
+an oak has a root.,yes,factual,bbf-12406
+an oak is a company.,no,factual,bbf-12425
+an oak is a cake.,no,factual,bbf-12447
+an oak is a protein.,no,factual,bbf-12501
+an orchid is a cake.,no,factual,bbf-12597
+an orchid is a house.,no,factual,bbf-12604
+an orchid is a horse.,no,factual,bbf-12642
+an orchid is a cheese.,no,factual,bbf-12643
+an orchid is a soup.,no,factual,bbf-12644
+a gladiolus is alive.,yes,factual,bbf-12670
+a gladiolus is a herb.,no,factual,bbf-12702
+a gladiolus is a science.,no,factual,bbf-12710
+a gladiolus is a bridge.,no,factual,bbf-12734
+a gladiolus is a leader.,no,factual,bbf-12735
+a gladiolus is a bathroom.,no,factual,bbf-12751
+a gladiolus is a protein.,no,factual,bbf-12797
+a birch can shade from sun.,yes,factual,bbf-12835
+a birch is a herb.,no,factual,bbf-12852
+a birch can have roots.,yes,factual,bbf-12854
+a birch can grow in garden.,yes,factual,bbf-12859
+a birch is a religion.,no,factual,bbf-12870
+a birch is a president.,no,factual,bbf-12902
+a birch is asia.,no,factual,bbf-12910
+a birch is a structure.,no,factual,bbf-12946
+a pine is a plant.,yes,factual,bbf-12968
+a pine can further grow.,yes,factual,bbf-12977
+a pine can grow new branches.,yes,factual,bbf-12986
+a pine can branch out.,yes,factual,bbf-12987
+a pine is alive.,yes,factual,bbf-12999
+a pine is a lake.,no,factual,bbf-13054
+a pine is a bathroom.,no,factual,bbf-13056
+a pine is a vertebrate.,no,factual,bbf-13093
+a pine is a drug.,no,factual,bbf-13100
+a pine is a vegetable.,no,factual,bbf-13108
+a rose can delight person.,yes,factual,bbf-13166
+a rose has a cell.,yes,factual,bbf-13177
+a rose is an artifact.,no,factual,bbf-13181
+a rose is a religion.,no,factual,bbf-13183
+a rose is a molecule.,no,factual,bbf-13194
+a tulip is a jellyfish.,no,factual,bbf-13344
+a tulip is a horse.,no,factual,bbf-13393
+a daisy can spread petals.,yes,factual,bbf-13449
+a daisy is fire.,no,factual,bbf-13478
+a daisy is a human being.,no,factual,bbf-13490
+a daisy is a snake.,no,factual,bbf-13509
+a daisy is a forest.,no,factual,bbf-13535
+a peony is alive.,yes,factual,bbf-13573
+a peony has a carpel.,yes,factual,bbf-13595
+a peony can give nectar to hummingbirds.,yes,factual,bbf-13599
+a peony has a cell.,yes,factual,bbf-13606
+a peony is a sound.,no,factual,bbf-13611
+a peony is a president.,no,factual,bbf-13660
+a peony is a restaurant.,no,factual,bbf-13698
+an albatross is not made of cells molecules and atoms.,no,factual,bbf-13714
+an albatross is not a feathered animal.,no,factual,bbf-13742
+an albatross cannot spread wings.,no,factual,bbf-13743
+an albatross is not a bridge.,yes,factual,bbf-13799
+an albatross is not a vehicle.,yes,factual,bbf-13807
+an albatross is not a horse.,yes,factual,bbf-13818
+a computer cannot calculate.,no,factual,bbf-13907
+a computer cannot answer easy arithmetic questions.,no,factual,bbf-13910
+a computer cannot control model.,no,factual,bbf-13933
+a computer is not a man made object.,no,factual,bbf-13937
+a computer is not a mechanical device.,no,factual,bbf-13940
+a computer is not clothes.,yes,factual,bbf-13948
+a computer is not a religion.,yes,factual,bbf-13956
+a computer is not a planet.,yes,factual,bbf-13981
+a computer is not an ocean.,yes,factual,bbf-13982
+a computer is not a president.,yes,factual,bbf-13991
+a computer is not a salad.,yes,factual,bbf-14031
+an ant is not an animal.,no,factual,bbf-14068
+an ant is not a crustacean.,yes,factual,bbf-14070
+an ant is not a molecule.,yes,factual,bbf-14116
+an ant is not a tree.,yes,factual,bbf-14118
+an ant is not a car.,yes,factual,bbf-14121
+an ant is not water.,yes,factual,bbf-14195
+an adder is not one type of animal.,no,factual,bbf-14207
+an adder is not a sport.,yes,factual,bbf-14253
+an adder is not a planet.,yes,factual,bbf-14271
+an adder is not a deer.,yes,factual,bbf-14285
+an adder is not a grass.,yes,factual,bbf-14289
+an adder is not a wheel.,yes,factual,bbf-14297
+an adder is not a kitchen.,yes,factual,bbf-14308
+an ape is not an organism.,no,factual,bbf-14345
+an ape is not a wheel.,yes,factual,bbf-14439
+a cypress cannot grow.,no,factual,bbf-14478
+a cypress cannot shade from sun.,no,factual,bbf-14504
+a cypress is not a religion.,yes,factual,bbf-14539
+a cypress is not a disease.,yes,factual,bbf-14547
+a cypress is not a president.,yes,factual,bbf-14573
+a cypress is not a mammal.,yes,factual,bbf-14585
+a cypress is not a rodent.,yes,factual,bbf-14636
+a daffodil is not a tree.,yes,factual,bbf-14639
+a daffodil is not a living thing.,no,factual,bbf-14641
+a daffodil cannot drop petals.,no,factual,bbf-14666
+a daffodil cannot blossom.,no,factual,bbf-14667
+a daffodil is not a science.,yes,factual,bbf-14685
+a daffodil is not a leader.,yes,factual,bbf-14719
+an american bison cannot eating.,no,factual,bbf-14806
+an american bison is not a location.,yes,factual,bbf-14839
+an american bison is not a river.,yes,factual,bbf-14857
+an american bison is not a metal.,yes,factual,bbf-14864
+an american bison is not a kitchen.,yes,factual,bbf-14903
+a baboon is not a virus.,yes,factual,bbf-14950
+a baboon is not hair.,yes,factual,bbf-14966
+a baboon is not a carbohydrate.,yes,factual,bbf-14979
+a baboon is not a computer.,yes,factual,bbf-14992
+a buck is not a mammal.,no,factual,bbf-15048
+a buck is not a salad.,yes,factual,bbf-15060
+a buck is not a meal.,yes,factual,bbf-15064
+a bull is not an animal.,no,factual,bbf-15184
+a bull is not a plant.,yes,factual,bbf-15220
+a bull is not a government.,yes,factual,bbf-15231
+a bull is not a town.,yes,factual,bbf-15252
+a bull is not a horse.,yes,factual,bbf-15261
+a bull is not a grass.,yes,factual,bbf-15313
+a calf cannot note food.,no,factual,bbf-15350
+a calf is not a government.,yes,factual,bbf-15365
+a calf is not a grass.,yes,factual,bbf-15405
+a calf is not a drug.,yes,factual,bbf-15411
+a camel is not a living creature.,no,factual,bbf-15474
+a camel is not a mineral.,yes,factual,bbf-15494
+a camel is not a sport.,yes,factual,bbf-15504
+a camel is not a continent.,yes,factual,bbf-15515
+a camel is not a computer.,yes,factual,bbf-15518
+a camel is not a metal.,yes,factual,bbf-15528
+a camel is not a horse.,yes,factual,bbf-15537
+a camel is not a politician.,yes,factual,bbf-15577
+a carnivore is not a molecule.,yes,factual,bbf-15620
+a carnivore is not an insect.,yes,factual,bbf-15660
+a carnivore is not a doctor.,yes,factual,bbf-15682
+a carnivore is not a kitchen.,yes,factual,bbf-15684
+a carp does not have a tail.,no,factual,bbf-15736
+a carp does not have a milt.,no,factual,bbf-15737
+a carp is not a door.,yes,factual,bbf-15808
+a carp is not an ocean.,yes,factual,bbf-15843
+a cat cannot catch mouse.,no,factual,bbf-15954
+a cat is not made of cells molecules and atoms.,no,factual,bbf-16003
+a cat does not have a face.,no,factual,bbf-16008
+a cat is not a plant.,yes,factual,bbf-16018
+a cat is not a liquid.,yes,factual,bbf-16037
+a cat is not a continent.,yes,factual,bbf-16066
+a cat is not a protein.,yes,factual,bbf-16083
+a cat is not a kitchen utensil.,yes,factual,bbf-16093
+a cat is not a country.,yes,factual,bbf-16100
+a cheetah cannot drink liquids.,no,factual,bbf-16113
+a cheetah is not a vegetable.,yes,factual,bbf-16126
+a cheetah cannot move itself about.,no,factual,bbf-16139
+a cheetah is not a government.,yes,factual,bbf-16157
+a cheetah is not a publication.,yes,factual,bbf-16181
+a cheetah is not a body of water.,yes,factual,bbf-16226
+a cheetah is not africa.,yes,factual,bbf-16235
+a chicken is not a biped.,no,factual,bbf-16252
+a chicken does not have an air sac.,no,factual,bbf-16267
+a chicken is not an organism.,no,factual,bbf-16276
+a chicken is not a fruit.,yes,factual,bbf-16318
+a chicken is not a tree.,yes,factual,bbf-16334
+a chick is not a feathered animal.,no,factual,bbf-16410
+a chick is not a science.,yes,factual,bbf-16452
+a chick cannot die no more than once.,no,factual,bbf-16464
+a chick is not a forest.,yes,factual,bbf-16490
+a chick is not water.,yes,factual,bbf-16501
+a chick is not a vehicle.,yes,factual,bbf-16510
+a chick is not a boat.,yes,factual,bbf-16514
+a chick is not a president.,yes,factual,bbf-16539
+a chimpanzee is not a warm blooded animal.,no,factual,bbf-16552
+a chimpanzee is not a soup.,yes,factual,bbf-16565
+a chimpanzee is not a bird.,yes,factual,bbf-16568
+a chimpanzee is not a cat.,yes,factual,bbf-16613
+a chimpanzee is not a wheel.,yes,factual,bbf-16643
+a cockerel is not an air breathing vertebrate.,no,factual,bbf-16688
+a cockerel cannot travel across world.,no,factual,bbf-16708
+a cockerel cannot eating.,no,factual,bbf-16717
+a cockerel is not a bacterium.,yes,factual,bbf-16726
+a cockerel is not a president.,yes,factual,bbf-16753
+a cockerel is not a salad.,yes,factual,bbf-16758
+a cockerel is not a politician.,yes,factual,bbf-16779
+a cockerel is not a student.,yes,factual,bbf-16798
+a cock is not an animal.,no,factual,bbf-16837
+a cock is not a biped.,no,factual,bbf-16845
+a cock is not a candy.,yes,factual,bbf-16929
+a cock is not plastic.,yes,factual,bbf-16975
+a cock is not a carbohydrate.,yes,factual,bbf-16981
+a cock is not a bathroom.,yes,factual,bbf-16986
+a crocodile is not a mineral.,yes,factual,bbf-17016
+a crocodile is not a rodent.,yes,factual,bbf-17070
+a dog cannot breathe.,no,factual,bbf-17122
+a dog does not have fur.,no,factual,bbf-17135
+a dog cannot stand on two legs.,no,factual,bbf-17213
+a dog cannot guide blind woman.,no,factual,bbf-17228
+a dog is not a warm blooded animal.,no,factual,bbf-17237
+a dog is not a science.,yes,factual,bbf-17280
+a dog is not a wine.,yes,factual,bbf-17352
+a dog is not a drug.,yes,factual,bbf-17358
+a dolphin cannot mate.,no,factual,bbf-17368
+a domestic ass cannot note food.,no,factual,bbf-17528
+a domestic ass is not a virus.,yes,factual,bbf-17530
+a domestic ass is not a plant.,yes,factual,bbf-17532
+a domestic ass is not a door.,yes,factual,bbf-17561
+a domestic ass is not a wasp.,yes,factual,bbf-17569
+a domestic ass is not a protein.,yes,factual,bbf-17575
+a domestic ass is not a school.,yes,factual,bbf-17581
+a domestic ass is not a country.,yes,factual,bbf-17582
+a domestic ass is not an acid.,yes,factual,bbf-17603
+a domestic ass is not a bathroom.,yes,factual,bbf-17609
+a domestic ass is not a kitchen utensil.,yes,factual,bbf-17610
+a domestic ass is not a shop.,yes,factual,bbf-17612
+a domestic ass is not a town.,yes,factual,bbf-17624
+a duck is not a religion.,yes,factual,bbf-17684
+a duck is not a company.,yes,factual,bbf-17688
+a duck cannot die no more than once.,no,factual,bbf-17697
+a duck is not plastic.,yes,factual,bbf-17710
+a duck is not a meal.,yes,factual,bbf-17723
+a duck is not a candy.,yes,factual,bbf-17730
+an eagle is not an eagle.,no,factual,bbf-17782
+an eagle is not rising early.,no,factual,bbf-17804
+an eagle is not a vegetable.,yes,factual,bbf-17856
+an eagle is not a cake.,yes,factual,bbf-17863
+an eagle is not a turtle.,yes,factual,bbf-17879
+an eagle is not a continent.,yes,factual,bbf-17904
+an eagle is not a car.,yes,factual,bbf-17926
+an earthworm is not a living thing.,no,factual,bbf-17956
+an earthworm is not a religion.,yes,factual,bbf-17963
+an earthworm is not a liquid.,yes,factual,bbf-17973
+an earthworm is not a restaurant.,yes,factual,bbf-17978
+an earthworm is not a country.,yes,factual,bbf-18007
+an earthworm is not a bicycle.,yes,factual,bbf-18045
+an elephant is not a room.,yes,factual,bbf-18170
+an european wolf spider is not a vertebrate.,yes,factual,bbf-18230
+an european wolf spider is not a computer.,yes,factual,bbf-18269
+an european wolf spider is not a school.,yes,factual,bbf-18300
+a foxhound is not a cheese.,yes,factual,bbf-18346
+a foxhound is not sugar.,yes,factual,bbf-18348
+a foxhound is not a vegetable.,yes,factual,bbf-18353
+a foxhound is not a living organism.,no,factual,bbf-18364
+a foxhound is not an expert.,yes,factual,bbf-18399
+a foxhound is not a restaurant.,yes,factual,bbf-18407
+a foxhound is not europe.,yes,factual,bbf-18437
+a foxhound is not a movie.,yes,factual,bbf-18441
+a frog cannot fight for life.,no,factual,bbf-18487
+a frog is not fire.,yes,factual,bbf-18509
+a frog is not a river.,yes,factual,bbf-18529
+a frog is not a publication.,yes,factual,bbf-18540
+a frog is not a country.,yes,factual,bbf-18560
+a frog is not a bathroom.,yes,factual,bbf-18564
+a gazelle is not a warm blooded animal.,no,factual,bbf-18601
+a gazelle is not a meal.,yes,factual,bbf-18613
+a gazelle is not a living organism.,no,factual,bbf-18626
+a gazelle is not a government.,yes,factual,bbf-18646
+a gazelle is not a bicycle.,yes,factual,bbf-18670
+a gazelle is not a movie.,yes,factual,bbf-18691
+a gazelle is not a flower.,yes,factual,bbf-18694
+a gazelle is not a forest.,yes,factual,bbf-18715
+a gazelle is not a structure.,yes,factual,bbf-18730
+a gecko is not a mineral.,yes,factual,bbf-18759
+a gecko is not a politician.,yes,factual,bbf-18788
+a gecko is not a road.,yes,factual,bbf-18851
+a german shepherd cannot chase ball.,no,factual,bbf-18928
+a german shepherd does not have a face.,no,factual,bbf-19005
+a german shepherd is not a boat.,yes,factual,bbf-19046
+a german shepherd is not a kitchen utensil.,yes,factual,bbf-19062
+a giant panda is not a mammal.,no,factual,bbf-19104
+a giant panda is not a bridge.,yes,factual,bbf-19212
+a giant panda is not a forest.,yes,factual,bbf-19221
+a giant panda is not plastic.,yes,factual,bbf-19228
+a giant panda is not an expert.,yes,factual,bbf-19237
+a giraffe is not a reptile.,yes,factual,bbf-19259
+a giraffe is not a leader.,yes,factual,bbf-19300
+a giraffe is not an expert.,yes,factual,bbf-19318
+a hen does not have a feather.,no,factual,bbf-19389
+a hen is not food.,yes,factual,bbf-19482
+a hippopotamus does not have a body part.,no,factual,bbf-19568
+a hippopotamus is not a wheel.,yes,factual,bbf-19627
+a hippopotamus is not a country.,yes,factual,bbf-19637
+a horse does not have hair.,no,factual,bbf-19665
+a horse does not have a horsemeat.,no,factual,bbf-19686
+a horse is not a cat.,yes,factual,bbf-19725
+a horse is not a living thing.,no,factual,bbf-19744
+a horse is not a tree.,yes,factual,bbf-19765
+a horse is not a leader.,yes,factual,bbf-19769
+a horse is not a vehicle.,yes,factual,bbf-19772
+a horse is not jewelry.,yes,factual,bbf-19802
+a hound is not a hound.,no,factual,bbf-19833
+a hound cannot wag tail.,no,factual,bbf-19855
+a hound cannot become pet.,no,factual,bbf-19866
+a hound cannot sense danger.,no,factual,bbf-19879
+a hound cannot listen to master.,no,factual,bbf-19899
+a hound cannot mother it's young.,no,factual,bbf-19921
+a hound is not a vegetable.,yes,factual,bbf-19968
+a hound is not a mineral.,yes,factual,bbf-19993
+a hound is not hair.,yes,factual,bbf-20001
+a hound is not a lake.,yes,factual,bbf-20020
+a hound is not a country.,yes,factual,bbf-20040
+a hound is not a bicycle.,yes,factual,bbf-20054
+a hound is not a computer.,yes,factual,bbf-20061
+a hound is not a lizard.,yes,factual,bbf-20067
+a hound is not a city.,yes,factual,bbf-20073
+a howler monkey is not a plant.,yes,factual,bbf-20115
+a howler monkey is not an art.,yes,factual,bbf-20127
+a howler monkey is not a wasp.,yes,factual,bbf-20173
+a howler monkey is not a president.,yes,factual,bbf-20198
+a hummingbird does not have two legs.,no,factual,bbf-20220
+a hummingbird is not a feathered animal.,no,factual,bbf-20226
+a hummingbird cannot sing to other birds.,no,factual,bbf-20239
+a hummingbird is not a lake.,yes,factual,bbf-20285
+a hummingbird is not a protein.,yes,factual,bbf-20308
+a hummingbird is not a room.,yes,factual,bbf-20315
+a hummingbird is not a river.,yes,factual,bbf-20327
+a hummingbird is not a country.,yes,factual,bbf-20337
+a jaguar is not a warm blooded animal.,no,factual,bbf-20368
+a jaguar is not a politician.,yes,factual,bbf-20436
+a jaguar is not a wine.,yes,factual,bbf-20454
+a jaguar is not a forest.,yes,factual,bbf-20492
+a jaguar is not a drug.,yes,factual,bbf-20494
+a ladybug is not a virus.,yes,factual,bbf-20524
+a ladybug is not an art.,yes,factual,bbf-20541
+a ladybug is not a deer.,yes,factual,bbf-20619
+a ladybug is not a toy.,yes,factual,bbf-20625
+a lamb is not a fish.,yes,factual,bbf-20654
+a lamb is not a molecule.,yes,factual,bbf-20693
+a lamb is not a protein.,yes,factual,bbf-20704
+a leopard is not a cheese.,yes,factual,bbf-20780
+a leopard is not a government.,yes,factual,bbf-20818
+a leopard is not a flower.,yes,factual,bbf-20873
+a lion is not a mammal.,no,factual,bbf-20903
+a lion is not a living creature.,no,factual,bbf-20927
+a lion is not a liquid.,yes,factual,bbf-20960
+a lion is not an acid.,yes,factual,bbf-20968
+a lion is not a carbohydrate.,yes,factual,bbf-21006
+a lion is not a toy.,yes,factual,bbf-21007
+a lion is not a school.,yes,factual,bbf-21008
+a lion is not a room.,yes,factual,bbf-21034
+a livestock is not a livestock.,no,factual,bbf-21038
+a livestock does not have hair.,no,factual,bbf-21043
+a livestock is not a salad.,yes,factual,bbf-21049
+a livestock is not a living thing.,no,factual,bbf-21077
+a livestock is not hair.,yes,factual,bbf-21089
+a livestock is not an action.,yes,factual,bbf-21090
+a livestock is not an acid.,yes,factual,bbf-21107
+a livestock is not a cat.,yes,factual,bbf-21153
+a livestock is not a rodent.,yes,factual,bbf-21163
+a llama does not have hair.,no,factual,bbf-21177
+a llama is not a candy.,yes,factual,bbf-21181
+a llama is not a molecule.,yes,factual,bbf-21229
+a llama is not a door.,yes,factual,bbf-21238
+a llama is not a country.,yes,factual,bbf-21274
+a magpie is not a magpie.,no,factual,bbf-21306
+a magpie is not a molecule.,yes,factual,bbf-21372
+a magpie is not a computer.,yes,factual,bbf-21375
+a magpie is not a cat.,yes,factual,bbf-21412
+a magpie is not a bicycle.,yes,factual,bbf-21419
+a magpie is not a meal.,yes,factual,bbf-21427
+a mammal is not a salad.,yes,factual,bbf-21469
+a mammal is not a cake.,yes,factual,bbf-21471
+a mammal is not a fungus.,yes,factual,bbf-21494
+a midge cannot live.,no,factual,bbf-21608
+a midge is not a lizard.,yes,factual,bbf-21644
+a midge is not a kitchen utensil.,yes,factual,bbf-21693
+a mink cannot mate.,no,factual,bbf-21736
+a mink is not a living creature.,no,factual,bbf-21752
+a mink is not a fungus.,yes,factual,bbf-21765
+a mink is not an action.,yes,factual,bbf-21781
+a mink is not a kitchen.,yes,factual,bbf-21801
+a mink is not a bridge.,yes,factual,bbf-21827
+a mullet is not a meal.,yes,factual,bbf-21878
+a mullet is not a living organism.,no,factual,bbf-21891
+a mullet is not a machine.,yes,factual,bbf-21944
+a mullet is not a river.,yes,factual,bbf-21982
+a myna is not a mammal.,yes,factual,bbf-22027
+a myna is not a vehicle.,yes,factual,bbf-22068
+a myna is not a cheese.,yes,factual,bbf-22069
+a myna is not a continent.,yes,factual,bbf-22130
+a myna is not a rodent.,yes,factual,bbf-22133
+a new world blackbird is not a terrestrial organism.,no,factual,bbf-22154
+a new world blackbird does not have a wing.,no,factual,bbf-22156
+a new world blackbird is not an invertebrate.,yes,factual,bbf-22197
+a new world blackbird is not a sound.,yes,factual,bbf-22204
+a new world blackbird is not a government.,yes,factual,bbf-22207
+a new world blackbird is not africa.,yes,factual,bbf-22229
+a new world blackbird is not a shop.,yes,factual,bbf-22261
+a new world blackbird is not plastic.,yes,factual,bbf-22294
+an oryx is not a mineral.,yes,factual,bbf-22346
+an oryx is not a shop.,yes,factual,bbf-22373
+an oryx is not jewelry.,yes,factual,bbf-22401
+an oryx is not a publication.,yes,factual,bbf-22422
+an oryx is not a leader.,yes,factual,bbf-22423
+an owl cannot injur it's wing if falls.,no,factual,bbf-22454
+an owl is not a sound.,yes,factual,bbf-22491
+an owl is not a crustacean.,yes,factual,bbf-22533
+an owl is not a toy.,yes,factual,bbf-22562
+an ox does not have a body part.,no,factual,bbf-22632
+an ox is not an artifact.,yes,factual,bbf-22634
+an ox is not a shop.,yes,factual,bbf-22652
+an ox is not a forest.,yes,factual,bbf-22711
+an ox is not a building.,yes,factual,bbf-22712
+a peacock is not made of cells molecules and atoms.,no,factual,bbf-22755
+a peacock is not a human being.,yes,factual,bbf-22868
+a penguin is not a vertebrate.,no,factual,bbf-22879
+a penguin is not an oviparous animal.,no,factual,bbf-22898
+a penguin is not a molecule.,yes,factual,bbf-22943
+a penguin is not a snake.,yes,factual,bbf-22949
+a penguin is not a vegetable.,yes,factual,bbf-22966
+a penguin is not a building.,yes,factual,bbf-22979
+a penguin is not an expert.,yes,factual,bbf-22998
+a penguin is not a town.,yes,factual,bbf-23013
+a penguin is not a crustacean.,yes,factual,bbf-23019
+a pigeon is not a feathered animal.,no,factual,bbf-23044
+a pigeon is not made of cells molecules and atoms.,no,factual,bbf-23061
+a pigeon is not made of cells.,no,factual,bbf-23080
+a pigeon is not fire.,yes,factual,bbf-23094
+a pigeon is not water.,yes,factual,bbf-23125
+a pigeon is not a lizard.,yes,factual,bbf-23130
+a pigeon is not a metal.,yes,factual,bbf-23159
+a pigeon is not a lake.,yes,factual,bbf-23179
+a poodle cannot wag tail.,no,factual,bbf-23205
+a poodle cannot bark at strangers.,no,factual,bbf-23219
+a poodle is not a cat.,yes,factual,bbf-23300
+a poodle is not a virus.,yes,factual,bbf-23335
+a poodle is not a science.,yes,factual,bbf-23347
+a poodle is not a drug.,yes,factual,bbf-23411
+a poodle is not a carbohydrate.,yes,factual,bbf-23424
+a porcupine cannot note food.,no,factual,bbf-23452
+a porcupine is not a restaurant.,yes,factual,bbf-23535
+a porcupine is not a structure.,yes,factual,bbf-23550
+a porcupine is not a vehicle.,yes,factual,bbf-23554
+a puppy is not a four legged animal.,no,factual,bbf-23585
+a puppy does not have two ears.,no,factual,bbf-23595
+a puppy cannot mark territory.,no,factual,bbf-23656
+a puppy cannot cover hole in ground.,no,factual,bbf-23676
+a puppy is not a vertebrate.,no,factual,bbf-23687
+a puppy does not have a face.,no,factual,bbf-23712
+a puppy is not a bacterium.,yes,factual,bbf-23718
+a puppy is not a school.,yes,factual,bbf-23763
+a rabbit is not sugar.,yes,factual,bbf-23824
+a rabbit is not a fruit.,yes,factual,bbf-23826
+a rabbit cannot live.,no,factual,bbf-23838
+a rabbit is not an action.,yes,factual,bbf-23864
+a rabbit is not a lizard.,yes,factual,bbf-23905
+a rat is not a location.,yes,factual,bbf-24015
+a rat is not a car.,yes,factual,bbf-24041
+a rat is not a shop.,yes,factual,bbf-24052
+a rat is not a palm tree.,yes,factual,bbf-24064
+a reptile cannot die no more than once.,no,factual,bbf-24127
+a reptile is not a vegetable.,yes,factual,bbf-24185
+a robin is not an organism.,no,factual,bbf-24245
+a robin is not a computer.,yes,factual,bbf-24290
+a robin is not a drug.,yes,factual,bbf-24301
+a salamander is not a mineral.,yes,factual,bbf-24392
+a salamander is not a president.,yes,factual,bbf-24447
+a salamander is not a river.,yes,factual,bbf-24455
+a salamander is not a planet.,yes,factual,bbf-24463
+a sparrow hawk cannot sing to mate.,no,factual,bbf-24516
+a sparrow hawk cannot live.,no,factual,bbf-24528
+a sparrow hawk is not a disease.,yes,factual,bbf-24556
+a sparrow hawk is not a planet.,yes,factual,bbf-24563
+a sparrow hawk is not a wheel.,yes,factual,bbf-24585
+a sparrow hawk is not a cat.,yes,factual,bbf-24596
+a sparrow hawk is not a palm tree.,yes,factual,bbf-24609
+a sparrow hawk is not an insect.,yes,factual,bbf-24629
+a sparrow does not have a feather.,no,factual,bbf-24662
+a sparrow does not have an air sac.,no,factual,bbf-24670
+a sparrow is not a plant.,yes,factual,bbf-24692
+a sparrow cannot die no more than once.,no,factual,bbf-24714
+a sparrow is not a doctor.,yes,factual,bbf-24783
+a sparrow is not a continent.,yes,factual,bbf-24789
+a squirrel is not a human being.,yes,factual,bbf-24811
+a squirrel is not a religion.,yes,factual,bbf-24856
+a starling is not a body of water.,yes,factual,bbf-25010
+a starling is not a cat.,yes,factual,bbf-25021
+a starling is not asia.,yes,factual,bbf-25038
+a starling is not a dog.,yes,factual,bbf-25043
+a starling is not an ant.,yes,factual,bbf-25059
+a starling is not a crustacean.,yes,factual,bbf-25070
+a tiger is not an animal.,no,factual,bbf-25092
+a tiger is not a salad.,yes,factual,bbf-25102
+a tiger is not made of cells molecules and atoms.,no,factual,bbf-25113
+a tiger cannot live.,no,factual,bbf-25117
+a tiger is not a lizard.,yes,factual,bbf-25205
+a turkey is not an organism.,no,factual,bbf-25258
+a turkey is not a virus.,yes,factual,bbf-25269
+a turkey is not an invertebrate.,yes,factual,bbf-25272
+a turkey is not a lake.,yes,factual,bbf-25309
+a turkey is not a bridge.,yes,factual,bbf-25371
+a turkey is not a town.,yes,factual,bbf-25373
+a turtle is not a reptile.,no,factual,bbf-25377
+a turtle is not made of cells.,no,factual,bbf-25417
+a turtle is not clothes.,yes,factual,bbf-25490
+a vertebrate is not made of cells.,no,factual,bbf-25537
+a vertebrate is not a crustacean.,yes,factual,bbf-25562
+a vertebrate is not sugar.,yes,factual,bbf-25593
+a vertebrate is not a politician.,yes,factual,bbf-25613
+a vertebrate is not a kitchen.,yes,factual,bbf-25632
+a whale is not a vertebrate.,no,factual,bbf-25646
+a whale is not a sport.,yes,factual,bbf-25697
+a whale is not a drug.,yes,factual,bbf-25712
+a whale is not a cat.,yes,factual,bbf-25726
+a whale is not a kitchen utensil.,yes,factual,bbf-25752
+a whale is not a boat.,yes,factual,bbf-25766
+a zebra is not a cake.,yes,factual,bbf-25944
+a zebra is not made of cells molecules and atoms.,no,factual,bbf-25953
+a zebra is not an ocean.,yes,factual,bbf-25993
+a zebra is not a cat.,yes,factual,bbf-26003
+an oak cannot branch out.,no,factual,bbf-26083
+an oak is not a grass.,yes,factual,bbf-26109
+an oak is not a liquid.,yes,factual,bbf-26139
+an oak is not a bird.,yes,factual,bbf-26145
+an oak is not a wasp.,yes,factual,bbf-26157
+an oak is not clothes.,yes,factual,bbf-26182
+an orchid does not have a root.,no,factual,bbf-26234
+an orchid cannot suffering dehydration.,no,factual,bbf-26238
+an orchid does not have an ovary.,no,factual,bbf-26247
+an orchid does not have a cell.,no,factual,bbf-26268
+an orchid is not a disease.,yes,factual,bbf-26282
+an orchid is not an ant.,yes,factual,bbf-26314
+a gladiolus is not a tree.,yes,factual,bbf-26406
+a gladiolus is not a science.,yes,factual,bbf-26418
+a gladiolus is not a wine.,yes,factual,bbf-26448
+a gladiolus is not a horse.,yes,factual,bbf-26456
+a gladiolus is not water.,yes,factual,bbf-26476
+a birch is not a kitchen.,yes,factual,bbf-26613
+a birch is not a machine.,yes,factual,bbf-26621
+a birch is not a wheel.,yes,factual,bbf-26625
+a birch is not a mammal.,yes,factual,bbf-26669
+a pine cannot die from pollution.,no,factual,bbf-26682
+a pine cannot branch in several directions.,no,factual,bbf-26692
+a pine cannot move in wind.,no,factual,bbf-26703
+a pine is not an artifact.,yes,factual,bbf-26739
+a pine is not a cat.,yes,factual,bbf-26769
+a pine is not asia.,yes,factual,bbf-26788
+a pine is not an insect.,yes,factual,bbf-26794
+a rose is not a crustacean.,yes,factual,bbf-26914
+a rose is not a mammal.,yes,factual,bbf-26950
+a tulip is not a fruit.,yes,factual,bbf-27025
+a tulip is not an artifact.,yes,factual,bbf-27032
+a tulip is not an art.,yes,factual,bbf-27037
+a tulip is not a restaurant.,yes,factual,bbf-27053
+a daisy is not an angiosperm.,no,factual,bbf-27153
+a daisy is not a liquid.,yes,factual,bbf-27187
+a daisy is not a wasp.,yes,factual,bbf-27197
+a daisy is not soda.,yes,factual,bbf-27208
+a peony is not part of plant.,no,factual,bbf-27295
+a peony does not have a body part.,no,factual,bbf-27316
+a peony is not food.,yes,factual,bbf-27365
+a peony is not a cheese.,yes,factual,bbf-27399
+a peony is not water.,yes,factual,bbf-27415

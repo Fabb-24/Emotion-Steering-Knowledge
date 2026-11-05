@@ -1,0 +1,1001 @@
+question,answer,type,id,pair
+"If a computer is a tree, then a computer can grow",yes,logical,bbc-16,8
+"If a computer is a tree, then a computer cannot grow",no,logical,bbc-17,8
+"If a cypress is a tree, then a cypress has a trunk",yes,logical,bbc-66,33
+"If a cypress is a tree, then a cypress does not have a trunk",no,logical,bbc-67,33
+"If a cypress is a tree, then a cypress is a woody plant",yes,logical,bbc-94,47
+"If a cypress is a tree, then a cypress is not a woody plant",no,logical,bbc-95,47
+"If a computer is a tree, then a computer can branch in several directions",yes,logical,bbc-198,99
+"If a computer is a tree, then a computer cannot branch in several directions",no,logical,bbc-199,99
+"If an ape is a tree, then an ape can branch in several directions",yes,logical,bbc-204,102
+"If an ape is a tree, then an ape cannot branch in several directions",no,logical,bbc-205,102
+"If a computer is a tree, then a computer can grow new branches",yes,logical,bbc-226,113
+"If a computer is a tree, then a computer cannot grow new branches",no,logical,bbc-227,113
+"If an ant is a tree, then an ant has a bark",yes,logical,bbc-270,135
+"If an ant is a tree, then an ant does not have a bark",no,logical,bbc-271,135
+"If an ant is a tree, then an ant has leaves on branches",yes,logical,bbc-298,149
+"If an ant is a tree, then an ant does not have leaves on branches",no,logical,bbc-299,149
+"If an ape is a tree, then an ape can shade from sun",yes,logical,bbc-400,200
+"If an ape is a tree, then an ape cannot shade from sun",no,logical,bbc-401,200
+"If a computer is a tree, then a computer has a limb",yes,logical,bbc-436,218
+"If a computer is a tree, then a computer does not have a limb",no,logical,bbc-437,218
+"If an ape is a tree, then an ape has a limb",yes,logical,bbc-442,221
+"If an ape is a tree, then an ape does not have a limb",no,logical,bbc-443,221
+"If an ant is a tree, then an ant is wood",yes,logical,bbc-494,247
+"If an ant is a tree, then an ant is not wood",no,logical,bbc-495,247
+"If an adder is a tree, then an adder is made of leaves",yes,logical,bbc-580,290
+"If an adder is a tree, then an adder is not made of leaves",no,logical,bbc-581,290
+"If a daffodil is a tree, then a daffodil is made of leaves",yes,logical,bbc-586,293
+"If a daffodil is a tree, then a daffodil is not made of leaves",no,logical,bbc-587,293
+"If an adder is food, then an adder is what people eat",yes,logical,bbc-608,304
+"If an adder is food, then an adder is not what people eat",no,logical,bbc-609,304
+"If an ape is food, then an ape can please hungry person",yes,logical,bbc-622,311
+"If an ape is food, then an ape cannot please hungry person",no,logical,bbc-623,311
+"If an ant is food, then an ant can cost money",yes,logical,bbc-714,357
+"If an ant is food, then an ant cannot cost money",no,logical,bbc-715,357
+"If a cypress is food, then a cypress can cost money",yes,logical,bbc-720,360
+"If a cypress is food, then a cypress cannot cost money",no,logical,bbc-721,360
+"If an albatross is food, then an albatross is nice to eat",yes,logical,bbc-758,379
+"If an albatross is food, then an albatross is not nice to eat",no,logical,bbc-759,379
+"If an albatross is food, then an albatross is a liquid",no,logical,bbc-770,385
+"If an albatross is food, then an albatross is not a liquid",yes,logical,bbc-771,385
+"If a cypress is food, then a cypress is a molecule",no,logical,bbc-792,396
+"If a cypress is food, then a cypress is not a molecule",yes,logical,bbc-793,396
+"If an ant is food, then an ant is a government",no,logical,bbc-858,429
+"If an ant is food, then an ant is not a government",yes,logical,bbc-859,429
+"If a computer is food, then a computer is an art",no,logical,bbc-868,434
+"If a computer is food, then a computer is not an art",yes,logical,bbc-869,434
+"If a cypress is food, then a cypress is hair",no,logical,bbc-900,450
+"If a cypress is food, then a cypress is not hair",yes,logical,bbc-901,450
+"If a computer is a computer, then a computer is a computational system",yes,logical,bbc-1036,518
+"If a computer is a computer, then a computer is not a computational system",no,logical,bbc-1037,518
+"If an ape is a computer, then an ape can increase number",yes,logical,bbc-1076,538
+"If an ape is a computer, then an ape cannot increase number",no,logical,bbc-1077,538
+"If a daffodil is a computer, then a daffodil can arithmetic",yes,logical,bbc-1248,624
+"If a daffodil is a computer, then a daffodil cannot arithmetic",no,logical,bbc-1249,624
+"If an ape is a computer, then an ape is a complex tool",yes,logical,bbc-1448,724
+"If an ape is a computer, then an ape is not a complex tool",no,logical,bbc-1449,724
+"If an adder is a computer, then an adder can mine data",yes,logical,bbc-1482,741
+"If an adder is a computer, then an adder cannot mine data",no,logical,bbc-1483,741
+"If a daffodil is a computer, then a daffodil can mine data",yes,logical,bbc-1488,744
+"If a daffodil is a computer, then a daffodil cannot mine data",no,logical,bbc-1489,744
+"If an adder is a computer, then an adder has a display",yes,logical,bbc-1494,747
+"If an adder is a computer, then an adder does not have a display",no,logical,bbc-1495,747
+"If an ape is a computer, then an ape can surf internet",yes,logical,bbc-1544,772
+"If an ape is a computer, then an ape cannot surf internet",no,logical,bbc-1545,772
+"If an albatross is a computer, then an albatross is useful",yes,logical,bbc-1622,811
+"If an albatross is a computer, then an albatross is not useful",no,logical,bbc-1623,811
+"If a daffodil is a computer, then a daffodil has a computer accessory",yes,logical,bbc-1656,828
+"If a daffodil is a computer, then a daffodil does not have a computer accessory",no,logical,bbc-1657,828
+"If a cypress is a computer, then a cypress has a mouse",yes,logical,bbc-1678,839
+"If a cypress is a computer, then a cypress does not have a mouse",no,logical,bbc-1679,839
+"If an ape is a computer, then an ape is a vehicle",no,logical,bbc-1700,850
+"If an ape is a computer, then an ape is not a vehicle",yes,logical,bbc-1701,850
+"If a daffodil is a car, then a daffodil is a manufactured product",yes,logical,bbc-1854,927
+"If a daffodil is a car, then a daffodil is not a manufactured product",no,logical,bbc-1855,927
+"If a daffodil is a car, then a daffodil has windows",yes,logical,bbc-1934,967
+"If a daffodil is a car, then a daffodil does not have windows",no,logical,bbc-1935,967
+"If an albatross is a car, then an albatross can serve to transport",yes,logical,bbc-1986,993
+"If an albatross is a car, then an albatross cannot serve to transport",no,logical,bbc-1987,993
+"If a daffodil is a car, then a daffodil can travel down road",yes,logical,bbc-2004,1002
+"If a daffodil is a car, then a daffodil cannot travel down road",no,logical,bbc-2005,1002
+"If an ape is a car, then an ape can seat riders",yes,logical,bbc-2012,1006
+"If an ape is a car, then an ape cannot seat riders",no,logical,bbc-2013,1006
+"If a computer is a car, then a computer is a vehicle",yes,logical,bbc-2078,1039
+"If a computer is a car, then a computer is not a vehicle",no,logical,bbc-2079,1039
+"If an ant is a car, then an ant has an engine",yes,logical,bbc-2170,1085
+"If an ant is a car, then an ant does not have an engine",no,logical,bbc-2171,1085
+"If a daffodil is a car, then a daffodil has a carburator",yes,logical,bbc-2214,1107
+"If a daffodil is a car, then a daffodil does not have a carburator",no,logical,bbc-2215,1107
+"If a computer is a car, then a computer has a horn",yes,logical,bbc-2228,1114
+"If a computer is a car, then a computer does not have a horn",no,logical,bbc-2229,1114
+"If an ape is a car, then an ape is a multi passenger transportation device",yes,logical,bbc-2242,1121
+"If an ape is a car, then an ape is not a multi passenger transportation device",no,logical,bbc-2243,1121
+"If an albatross is a car, then an albatross has a car mirror",yes,logical,bbc-2306,1153
+"If an albatross is a car, then an albatross does not have a car mirror",no,logical,bbc-2307,1153
+"If an albatross is a car, then an albatross can pass other car",yes,logical,bbc-2356,1178
+"If an albatross is a car, then an albatross cannot pass other car",no,logical,bbc-2357,1178
+"If a daffodil is a car, then a daffodil can seat passengers",yes,logical,bbc-2394,1197
+"If a daffodil is a car, then a daffodil cannot seat passengers",no,logical,bbc-2395,1197
+"If an albatross is a car, then an albatross can turn around corner",yes,logical,bbc-2426,1213
+"If an albatross is a car, then an albatross cannot turn around corner",no,logical,bbc-2427,1213
+"If an ape is a car, then an ape has a car horn",yes,logical,bbc-2522,1261
+"If an ape is a car, then an ape does not have a car horn",no,logical,bbc-2523,1261
+"If a daffodil is a car, then a daffodil can drive down lane",yes,logical,bbc-2554,1277
+"If a daffodil is a car, then a daffodil cannot drive down lane",no,logical,bbc-2555,1277
+"If a daffodil is a car, then a daffodil has 4 tires",yes,logical,bbc-2564,1282
+"If a daffodil is a car, then a daffodil does not have 4 tires",no,logical,bbc-2565,1282
+"If an albatross is a car, then an albatross can go fast",yes,logical,bbc-2646,1323
+"If an albatross is a car, then an albatross cannot go fast",no,logical,bbc-2647,1323
+"If an albatross is a car, then an albatross can pass another car",yes,logical,bbc-2656,1328
+"If an albatross is a car, then an albatross cannot pass another car",no,logical,bbc-2657,1328
+"If an ape is a car, then an ape has a generator",yes,logical,bbc-2692,1346
+"If an ape is a car, then an ape does not have a generator",no,logical,bbc-2693,1346
+"If an ape is a car, then an ape is heavier than horse",yes,logical,bbc-2702,1351
+"If an ape is a car, then an ape is not heavier than horse",no,logical,bbc-2703,1351
+"If an ant is a car, then an ant can head down road",yes,logical,bbc-2710,1355
+"If an ant is a car, then an ant cannot head down road",no,logical,bbc-2711,1355
+"If an albatross is a car, then an albatross is a machine",yes,logical,bbc-2716,1358
+"If an albatross is a car, then an albatross is not a machine",no,logical,bbc-2717,1358
+"If a computer is a car, then a computer has a trunk",yes,logical,bbc-2738,1369
+"If a computer is a car, then a computer does not have a trunk",no,logical,bbc-2739,1369
+"If an albatross is a car, then an albatross can passing another car",yes,logical,bbc-2746,1373
+"If an albatross is a car, then an albatross cannot passing another car",no,logical,bbc-2747,1373
+"If an albatross is a car, then an albatross can speed up",yes,logical,bbc-2766,1383
+"If an albatross is a car, then an albatross cannot speed up",no,logical,bbc-2767,1383
+"If an ant is a car, then an ant can crash",yes,logical,bbc-2860,1430
+"If an ant is a car, then an ant cannot crash",no,logical,bbc-2861,1430
+"If a computer is a car, then a computer can fit in garage",yes,logical,bbc-2868,1434
+"If a computer is a car, then a computer cannot fit in garage",no,logical,bbc-2869,1434
+"If an albatross is a car, then an albatross is convenient to own",yes,logical,bbc-2906,1453
+"If an albatross is a car, then an albatross is not convenient to own",no,logical,bbc-2907,1453
+"If an ape is a car, then an ape can seat 4 passengers",yes,logical,bbc-2982,1491
+"If an ape is a car, then an ape cannot seat 4 passengers",no,logical,bbc-2983,1491
+"If a daffodil is a car, then a daffodil is shiny",yes,logical,bbc-3024,1512
+"If a daffodil is a car, then a daffodil is not shiny",no,logical,bbc-3025,1512
+"If an ape is a car, then an ape can kill people",yes,logical,bbc-3032,1516
+"If an ape is a car, then an ape cannot kill people",no,logical,bbc-3033,1516
+"If an ant is a car, then an ant has a tail fin",yes,logical,bbc-3190,1595
+"If an ant is a car, then an ant does not have a tail fin",no,logical,bbc-3191,1595
+"If an ant is a protein, then an ant is made of aminoacids",yes,logical,bbc-3268,1634
+"If an ant is a protein, then an ant is not made of aminoacids",no,logical,bbc-3269,1634
+"If an albatross is a machine, then an albatross can fail working",yes,logical,bbc-3376,1688
+"If an albatross is a machine, then an albatross cannot fail working",no,logical,bbc-3377,1688
+"If a cypress is a machine, then a cypress can fail working",yes,logical,bbc-3384,1692
+"If a cypress is a machine, then a cypress cannot fail working",no,logical,bbc-3385,1692
+"If an ant is a machine, then an ant is a structure",no,logical,bbc-3440,1720
+"If an ant is a machine, then an ant is not a structure",yes,logical,bbc-3441,1720
+"If a cypress is a machine, then a cypress is clothes",no,logical,bbc-3464,1732
+"If a cypress is a machine, then a cypress is not clothes",yes,logical,bbc-3465,1732
+"If an adder is a school, then an adder is a place for learning",yes,logical,bbc-3582,1791
+"If an adder is a school, then an adder is not a place for learning",no,logical,bbc-3583,1791
+"If a cypress is a school, then a cypress is a place for learning",yes,logical,bbc-3586,1793
+"If a cypress is a school, then a cypress is not a place for learning",no,logical,bbc-3587,1793
+"If an albatross is a dog, then an albatross can lie down",yes,logical,bbc-3794,1897
+"If an albatross is a dog, then an albatross cannot lie down",no,logical,bbc-3795,1897
+"If an adder is a dog, then an adder is quadriped",yes,logical,bbc-3846,1923
+"If an adder is a dog, then an adder is not quadriped",no,logical,bbc-3847,1923
+"If an adder is a dog, then an adder can urinate",yes,logical,bbc-3870,1935
+"If an adder is a dog, then an adder cannot urinate",no,logical,bbc-3871,1935
+"If an adder is a dog, then an adder can smell trace of another dog",yes,logical,bbc-3906,1953
+"If an adder is a dog, then an adder cannot smell trace of another dog",no,logical,bbc-3907,1953
+"If an ape is a dog, then an ape is a four legged animal",yes,logical,bbc-3956,1978
+"If an ape is a dog, then an ape is not a four legged animal",no,logical,bbc-3957,1978
+"If an adder is a dog, then an adder has fur",yes,logical,bbc-3966,1983
+"If an adder is a dog, then an adder does not have fur",no,logical,bbc-3967,1983
+"If an ape is a dog, then an ape has fur",yes,logical,bbc-3968,1984
+"If an ape is a dog, then an ape does not have fur",no,logical,bbc-3969,1984
+"If an ant is a dog, then an ant can smell scents",yes,logical,bbc-4024,2012
+"If an ant is a dog, then an ant cannot smell scents",no,logical,bbc-4025,2012
+"If an ant is a dog, then an ant has two ears",yes,logical,bbc-4072,2036
+"If an ant is a dog, then an ant does not have two ears",no,logical,bbc-4073,2036
+"If a cypress is a dog, then a cypress has two ears",yes,logical,bbc-4078,2039
+"If a cypress is a dog, then a cypress does not have two ears",no,logical,bbc-4079,2039
+"If an adder is a dog, then an adder has teeth",yes,logical,bbc-4110,2055
+"If an adder is a dog, then an adder does not have teeth",no,logical,bbc-4111,2055
+"If an adder is a dog, then an adder can bark at strangers",yes,logical,bbc-4170,2085
+"If an adder is a dog, then an adder cannot bark at strangers",no,logical,bbc-4171,2085
+"If a daffodil is a dog, then a daffodil can bark at strangers",yes,logical,bbc-4176,2088
+"If a daffodil is a dog, then a daffodil cannot bark at strangers",no,logical,bbc-4177,2088
+"If an adder is a dog, then an adder can bite",yes,logical,bbc-4218,2109
+"If an adder is a dog, then an adder cannot bite",no,logical,bbc-4219,2109
+"If a cypress is a dog, then a cypress can dig up bone",yes,logical,bbc-4378,2189
+"If a cypress is a dog, then a cypress cannot dig up bone",no,logical,bbc-4379,2189
+"If a daffodil is a dog, then a daffodil can chasing ball",yes,logical,bbc-4464,2232
+"If a daffodil is a dog, then a daffodil cannot chasing ball",no,logical,bbc-4465,2232
+"If an albatross is a dog, then an albatross can enjoy food",yes,logical,bbc-4478,2239
+"If an albatross is a dog, then an albatross cannot enjoy food",no,logical,bbc-4479,2239
+"If an ape is a dog, then an ape can frighten intruders",yes,logical,bbc-4508,2254
+"If an ape is a dog, then an ape cannot frighten intruders",no,logical,bbc-4509,2254
+"If an ant is a dog, then an ant can listen to master",yes,logical,bbc-4540,2270
+"If an ant is a dog, then an ant cannot listen to master",no,logical,bbc-4541,2270
+"If an adder is a dog, then an adder can listen to master",yes,logical,bbc-4542,2271
+"If an adder is a dog, then an adder cannot listen to master",no,logical,bbc-4543,2271
+"If an ant is a dog, then an ant can act playful",yes,logical,bbc-4636,2318
+"If an ant is a dog, then an ant cannot act playful",no,logical,bbc-4637,2318
+"If a daffodil is a dog, then a daffodil is a pet",yes,logical,bbc-4680,2340
+"If a daffodil is a dog, then a daffodil is not a pet",no,logical,bbc-4681,2340
+"If an ant is a dog, then an ant can feed its babies",yes,logical,bbc-4732,2366
+"If an ant is a dog, then an ant cannot feed its babies",no,logical,bbc-4733,2366
+"If an ant is a dog, then an ant can father puppy",yes,logical,bbc-4744,2372
+"If an ant is a dog, then an ant cannot father puppy",no,logical,bbc-4745,2372
+"If an ape is a dog, then an ape is a domesticated animal",yes,logical,bbc-4760,2380
+"If an ape is a dog, then an ape is not a domesticated animal",no,logical,bbc-4761,2380
+"If an adder is a dog, then an adder can bring master bone",yes,logical,bbc-4782,2391
+"If an adder is a dog, then an adder cannot bring master bone",no,logical,bbc-4783,2391
+"If an ape is a dog, then an ape can bring master bone",yes,logical,bbc-4784,2392
+"If an ape is a dog, then an ape cannot bring master bone",no,logical,bbc-4785,2392
+"If an ant is a dog, then an ant can guard house",yes,logical,bbc-4840,2420
+"If an ant is a dog, then an ant cannot guard house",no,logical,bbc-4841,2420
+"If an adder is a dog, then an adder can learn to fetch things",yes,logical,bbc-4878,2439
+"If an adder is a dog, then an adder cannot learn to fetch things",no,logical,bbc-4879,2439
+"If a daffodil is a dog, then a daffodil can learn to fetch things",yes,logical,bbc-4884,2442
+"If a daffodil is a dog, then a daffodil cannot learn to fetch things",no,logical,bbc-4885,2442
+"If an ant is a dog, then an ant can eat cat food but probably shouldnt",yes,logical,bbc-4900,2450
+"If an ant is a dog, then an ant cannot eat cat food but probably shouldnt",no,logical,bbc-4901,2450
+"If a cypress is a dog, then a cypress can help master",yes,logical,bbc-4942,2471
+"If a cypress is a dog, then a cypress cannot help master",no,logical,bbc-4943,2471
+"If an albatross is a dog, then an albatross can play frisbee",yes,logical,bbc-4946,2473
+"If an albatross is a dog, then an albatross cannot play frisbee",no,logical,bbc-4947,2473
+"If an ant is a dog, then an ant can pet",yes,logical,bbc-5128,2564
+"If an ant is a dog, then an ant cannot pet",no,logical,bbc-5129,2564
+"If an ant is a dog, then an ant can walk man",yes,logical,bbc-5164,2582
+"If an ant is a dog, then an ant cannot walk man",no,logical,bbc-5165,2582
+"If an adder is a shop, then an adder is a where shopping takes place",yes,logical,bbc-5228,2614
+"If an adder is a shop, then an adder is not a where shopping takes place",no,logical,bbc-5229,2614
+"If an ant is a shop, then an ant is a store",yes,logical,bbc-5238,2619
+"If an ant is a shop, then an ant is not a store",no,logical,bbc-5239,2619
+"If an adder is a shop, then an adder is a store",yes,logical,bbc-5240,2620
+"If an adder is a shop, then an adder is not a store",no,logical,bbc-5241,2620
+"If a cypress is a country, then a cypress is a political entity",yes,logical,bbc-5346,2673
+"If a cypress is a country, then a cypress is not a political entity",no,logical,bbc-5347,2673
+"If an adder is a country, then an adder is a populated area",yes,logical,bbc-5370,2685
+"If an adder is a country, then an adder is not a populated area",no,logical,bbc-5371,2685
+"If a computer is fire, then a computer can burn flesh",yes,logical,bbc-5520,2760
+"If a computer is fire, then a computer cannot burn flesh",no,logical,bbc-5521,2760
+"If an albatross is fire, then an albatross is hot and makes smoke",yes,logical,bbc-5532,2766
+"If an albatross is fire, then an albatross is not hot and makes smoke",no,logical,bbc-5533,2766
+"If a cypress is fire, then a cypress is hot and makes smoke",yes,logical,bbc-5542,2771
+"If a cypress is fire, then a cypress is not hot and makes smoke",no,logical,bbc-5543,2771
+"If a computer is fire, then a computer is hot",yes,logical,bbc-5562,2781
+"If a computer is fire, then a computer is not hot",no,logical,bbc-5563,2781
+"If an albatross is fire, then an albatross is a desctructive to biological bodies",yes,logical,bbc-5602,2801
+"If an albatross is fire, then an albatross is not a desctructive to biological bodies",no,logical,bbc-5603,2801
+"If an adder is fire, then an adder is a heat source",yes,logical,bbc-5636,2818
+"If an adder is fire, then an adder is not a heat source",no,logical,bbc-5637,2818
+"If an adder is fire, then an adder is very destructive and can kill people",yes,logical,bbc-5748,2874
+"If an adder is fire, then an adder is not very destructive and can kill people",no,logical,bbc-5749,2874
+"If a cypress is fire, then a cypress is very destructive and can kill people",yes,logical,bbc-5752,2876
+"If a cypress is fire, then a cypress is not very destructive and can kill people",no,logical,bbc-5753,2876
+"If a computer is fire, then a computer can kill people",yes,logical,bbc-5758,2879
+"If a computer is fire, then a computer cannot kill people",no,logical,bbc-5759,2879
+"If an ant is plastic, then an ant can burn",yes,logical,bbc-5802,2901
+"If an ant is plastic, then an ant cannot burn",no,logical,bbc-5803,2901
+"If an ape is plastic, then an ape can melt",yes,logical,bbc-5820,2910
+"If an ape is plastic, then an ape cannot melt",no,logical,bbc-5821,2910
+"If a cypress is plastic, then a cypress is an artificial material",yes,logical,bbc-5864,2932
+"If a cypress is plastic, then a cypress is not an artificial material",no,logical,bbc-5865,2932
+"If an albatross is a fish, then an albatross is an animal",yes,logical,bbc-5990,2995
+"If an albatross is a fish, then an albatross is not an animal",no,logical,bbc-5991,2995
+"If an ant is a fish, then an ant is an animal",yes,logical,bbc-5992,2996
+"If an ant is a fish, then an ant is not an animal",no,logical,bbc-5993,2996
+"If an ape is a fish, then an ape is an animal",yes,logical,bbc-5996,2998
+"If an ape is a fish, then an ape is not an animal",no,logical,bbc-5997,2998
+"If a cypress is a fish, then a cypress is a cold blooded animal",yes,logical,bbc-6022,3011
+"If a cypress is a fish, then a cypress is not a cold blooded animal",no,logical,bbc-6023,3011
+"If an albatross is a fish, then an albatross has no legs",yes,logical,bbc-6026,3013
+"If an albatross is a fish, then an albatross does not have no legs",no,logical,bbc-6027,3013
+"If an adder is a fish, then an adder has no legs",yes,logical,bbc-6030,3015
+"If an adder is a fish, then an adder does not have no legs",no,logical,bbc-6031,3015
+"If an adder is a fish, then an adder is an under water",yes,logical,bbc-6042,3021
+"If an adder is a fish, then an adder is not an under water",no,logical,bbc-6043,3021
+"If an albatross is a fish, then an albatross has gills",yes,logical,bbc-6050,3025
+"If an albatross is a fish, then an albatross does not have gills",no,logical,bbc-6051,3025
+"If an ant is a fish, then an ant has a fin",yes,logical,bbc-6076,3038
+"If an ant is a fish, then an ant does not have a fin",no,logical,bbc-6077,3038
+"If an adder is a fish, then an adder is an aquatic vertebrate",yes,logical,bbc-6090,3045
+"If an adder is a fish, then an adder is not an aquatic vertebrate",no,logical,bbc-6091,3045
+"If an ant is a fish, then an ant is an aquatic organism",yes,logical,bbc-6136,3068
+"If an ant is a fish, then an ant is not an aquatic organism",no,logical,bbc-6137,3068
+"If an ape is a fish, then an ape can swim in river",yes,logical,bbc-6176,3088
+"If an ape is a fish, then an ape cannot swim in river",no,logical,bbc-6177,3088
+"If a daffodil is a fish, then a daffodil can swim in river",yes,logical,bbc-6180,3090
+"If a daffodil is a fish, then a daffodil cannot swim in river",no,logical,bbc-6181,3090
+"If a cypress is a fish, then a cypress can swim",yes,logical,bbc-6214,3107
+"If a cypress is a fish, then a cypress cannot swim",no,logical,bbc-6215,3107
+"If an albatross is a fish, then an albatross has a tail",yes,logical,bbc-6230,3115
+"If an albatross is a fish, then an albatross does not have a tail",no,logical,bbc-6231,3115
+"If an albatross is a fish, then an albatross is a lifeform from ocean",yes,logical,bbc-6278,3139
+"If an albatross is a fish, then an albatross is not a lifeform from ocean",no,logical,bbc-6279,3139
+"If an albatross is a fish, then an albatross can live very deep in sea",yes,logical,bbc-6386,3193
+"If an albatross is a fish, then an albatross cannot live very deep in sea",no,logical,bbc-6387,3193
+"If an albatross is a fish, then an albatross is sugar",no,logical,bbc-6494,3247
+"If an albatross is a fish, then an albatross is not sugar",yes,logical,bbc-6495,3247
+"If an ant is a planet, then an ant is a planetary body",yes,logical,bbc-6580,3290
+"If an ant is a planet, then an ant is not a planetary body",no,logical,bbc-6581,3290
+"If an ant is a planet, then an ant is an astronomical object",yes,logical,bbc-6628,3314
+"If an ant is a planet, then an ant is not an astronomical object",no,logical,bbc-6629,3314
+"If a cypress is a planet, then a cypress is a country",no,logical,bbc-6706,3353
+"If a cypress is a planet, then a cypress is not a country",yes,logical,bbc-6707,3353
+"If a computer is an ocean, then a computer has a salt",yes,logical,bbc-6808,3404
+"If a computer is an ocean, then a computer does not have a salt",no,logical,bbc-6809,3404
+"If an adder is an ocean, then an adder is a large container of water",yes,logical,bbc-6894,3447
+"If an adder is an ocean, then an adder is not a large container of water",no,logical,bbc-6895,3447
+"If a daffodil is a rock, then a daffodil is a mineral",yes,logical,bbc-6974,3487
+"If a daffodil is a rock, then a daffodil is not a mineral",no,logical,bbc-6975,3487
+"If an ape is a restaurant, then an ape is one kind of eating place",yes,logical,bbc-6990,3495
+"If an ape is a restaurant, then an ape is not one kind of eating place",no,logical,bbc-6991,3495
+"If a computer is a science, then a computer is a subject of study",yes,logical,bbc-7048,3524
+"If a computer is a science, then a computer is not a subject of study",no,logical,bbc-7049,3524
+"If an adder is a science, then an adder is a subject of study",yes,logical,bbc-7052,3526
+"If an adder is a science, then an adder is not a subject of study",no,logical,bbc-7053,3526
+"If a cypress is a science, then a cypress can spread ideas",yes,logical,bbc-7140,3570
+"If a cypress is a science, then a cypress cannot spread ideas",no,logical,bbc-7141,3570
+"If a daffodil is a science, then a daffodil is a government",no,logical,bbc-7156,3578
+"If a daffodil is a science, then a daffodil is not a government",yes,logical,bbc-7157,3578
+"If a daffodil is a science, then a daffodil is a sport",no,logical,bbc-7226,3613
+"If a daffodil is a science, then a daffodil is not a sport",yes,logical,bbc-7227,3613
+"If an ant is an insect, then an ant has an abdomen",yes,logical,bbc-7302,3651
+"If an ant is an insect, then an ant does not have an abdomen",no,logical,bbc-7303,3651
+"If an adder is an insect, then an adder has an abdomen",yes,logical,bbc-7304,3652
+"If an adder is an insect, then an adder does not have an abdomen",no,logical,bbc-7305,3652
+"If an albatross is an insect, then an albatross is a living creature",yes,logical,bbc-7312,3656
+"If an albatross is an insect, then an albatross is not a living creature",no,logical,bbc-7313,3656
+"If an ant is an insect, then an ant is a living creature",yes,logical,bbc-7316,3658
+"If an ant is an insect, then an ant is not a living creature",no,logical,bbc-7317,3658
+"If a cypress is an insect, then a cypress is a creature",yes,logical,bbc-7336,3668
+"If a cypress is an insect, then a cypress is not a creature",no,logical,bbc-7337,3668
+"If a cypress is an insect, then a cypress is an animal",yes,logical,bbc-7378,3689
+"If a cypress is an insect, then a cypress is not an animal",no,logical,bbc-7379,3689
+"If an albatross is an insect, then an albatross is an invertebrate",yes,logical,bbc-7382,3691
+"If an albatross is an insect, then an albatross is not an invertebrate",no,logical,bbc-7383,3691
+"If an ant is an insect, then an ant is an invertebrate",yes,logical,bbc-7386,3693
+"If an ant is an insect, then an ant is not an invertebrate",no,logical,bbc-7387,3693
+"If an ant is a lizard, then an ant is a vertebrate",yes,logical,bbc-7410,3705
+"If an ant is a lizard, then an ant is not a vertebrate",no,logical,bbc-7411,3705
+"If an adder is a lizard, then an adder is a vertebrate",yes,logical,bbc-7412,3706
+"If an adder is a lizard, then an adder is not a vertebrate",no,logical,bbc-7413,3706
+"If an albatross is a lizard, then an albatross is quadruped",yes,logical,bbc-7456,3728
+"If an albatross is a lizard, then an albatross is not quadruped",no,logical,bbc-7457,3728
+"If an albatross is an animal, then an albatross is a living creature",yes,logical,bbc-7560,3780
+"If an albatross is an animal, then an albatross is not a living creature",no,logical,bbc-7561,3780
+"If a computer is an animal, then a computer is a bacterium",no,logical,bbc-7716,3858
+"If a computer is an animal, then a computer is not a bacterium",yes,logical,bbc-7717,3858
+"If an adder is an animal, then an adder is a plant",no,logical,bbc-7762,3881
+"If an adder is an animal, then an adder is not a plant",yes,logical,bbc-7763,3881
+"If a computer is a bicycle, then a computer is a bike",yes,logical,bbc-7772,3886
+"If a computer is a bicycle, then a computer is not a bike",no,logical,bbc-7773,3886
+"If an albatross is a bicycle, then an albatross is a transportation",yes,logical,bbc-7818,3909
+"If an albatross is a bicycle, then an albatross is not a transportation",no,logical,bbc-7819,3909
+"If an ape is a bicycle, then an ape is a two wheeled method of transportation",yes,logical,bbc-7896,3948
+"If an ape is a bicycle, then an ape is not a two wheeled method of transportation",no,logical,bbc-7897,3948
+"If an ape is a bicycle, then an ape is a human powered vehicle",yes,logical,bbc-7908,3954
+"If an ape is a bicycle, then an ape is not a human powered vehicle",no,logical,bbc-7909,3954
+"If an adder is a bicycle, then an adder is made of metal",yes,logical,bbc-7942,3971
+"If an adder is a bicycle, then an adder is not made of metal",no,logical,bbc-7943,3971
+"If an adder is a bridge, then an adder is a solid path through air",yes,logical,bbc-8052,4026
+"If an adder is a bridge, then an adder is not a solid path through air",no,logical,bbc-8053,4026
+"If an albatross is a bridge, then an albatross has a trestle",yes,logical,bbc-8058,4029
+"If an albatross is a bridge, then an albatross does not have a trestle",no,logical,bbc-8059,4029
+"If a daffodil is a bridge, then a daffodil has a pier",yes,logical,bbc-8080,4040
+"If a daffodil is a bridge, then a daffodil does not have a pier",no,logical,bbc-8081,4040
+"If an albatross is a bridge, then an albatross is a suspended thing",yes,logical,bbc-8094,4047
+"If an albatross is a bridge, then an albatross is not a suspended thing",no,logical,bbc-8095,4047
+"If a daffodil is a bridge, then a daffodil is a fixed freestanding structure",yes,logical,bbc-8116,4058
+"If a daffodil is a bridge, then a daffodil is not a fixed freestanding structure",no,logical,bbc-8117,4058
+"If an ant is a bridge, then an ant has a nasal",yes,logical,bbc-8182,4091
+"If an ant is a bridge, then an ant does not have a nasal",no,logical,bbc-8183,4091
+"If a computer is a bridge, then a computer is a structure",yes,logical,bbc-8192,4096
+"If a computer is a bridge, then a computer is not a structure",no,logical,bbc-8193,4096
+"If a daffodil is a bridge, then a daffodil is a structure",yes,logical,bbc-8200,4100
+"If a daffodil is a bridge, then a daffodil is not a structure",no,logical,bbc-8201,4100
+"If an adder is a bridge, then an adder is a room",no,logical,bbc-8220,4110
+"If an adder is a bridge, then an adder is not a room",yes,logical,bbc-8221,4110
+"If a daffodil is a bridge, then a daffodil is a room",no,logical,bbc-8224,4112
+"If a daffodil is a bridge, then a daffodil is not a room",yes,logical,bbc-8225,4112
+"If a cypress is a house, then a cypress is a place and thing",yes,logical,bbc-8236,4118
+"If a cypress is a house, then a cypress is not a place and thing",no,logical,bbc-8237,4118
+"If a computer is a house, then a computer has a roof",yes,logical,bbc-8298,4149
+"If a computer is a house, then a computer does not have a roof",no,logical,bbc-8299,4149
+"If an ant is a house, then an ant can cost many years wages",yes,logical,bbc-8384,4192
+"If an ant is a house, then an ant cannot cost many years wages",no,logical,bbc-8385,4192
+"If an ape is a house, then an ape can cost many years wages",yes,logical,bbc-8388,4194
+"If an ape is a house, then an ape cannot cost many years wages",no,logical,bbc-8389,4194
+"If a computer is a house, then a computer has a ceiling under roof",yes,logical,bbc-8438,4219
+"If a computer is a house, then a computer does not have a ceiling under roof",no,logical,bbc-8439,4219
+"If an adder is a house, then an adder has a living room",yes,logical,bbc-8512,4256
+"If an adder is a house, then an adder does not have a living room",no,logical,bbc-8513,4256
+"If a cypress is a house, then a cypress has a wiring",yes,logical,bbc-8530,4265
+"If a cypress is a house, then a cypress does not have a wiring",no,logical,bbc-8531,4265
+"If an albatross is a house, then an albatross can cost lot",yes,logical,bbc-8562,4281
+"If an albatross is a house, then an albatross cannot cost lot",no,logical,bbc-8563,4281
+"If an adder is a house, then an adder has a plumbing",yes,logical,bbc-8582,4291
+"If an adder is a house, then an adder does not have a plumbing",no,logical,bbc-8583,4291
+"If a daffodil is a house, then a daffodil has a basement",yes,logical,bbc-8602,4301
+"If a daffodil is a house, then a daffodil does not have a basement",no,logical,bbc-8603,4301
+"If an ape is a publication, then an ape is a structure",no,logical,bbc-8650,4325
+"If an ape is a publication, then an ape is not a structure",yes,logical,bbc-8651,4325
+"If an adder is a publication, then an adder is clothes",no,logical,bbc-8672,4336
+"If an adder is a publication, then an adder is not clothes",yes,logical,bbc-8673,4336
+"If a computer is a publication, then a computer is a toy",no,logical,bbc-8704,4352
+"If a computer is a publication, then a computer is not a toy",yes,logical,bbc-8705,4352
+"If a cypress is a liquid, then a cypress is a not gas",yes,logical,bbc-8734,4367
+"If a cypress is a liquid, then a cypress is not a not gas",no,logical,bbc-8735,4367
+"If a cypress is a liquid, then a cypress is a mineral",no,logical,bbc-8794,4397
+"If a cypress is a liquid, then a cypress is not a mineral",yes,logical,bbc-8795,4397
+"If an adder is a liquid, then an adder is an artifact",no,logical,bbc-8802,4401
+"If an adder is a liquid, then an adder is not an artifact",yes,logical,bbc-8803,4401
+"If a computer is a liquid, then a computer is a religion",no,logical,bbc-8822,4411
+"If a computer is a liquid, then a computer is not a religion",yes,logical,bbc-8823,4411
+"If an adder is a liquid, then an adder is a science",no,logical,bbc-8838,4419
+"If an adder is a liquid, then an adder is not a science",yes,logical,bbc-8839,4419
+"If a cypress is a liquid, then a cypress is a company",no,logical,bbc-8878,4439
+"If a cypress is a liquid, then a cypress is not a company",yes,logical,bbc-8879,4439
+"If a computer is a liquid, then a computer is hair",no,logical,bbc-8882,4441
+"If a computer is a liquid, then a computer is not hair",yes,logical,bbc-8883,4441
+"If an ant is a liquid, then an ant is a sport",no,logical,bbc-8908,4454
+"If an ant is a liquid, then an ant is not a sport",yes,logical,bbc-8909,4454
+"If an ape is a president, then an ape can state problem to country",yes,logical,bbc-8978,4489
+"If an ape is a president, then an ape cannot state problem to country",no,logical,bbc-8979,4489
+"If an adder is a president, then an adder is more important than mayor",yes,logical,bbc-9018,4509
+"If an adder is a president, then an adder is not more important than mayor",no,logical,bbc-9019,4509
+"If a daffodil is a president, then a daffodil is a top leader of group",yes,logical,bbc-9038,4519
+"If a daffodil is a president, then a daffodil is not a top leader of group",no,logical,bbc-9039,4519
+"If a computer is a president, then a computer can elected official",yes,logical,bbc-9098,4549
+"If a computer is a president, then a computer cannot elected official",no,logical,bbc-9099,4549
+"If a computer is a president, then a computer can lead country",yes,logical,bbc-9168,4584
+"If a computer is a president, then a computer cannot lead country",no,logical,bbc-9169,4584
+"If a daffodil is a president, then a daffodil is an elected official",yes,logical,bbc-9234,4617
+"If a daffodil is a president, then a daffodil is not an elected official",no,logical,bbc-9235,4617
+"If a daffodil is a president, then a daffodil can declare war on foreign country",yes,logical,bbc-9276,4638
+"If a daffodil is a president, then a daffodil cannot declare war on foreign country",no,logical,bbc-9277,4638
+"If an ape is a president, then an ape can present medal with honors",yes,logical,bbc-9286,4643
+"If an ape is a president, then an ape cannot present medal with honors",no,logical,bbc-9287,4643
+"If an ant is a leader, then an ant is in charge of other people",yes,logical,bbc-9352,4676
+"If an ant is a leader, then an ant is not in charge of other people",no,logical,bbc-9353,4676
+"If an ape is a leader, then an ape can direct people",yes,logical,bbc-9370,4685
+"If an ape is a leader, then an ape cannot direct people",no,logical,bbc-9371,4685
+"If a cypress is a leader, then a cypress can carry heavy responsibility",yes,logical,bbc-9414,4707
+"If a cypress is a leader, then a cypress cannot carry heavy responsibility",no,logical,bbc-9415,4707
+"If a daffodil is a leader, then a daffodil can lead people",yes,logical,bbc-9444,4722
+"If a daffodil is a leader, then a daffodil cannot lead people",no,logical,bbc-9445,4722
+"If an adder is a leader, then an adder can teach group members to cooperate",yes,logical,bbc-9480,4740
+"If an adder is a leader, then an adder cannot teach group members to cooperate",no,logical,bbc-9481,4740
+"If an adder is a leader, then an adder can govern justly",yes,logical,bbc-9508,4754
+"If an adder is a leader, then an adder cannot govern justly",no,logical,bbc-9509,4754
+"If an albatross is a leader, then an albatross is a person",yes,logical,bbc-9558,4779
+"If an albatross is a leader, then an albatross is not a person",no,logical,bbc-9559,4779
+"If a cypress is a turtle, then a cypress is an animal",yes,logical,bbc-9582,4791
+"If a cypress is a turtle, then a cypress is not an animal",no,logical,bbc-9583,4791
+"If a cypress is a turtle, then a cypress is anapsid",yes,logical,bbc-9652,4826
+"If a cypress is a turtle, then a cypress is not anapsid",no,logical,bbc-9653,4826
+"If a computer is a turtle, then a computer has a carapace",yes,logical,bbc-9658,4829
+"If a computer is a turtle, then a computer does not have a carapace",no,logical,bbc-9659,4829
+"If an ant is a turtle, then an ant is quadruped",yes,logical,bbc-9688,4844
+"If an ant is a turtle, then an ant is not quadruped",no,logical,bbc-9689,4844
+"If an ape is a turtle, then an ape can live in water or on land",yes,logical,bbc-9720,4860
+"If an ape is a turtle, then an ape cannot live in water or on land",no,logical,bbc-9721,4860
+"If an ape is a turtle, then an ape can pet",yes,logical,bbc-9762,4881
+"If an ape is a turtle, then an ape cannot pet",no,logical,bbc-9763,4881
+"If an ant is a river, then an ant is a flowing body of water",yes,logical,bbc-9896,4948
+"If an ant is a river, then an ant is not a flowing body of water",no,logical,bbc-9897,4948
+"If a daffodil is a river, then a daffodil is a flowing body of water",yes,logical,bbc-9904,4952
+"If a daffodil is a river, then a daffodil is not a flowing body of water",no,logical,bbc-9905,4952
+"If an ape is a river, then an ape is a large stream of water",yes,logical,bbc-9970,4985
+"If an ape is a river, then an ape is not a large stream of water",no,logical,bbc-9971,4985
+"If a cypress is a river, then a cypress is a large flow of liquid water",yes,logical,bbc-9986,4993
+"If a cypress is a river, then a cypress is not a large flow of liquid water",no,logical,bbc-9987,4993
+"If an ant is a river, then an ant can branch off from mainline",yes,logical,bbc-10050,5025
+"If an ant is a river, then an ant cannot branch off from mainline",no,logical,bbc-10051,5025
+"If an ant is a river, then an ant can course through field",yes,logical,bbc-10092,5046
+"If an ant is a river, then an ant cannot course through field",no,logical,bbc-10093,5046
+"If an adder is a river, then an adder is water",yes,logical,bbc-10122,5061
+"If an adder is a river, then an adder is not water",no,logical,bbc-10123,5061
+"If an ape is a river, then an ape is water",yes,logical,bbc-10124,5062
+"If an ape is a river, then an ape is not water",no,logical,bbc-10125,5062
+"If a computer is a bird, then a computer is a terrestrial organism",yes,logical,bbc-10174,5087
+"If a computer is a bird, then a computer is not a terrestrial organism",no,logical,bbc-10175,5087
+"If an ape is a bird, then an ape has wings",yes,logical,bbc-10236,5118
+"If an ape is a bird, then an ape does not have wings",no,logical,bbc-10237,5118
+"If a cypress is a bird, then a cypress is a warm blooded animal",yes,logical,bbc-10280,5140
+"If a cypress is a bird, then a cypress is not a warm blooded animal",no,logical,bbc-10281,5140
+"If an ant is a bird, then an ant has two wings",yes,logical,bbc-10302,5151
+"If an ant is a bird, then an ant does not have two wings",no,logical,bbc-10303,5151
+"If an ant is a bird, then an ant can injur its wing if falls",yes,logical,bbc-10372,5186
+"If an ant is a bird, then an ant cannot injur its wing if falls",no,logical,bbc-10373,5186
+"If an albatross is a bird, then an albatross is rising early",yes,logical,bbc-10438,5219
+"If an albatross is a bird, then an albatross is not rising early",no,logical,bbc-10439,5219
+"If a daffodil is a bird, then a daffodil can sing to mate",yes,logical,bbc-10478,5239
+"If a daffodil is a bird, then a daffodil cannot sing to mate",no,logical,bbc-10479,5239
+"If an ant is a bird, then an ant is a fish",no,logical,bbc-10568,5284
+"If an ant is a bird, then an ant is not a fish",yes,logical,bbc-10569,5284
+"If an ant is a bird, then an ant is a mammal",no,logical,bbc-10596,5298
+"If an ant is a bird, then an ant is not a mammal",yes,logical,bbc-10597,5298
+"If a cypress is a sound, then a cypress is a vibrations in air",yes,logical,bbc-10698,5349
+"If a cypress is a sound, then a cypress is not a vibrations in air",no,logical,bbc-10699,5349
+"If an ant is a sound, then an ant has a frequency and amplitude",yes,logical,bbc-10718,5359
+"If an ant is a sound, then an ant does not have a frequency and amplitude",no,logical,bbc-10719,5359
+"If a computer is a sound, then a computer can hit ear",yes,logical,bbc-10728,5364
+"If a computer is a sound, then a computer cannot hit ear",no,logical,bbc-10729,5364
+"If an ant is a sound, then an ant is fire",no,logical,bbc-10874,5437
+"If an ant is a sound, then an ant is not fire",yes,logical,bbc-10875,5437
+"If a daffodil is a deer, then a daffodil is a dog",no,logical,bbc-11048,5524
+"If a daffodil is a deer, then a daffodil is not a dog",yes,logical,bbc-11049,5524
+"If an adder is a road, then an adder is a surface",yes,logical,bbc-11094,5547
+"If an adder is a road, then an adder is not a surface",no,logical,bbc-11095,5547
+"If an ape is a road, then an ape is a wide path",yes,logical,bbc-11132,5566
+"If an ape is a road, then an ape is not a wide path",no,logical,bbc-11133,5566
+"If a cypress is a road, then a cypress is a continent",no,logical,bbc-11254,5627
+"If a cypress is a road, then a cypress is not a continent",yes,logical,bbc-11255,5627
+"If an ape is sugar, then an ape can decay teeth",yes,logical,bbc-11306,5653
+"If an ape is sugar, then an ape cannot decay teeth",no,logical,bbc-11307,5653
+"If a daffodil is sugar, then a daffodil is a main ingredient in candy",yes,logical,bbc-11366,5683
+"If a daffodil is sugar, then a daffodil is not a main ingredient in candy",no,logical,bbc-11367,5683
+"If an ant is sugar, then an ant is food",yes,logical,bbc-11428,5714
+"If an ant is sugar, then an ant is not food",no,logical,bbc-11429,5714
+"If an albatross is sugar, then an albatross is a meal",no,logical,bbc-11466,5733
+"If an albatross is sugar, then an albatross is not a meal",yes,logical,bbc-11467,5733
+"If a computer is sugar, then a computer is a vegetable",no,logical,bbc-11496,5748
+"If a computer is sugar, then a computer is not a vegetable",yes,logical,bbc-11497,5748
+"If an ant is a cat, then an ant is a feline",yes,logical,bbc-11608,5804
+"If an ant is a cat, then an ant is not a feline",no,logical,bbc-11609,5804
+"If an ant is a cat, then an ant can touch leg",yes,logical,bbc-11716,5858
+"If an ant is a cat, then an ant cannot touch leg",no,logical,bbc-11717,5858
+"If an albatross is a cat, then an albatross can kill bird",yes,logical,bbc-11760,5880
+"If an albatross is a cat, then an albatross cannot kill bird",no,logical,bbc-11761,5880
+"If a cypress is a cat, then a cypress can cleaning itself",yes,logical,bbc-11792,5896
+"If a cypress is a cat, then a cypress cannot cleaning itself",no,logical,bbc-11793,5896
+"If an ape is a cat, then an ape can rest all day",yes,logical,bbc-11922,5961
+"If an ape is a cat, then an ape cannot rest all day",no,logical,bbc-11923,5961
+"If a daffodil is a cat, then a daffodil can hide under bed",yes,logical,bbc-11962,5981
+"If a daffodil is a cat, then a daffodil cannot hide under bed",no,logical,bbc-11963,5981
+"If a cypress is a cat, then a cypress can lie on mat",yes,logical,bbc-12044,6022
+"If a cypress is a cat, then a cypress cannot lie on mat",no,logical,bbc-12045,6022
+"If an ant is a cat, then an ant can see at night",yes,logical,bbc-12088,6044
+"If an ant is a cat, then an ant cannot see at night",no,logical,bbc-12089,6044
+"If a cypress is a cat, then a cypress can land on all four paws",yes,logical,bbc-12176,6088
+"If a cypress is a cat, then a cypress cannot land on all four paws",no,logical,bbc-12177,6088
+"If an ape is a cat, then an ape can fish with paw",yes,logical,bbc-12378,6189
+"If an ape is a cat, then an ape cannot fish with paw",no,logical,bbc-12379,6189
+"If a cypress is a cat, then a cypress can sleep most of time",yes,logical,bbc-12404,6202
+"If a cypress is a cat, then a cypress cannot sleep most of time",no,logical,bbc-12405,6202
+"If a daffodil is a cat, then a daffodil can sleep most of time",yes,logical,bbc-12406,6203
+"If a daffodil is a cat, then a daffodil cannot sleep most of time",no,logical,bbc-12407,6203
+"If a computer is a cat, then a computer can catch mouse",yes,logical,bbc-12410,6205
+"If a computer is a cat, then a computer cannot catch mouse",no,logical,bbc-12411,6205
+"If an albatross is a cat, then an albatross can eat mice",yes,logical,bbc-12420,6210
+"If an albatross is a cat, then an albatross cannot eat mice",no,logical,bbc-12421,6210
+"If an ant is a cat, then an ant can eat bird",yes,logical,bbc-12448,6224
+"If an ant is a cat, then an ant cannot eat bird",no,logical,bbc-12449,6224
+"If a cypress is a cat, then a cypress can fight dog",yes,logical,bbc-12464,6232
+"If a cypress is a cat, then a cypress cannot fight dog",no,logical,bbc-12465,6232
+"If a computer is a cat, then a computer can chase tail",yes,logical,bbc-12554,6277
+"If a computer is a cat, then a computer cannot chase tail",no,logical,bbc-12555,6277
+"If an ant is a cat, then an ant can mother kittens",yes,logical,bbc-12652,6326
+"If an ant is a cat, then an ant cannot mother kittens",no,logical,bbc-12653,6326
+"If a cypress is a cat, then a cypress can wait for rat",yes,logical,bbc-12668,6334
+"If a cypress is a cat, then a cypress cannot wait for rat",no,logical,bbc-12669,6334
+"If an ape is a cat, then an ape is running after mouse",yes,logical,bbc-12702,6351
+"If an ape is a cat, then an ape is not running after mouse",no,logical,bbc-12703,6351
+"If an ape is a mammal, then an ape is an amniote",yes,logical,bbc-12884,6442
+"If an ape is a mammal, then an ape is not an amniote",no,logical,bbc-12885,6442
+"If an ape is a mammal, then an ape is a cake",no,logical,bbc-12944,6472
+"If an ape is a mammal, then an ape is not a cake",yes,logical,bbc-12945,6472
+"If a daffodil is a mammal, then a daffodil is a fruit",no,logical,bbc-12958,6479
+"If a daffodil is a mammal, then a daffodil is not a fruit",yes,logical,bbc-12959,6479
+"If an albatross is a mammal, then an albatross is a meal",no,logical,bbc-12960,6480
+"If an albatross is a mammal, then an albatross is not a meal",yes,logical,bbc-12961,6480
+"If an albatross is a mammal, then an albatross is a soup",no,logical,bbc-12972,6486
+"If an albatross is a mammal, then an albatross is not a soup",yes,logical,bbc-12973,6486
+"If a daffodil is a mammal, then a daffodil is a vegetable",no,logical,bbc-12994,6497
+"If a daffodil is a mammal, then a daffodil is not a vegetable",yes,logical,bbc-12995,6497
+"If an albatross is a politician, then an albatross can influence public decisions",yes,logical,bbc-12996,6498
+"If an albatross is a politician, then an albatross cannot influence public decisions",no,logical,bbc-12997,6498
+"If an adder is a politician, then an adder can influence public decisions",yes,logical,bbc-13000,6500
+"If an adder is a politician, then an adder cannot influence public decisions",no,logical,bbc-13001,6500
+"If a computer is a politician, then a computer can running campaign",yes,logical,bbc-13008,6504
+"If a computer is a politician, then a computer cannot running campaign",no,logical,bbc-13009,6504
+"If an ant is a grass, then an ant can grow with water",yes,logical,bbc-13390,6695
+"If an ant is a grass, then an ant cannot grow with water",no,logical,bbc-13391,6695
+"If a computer is a grass, then a computer can burn",yes,logical,bbc-13458,6729
+"If a computer is a grass, then a computer cannot burn",no,logical,bbc-13459,6729
+"If an ape is a grass, then an ape is recycled by mulching",yes,logical,bbc-13506,6753
+"If an ape is a grass, then an ape is not recycled by mulching",no,logical,bbc-13507,6753
+"If an albatross is a grass, then an albatross is a flower",no,logical,bbc-13512,6756
+"If an albatross is a grass, then an albatross is not a flower",yes,logical,bbc-13513,6756
+"If an ant is a grass, then an ant is a tree",no,logical,bbc-13530,6765
+"If an ant is a grass, then an ant is not a tree",yes,logical,bbc-13531,6765
+"If a daffodil is a plant, then a daffodil is an archaeplastida",yes,logical,bbc-13644,6822
+"If a daffodil is a plant, then a daffodil is not an archaeplastida",no,logical,bbc-13645,6822
+"If an ape is a religion, then an ape is a system of religious beliefs",yes,logical,bbc-13668,6834
+"If an ape is a religion, then an ape is not a system of religious beliefs",no,logical,bbc-13669,6834
+"If an ant is a religion, then an ant has a god",yes,logical,bbc-13678,6839
+"If an ant is a religion, then an ant does not have a god",no,logical,bbc-13679,6839
+"If a daffodil is a religion, then a daffodil has a god",yes,logical,bbc-13686,6843
+"If a daffodil is a religion, then a daffodil does not have a god",no,logical,bbc-13687,6843
+"If a cypress is a religion, then a cypress can spread ideas",yes,logical,bbc-13712,6856
+"If a cypress is a religion, then a cypress cannot spread ideas",no,logical,bbc-13713,6856
+"If an albatross is a religion, then an albatross has caused many wars",yes,logical,bbc-13730,6865
+"If an albatross is a religion, then an albatross does not have caused many wars",no,logical,bbc-13731,6865
+"If an adder is a religion, then an adder is important to people",yes,logical,bbc-13750,6875
+"If an adder is a religion, then an adder is not important to people",no,logical,bbc-13751,6875
+"If a cypress is a religion, then a cypress can change peoples behaviour",yes,logical,bbc-13768,6884
+"If a cypress is a religion, then a cypress cannot change peoples behaviour",no,logical,bbc-13769,6884
+"If an ant is a religion, then an ant can divide world",yes,logical,bbc-13776,6888
+"If an ant is a religion, then an ant cannot divide world",no,logical,bbc-13777,6888
+"If an adder is a religion, then an adder can divide family members from one another",yes,logical,bbc-13792,6896
+"If an adder is a religion, then an adder cannot divide family members from one another",no,logical,bbc-13793,6896
+"If an albatross is a religion, then an albatross is an art",no,logical,bbc-13828,6914
+"If an albatross is a religion, then an albatross is not an art",yes,logical,bbc-13829,6914
+"If a computer is a religion, then a computer is a company",no,logical,bbc-13844,6922
+"If a computer is a religion, then a computer is not a company",yes,logical,bbc-13845,6922
+"If an ape is a religion, then an ape is a company",no,logical,bbc-13850,6925
+"If an ape is a religion, then an ape is not a company",yes,logical,bbc-13851,6925
+"If an adder is a religion, then an adder is fire",no,logical,bbc-13918,6959
+"If an adder is a religion, then an adder is not fire",yes,logical,bbc-13919,6959
+"If an ape is a town, then an ape is smaller than country",yes,logical,bbc-13934,6967
+"If an ape is a town, then an ape is not smaller than country",no,logical,bbc-13935,6967
+"If a daffodil is a town, then a daffodil is a place",yes,logical,bbc-13966,6983
+"If a daffodil is a town, then a daffodil is not a place",no,logical,bbc-13967,6983
+"If an adder is a town, then an adder is likely to have several cafes",yes,logical,bbc-14016,7008
+"If an adder is a town, then an adder is not likely to have several cafes",no,logical,bbc-14017,7008
+"If an albatross is a town, then an albatross is a location",yes,logical,bbc-14066,7033
+"If an albatross is a town, then an albatross is not a location",no,logical,bbc-14067,7033
+"If an albatross is a town, then an albatross is a continent",no,logical,bbc-14094,7047
+"If an albatross is a town, then an albatross is not a continent",yes,logical,bbc-14095,7047
+"If an adder is a doctor, then an adder can take temperature",yes,logical,bbc-14296,7148
+"If an adder is a doctor, then an adder cannot take temperature",no,logical,bbc-14297,7148
+"If an adder is a doctor, then an adder can listen to patient",yes,logical,bbc-14352,7176
+"If an adder is a doctor, then an adder cannot listen to patient",no,logical,bbc-14353,7176
+"If a computer is a doctor, then a computer can study medicine",yes,logical,bbc-14418,7209
+"If a computer is a doctor, then a computer cannot study medicine",no,logical,bbc-14419,7209
+"If an ape is a doctor, then an ape can prescribe drug",yes,logical,bbc-14438,7219
+"If an ape is a doctor, then an ape cannot prescribe drug",no,logical,bbc-14439,7219
+"If a computer is a doctor, then a computer can help maintain good health",yes,logical,bbc-14446,7223
+"If a computer is a doctor, then a computer cannot help maintain good health",no,logical,bbc-14447,7223
+"If a cypress is a doctor, then a cypress has a had many years of education",yes,logical,bbc-14468,7234
+"If a cypress is a doctor, then a cypress does not have a had many years of education",no,logical,bbc-14469,7234
+"If a cypress is a doctor, then a cypress can help people feel better",yes,logical,bbc-14734,7367
+"If a cypress is a doctor, then a cypress cannot help people feel better",no,logical,bbc-14735,7367
+"If a computer is a doctor, then a computer can perform surgery",yes,logical,bbc-14754,7377
+"If a computer is a doctor, then a computer cannot perform surgery",no,logical,bbc-14755,7377
+"If a daffodil is a doctor, then a daffodil can free patient of disease",yes,logical,bbc-14876,7438
+"If a daffodil is a doctor, then a daffodil cannot free patient of disease",no,logical,bbc-14877,7438
+"If an ant is a doctor, then an ant is a person",yes,logical,bbc-14882,7441
+"If an ant is a doctor, then an ant is not a person",no,logical,bbc-14883,7441
+"If a computer is a doctor, then a computer is an expert",no,logical,bbc-14894,7447
+"If a computer is a doctor, then a computer is not an expert",yes,logical,bbc-14895,7447
+"If a daffodil is a fruit, then a daffodil is very good for health",yes,logical,bbc-15058,7529
+"If a daffodil is a fruit, then a daffodil is not very good for health",no,logical,bbc-15059,7529
+"If an ant is a fruit, then an ant is very healthy to eat",yes,logical,bbc-15176,7588
+"If an ant is a fruit, then an ant is not very healthy to eat",no,logical,bbc-15177,7588
+"If an albatross is a fruit, then an albatross has a pleasant taste",yes,logical,bbc-15242,7621
+"If an albatross is a fruit, then an albatross does not have a pleasant taste",no,logical,bbc-15243,7621
+"If an ape is a fruit, then an ape is food",yes,logical,bbc-15306,7653
+"If an ape is a fruit, then an ape is not food",no,logical,bbc-15307,7653
+"If a daffodil is a fruit, then a daffodil is a tree",yes,logical,bbc-15380,7690
+"If a daffodil is a fruit, then a daffodil is not a tree",no,logical,bbc-15381,7690
+"If an ant is a horse, then an ant is a mammal",yes,logical,bbc-15400,7700
+"If an ant is a horse, then an ant is not a mammal",no,logical,bbc-15401,7700
+"If a computer is a horse, then a computer has a gaskin",yes,logical,bbc-15440,7720
+"If a computer is a horse, then a computer does not have a gaskin",no,logical,bbc-15441,7720
+"If a daffodil is a horse, then a daffodil is an eukaryotic organism",yes,logical,bbc-15506,7753
+"If a daffodil is a horse, then a daffodil is not an eukaryotic organism",no,logical,bbc-15507,7753
+"If a daffodil is a horse, then a daffodil has eyes",yes,logical,bbc-15562,7781
+"If a daffodil is a horse, then a daffodil does not have eyes",no,logical,bbc-15563,7781
+"If a daffodil is a horse, then a daffodil can jump barrier",yes,logical,bbc-15590,7795
+"If a daffodil is a horse, then a daffodil cannot jump barrier",no,logical,bbc-15591,7795
+"If a daffodil is a horse, then a daffodil can outrun human",yes,logical,bbc-15674,7837
+"If a daffodil is a horse, then a daffodil cannot outrun human",no,logical,bbc-15675,7837
+"If a computer is a horse, then a computer is larger than person",yes,logical,bbc-15706,7853
+"If a computer is a horse, then a computer is not larger than person",no,logical,bbc-15707,7853
+"If a daffodil is a horse, then a daffodil can jump across fence",yes,logical,bbc-15744,7872
+"If a daffodil is a horse, then a daffodil cannot jump across fence",no,logical,bbc-15745,7872
+"If an albatross is a horse, then an albatross can pull cart",yes,logical,bbc-15788,7894
+"If an albatross is a horse, then an albatross cannot pull cart",no,logical,bbc-15789,7894
+"If an ape is a horse, then an ape can jump hedge",yes,logical,bbc-15810,7905
+"If an ape is a horse, then an ape cannot jump hedge",no,logical,bbc-15811,7905
+"If an ant is a horse, then an ant has a foal",yes,logical,bbc-15890,7945
+"If an ant is a horse, then an ant does not have a foal",no,logical,bbc-15891,7945
+"If an albatross is asia, then an albatross is a continent",yes,logical,bbc-16026,8013
+"If an albatross is asia, then an albatross is not a continent",no,logical,bbc-16027,8013
+"If an adder is asia, then an adder is africa",no,logical,bbc-16060,8030
+"If an adder is asia, then an adder is not africa",yes,logical,bbc-16061,8030
+"If an ape is a forest, then an ape has a tree",yes,logical,bbc-16110,8055
+"If an ape is a forest, then an ape does not have a tree",no,logical,bbc-16111,8055
+"If a computer is a forest, then a computer is beautiful in every season",yes,logical,bbc-16188,8094
+"If a computer is a forest, then a computer is not beautiful in every season",no,logical,bbc-16189,8094
+"If an ape is a forest, then an ape is a city",no,logical,bbc-16218,8109
+"If an ape is a forest, then an ape is not a city",yes,logical,bbc-16219,8109
+"If an ape is a forest, then an ape is a continent",no,logical,bbc-16254,8127
+"If an ape is a forest, then an ape is not a continent",yes,logical,bbc-16255,8127
+"If a computer is an edible fruit, then a computer is a fruit",yes,logical,bbc-16274,8137
+"If a computer is an edible fruit, then a computer is not a fruit",no,logical,bbc-16275,8137
+"If an ant is a wheel, then an ant is jewelry",no,logical,bbc-16458,8229
+"If an ant is a wheel, then an ant is not jewelry",yes,logical,bbc-16459,8229
+"If an ant is an ant, then an ant is an insect",yes,logical,bbc-16494,8247
+"If an ant is an ant, then an ant is not an insect",no,logical,bbc-16495,8247
+"If an adder is an ant, then an adder is a vermin",yes,logical,bbc-16592,8296
+"If an adder is an ant, then an adder is not a vermin",no,logical,bbc-16593,8296
+"If a computer is an ant, then a computer is a wasp",no,logical,bbc-16600,8300
+"If a computer is an ant, then a computer is not a wasp",yes,logical,bbc-16601,8300
+"If a daffodil is an ant, then a daffodil is a wasp",no,logical,bbc-16608,8304
+"If a daffodil is an ant, then a daffodil is not a wasp",yes,logical,bbc-16609,8304
+"If an ant is a continent, then an ant is a body of water",no,logical,bbc-16636,8318
+"If an ant is a continent, then an ant is not a body of water",yes,logical,bbc-16637,8318
+"If an ape is an airplane, then an ape has wheels",yes,logical,bbc-16696,8348
+"If an ape is an airplane, then an ape does not have wheels",no,logical,bbc-16697,8348
+"If a computer is an airplane, then a computer can circle airport",yes,logical,bbc-16816,8408
+"If a computer is an airplane, then a computer cannot circle airport",no,logical,bbc-16817,8408
+"If an ant is an airplane, then an ant can fly upwards",yes,logical,bbc-16888,8444
+"If an ant is an airplane, then an ant cannot fly upwards",no,logical,bbc-16889,8444
+"If a daffodil is an airplane, then a daffodil can land on landing strip",yes,logical,bbc-16924,8462
+"If a daffodil is an airplane, then a daffodil cannot land on landing strip",no,logical,bbc-16925,8462
+"If an ape is an airplane, then an ape is an air transportation vehicle",yes,logical,bbc-16962,8481
+"If an ape is an airplane, then an ape is not an air transportation vehicle",no,logical,bbc-16963,8481
+"If a daffodil is an airplane, then a daffodil can travel through many time zones",yes,logical,bbc-16980,8490
+"If a daffodil is an airplane, then a daffodil cannot travel through many time zones",no,logical,bbc-16981,8490
+"If a cypress is an airplane, then a cypress has a navigation light",yes,logical,bbc-16992,8496
+"If a cypress is an airplane, then a cypress does not have a navigation light",no,logical,bbc-16993,8496
+"If a daffodil is an airplane, then a daffodil has a radome",yes,logical,bbc-17064,8532
+"If a daffodil is an airplane, then a daffodil does not have a radome",no,logical,bbc-17065,8532
+"If a computer is an airplane, then a computer can crash if goes wrong",yes,logical,bbc-17068,8534
+"If a computer is an airplane, then a computer cannot crash if goes wrong",no,logical,bbc-17069,8534
+"If an adder is an airplane, then an adder can land in field",yes,logical,bbc-17226,8613
+"If an adder is an airplane, then an adder cannot land in field",no,logical,bbc-17227,8613
+"If an ant is an airplane, then an ant is a car",no,logical,bbc-17252,8626
+"If an ant is an airplane, then an ant is not a car",yes,logical,bbc-17253,8626
+"If an ant is clothes, then an ant can dry on rail",yes,logical,bbc-17330,8665
+"If an ant is clothes, then an ant cannot dry on rail",no,logical,bbc-17331,8665
+"If an ant is clothes, then an ant is a toy",no,logical,bbc-17390,8695
+"If an ant is clothes, then an ant is not a toy",yes,logical,bbc-17391,8695
+"If a computer is a wine, then a computer is an alcoholic beverage",yes,logical,bbc-17448,8724
+"If a computer is a wine, then a computer is not an alcoholic beverage",no,logical,bbc-17449,8724
+"If a computer is a wine, then a computer can age with time",yes,logical,bbc-17460,8730
+"If a computer is a wine, then a computer cannot age with time",no,logical,bbc-17461,8730
+"If an albatross is a wine, then an albatross is alcohol",yes,logical,bbc-17494,8747
+"If an albatross is a wine, then an albatross is not alcohol",no,logical,bbc-17495,8747
+"If an albatross is a wine, then an albatross can age without losing taste",yes,logical,bbc-17614,8807
+"If an albatross is a wine, then an albatross cannot age without losing taste",no,logical,bbc-17615,8807
+"If an adder is a wine, then an adder can age without losing taste",yes,logical,bbc-17620,8810
+"If an adder is a wine, then an adder cannot age without losing taste",no,logical,bbc-17621,8810
+"If a cypress is a wine, then a cypress can age without losing taste",yes,logical,bbc-17624,8812
+"If a cypress is a wine, then a cypress cannot age without losing taste",no,logical,bbc-17625,8812
+"If an ant is a wine, then an ant can turn into vinegar",yes,logical,bbc-17666,8833
+"If an ant is a wine, then an ant cannot turn into vinegar",no,logical,bbc-17667,8833
+"If an ant is a wine, then an ant is a drink",yes,logical,bbc-17690,8845
+"If an ant is a wine, then an ant is not a drink",no,logical,bbc-17691,8845
+"If an ape is a wine, then an ape is a drink",yes,logical,bbc-17694,8847
+"If an ape is a wine, then an ape is not a drink",no,logical,bbc-17695,8847
+"If an albatross is a wine, then an albatross is soda",no,logical,bbc-17698,8849
+"If an albatross is a wine, then an albatross is not soda",yes,logical,bbc-17699,8849
+"If an ant is a meal, then an ant is a soup",no,logical,bbc-17754,8877
+"If an ant is a meal, then an ant is not a soup",yes,logical,bbc-17755,8877
+"If an ape is a meal, then an ape is a vegetable",no,logical,bbc-17772,8886
+"If an ape is a meal, then an ape is not a vegetable",yes,logical,bbc-17773,8886
+"If a computer is a city, then a computer has a city center",yes,logical,bbc-17808,8904
+"If a computer is a city, then a computer does not have a city center",no,logical,bbc-17809,8904
+"If an ant is a city, then an ant is a place",yes,logical,bbc-17894,8947
+"If an ant is a city, then an ant is not a place",no,logical,bbc-17895,8947
+"If a computer is a city, then a computer has a financial center",yes,logical,bbc-17962,8981
+"If a computer is a city, then a computer does not have a financial center",no,logical,bbc-17963,8981
+"If an albatross is a city, then an albatross has a civic center",yes,logical,bbc-18002,9001
+"If an albatross is a city, then an albatross does not have a civic center",no,logical,bbc-18003,9001
+"If an albatross is a city, then an albatross is an administrative district",yes,logical,bbc-18016,9008
+"If an albatross is a city, then an albatross is not an administrative district",no,logical,bbc-18017,9008
+"If an ape is a city, then an ape has an uptown",yes,logical,bbc-18080,9040
+"If an ape is a city, then an ape does not have an uptown",no,logical,bbc-18081,9040
+"If a daffodil is a city, then a daffodil has a medical center",yes,logical,bbc-18112,9056
+"If a daffodil is a city, then a daffodil does not have a medical center",no,logical,bbc-18113,9056
+"If an ape is a city, then an ape is a town",no,logical,bbc-18178,9089
+"If an ape is a city, then an ape is not a town",yes,logical,bbc-18179,9089
+"If a daffodil is a flower, then a daffodil has a perianth",yes,logical,bbc-18236,9118
+"If a daffodil is a flower, then a daffodil does not have a perianth",no,logical,bbc-18237,9118
+"If an adder is a flower, then an adder has a stamen",yes,logical,bbc-18266,9133
+"If an adder is a flower, then an adder does not have a stamen",no,logical,bbc-18267,9133
+"If a computer is a flower, then a computer can cast shadow",yes,logical,bbc-18298,9149
+"If a computer is a flower, then a computer cannot cast shadow",no,logical,bbc-18299,9149
+"If an ape is a flower, then an ape has a floral leaf",yes,logical,bbc-18340,9170
+"If an ape is a flower, then an ape does not have a floral leaf",no,logical,bbc-18341,9170
+"If an adder is a flower, then an adder is a living thing",yes,logical,bbc-18386,9193
+"If an adder is a flower, then an adder is not a living thing",no,logical,bbc-18387,9193
+"If a cypress is a flower, then a cypress can open",yes,logical,bbc-18426,9213
+"If a cypress is a flower, then a cypress cannot open",no,logical,bbc-18427,9213
+"If an ant is a cake, then an ant is food",yes,logical,bbc-18552,9276
+"If an ant is a cake, then an ant is not food",no,logical,bbc-18553,9276
+"If a computer is a cake, then a computer is a baked food",yes,logical,bbc-18558,9279
+"If a computer is a cake, then a computer is not a baked food",no,logical,bbc-18559,9279
+"If an ape is a cake, then an ape is sweet",yes,logical,bbc-18610,9305
+"If an ape is a cake, then an ape is not sweet",no,logical,bbc-18611,9305
+"If a daffodil is a cake, then a daffodil has an icing",yes,logical,bbc-18668,9334
+"If a daffodil is a cake, then a daffodil does not have an icing",no,logical,bbc-18669,9334
+"If an adder is a cheese, then an adder has a cheese rind",yes,logical,bbc-18830,9415
+"If an adder is a cheese, then an adder does not have a cheese rind",no,logical,bbc-18831,9415
+"If an ape is a cheese, then an ape is a dairy product from cows",yes,logical,bbc-18880,9440
+"If an ape is a cheese, then an ape is not a dairy product from cows",no,logical,bbc-18881,9440
+"If a daffodil is a cheese, then a daffodil is sugar",no,logical,bbc-18980,9490
+"If a daffodil is a cheese, then a daffodil is not sugar",yes,logical,bbc-18981,9490
+"If an ape is a cheese, then an ape is a soup",no,logical,bbc-19024,9512
+"If an ape is a cheese, then an ape is not a soup",yes,logical,bbc-19025,9512
+"If a cypress is a kitchen, then a cypress is a room in house",yes,logical,bbc-19108,9554
+"If a cypress is a kitchen, then a cypress is not a room in house",no,logical,bbc-19109,9554
+"If an ape is a kitchen, then an ape is a bathroom",no,logical,bbc-19134,9567
+"If an ape is a kitchen, then an ape is not a bathroom",yes,logical,bbc-19135,9567
+"If a daffodil is a molecule, then a daffodil is a mineral",no,logical,bbc-19222,9611
+"If a daffodil is a molecule, then a daffodil is not a mineral",yes,logical,bbc-19223,9611
+"If an ape is a molecule, then an ape is a sound",no,logical,bbc-19246,9623
+"If an ape is a molecule, then an ape is not a sound",yes,logical,bbc-19247,9623
+"If a computer is a molecule, then a computer is an art",no,logical,bbc-19296,9648
+"If a computer is a molecule, then a computer is not an art",yes,logical,bbc-19297,9648
+"If an adder is a fungus, then an adder is a heterotroph",yes,logical,bbc-19452,9726
+"If an adder is a fungus, then an adder is not a heterotroph",no,logical,bbc-19453,9726
+"If a daffodil is a fungus, then a daffodil is an eukaryotic organism",yes,logical,bbc-19472,9736
+"If a daffodil is a fungus, then a daffodil is not an eukaryotic organism",no,logical,bbc-19473,9736
+"If an ape is a fungus, then an ape is a plant",no,logical,bbc-19510,9755
+"If an ape is a fungus, then an ape is not a plant",yes,logical,bbc-19511,9755
+"If an albatross is a lake, then an albatross is a body of water",yes,logical,bbc-19528,9764
+"If an albatross is a lake, then an albatross is not a body of water",no,logical,bbc-19529,9764
+"If an ape is a lake, then an ape is a body of fresh water",yes,logical,bbc-19594,9797
+"If an ape is a lake, then an ape is not a body of fresh water",no,logical,bbc-19595,9797
+"If a daffodil is a lake, then a daffodil is a body of fresh water",yes,logical,bbc-19598,9799
+"If a daffodil is a lake, then a daffodil is not a body of fresh water",no,logical,bbc-19599,9799
+"If a daffodil is a lake, then a daffodil is a place to go fishing",yes,logical,bbc-19682,9841
+"If a daffodil is a lake, then a daffodil is not a place to go fishing",no,logical,bbc-19683,9841
+"If an ant is a lake, then an ant is a site",yes,logical,bbc-19700,9850
+"If an ant is a lake, then an ant is not a site",no,logical,bbc-19701,9850
+"If a daffodil is a soup, then a daffodil is food",yes,logical,bbc-19766,9883
+"If a daffodil is a soup, then a daffodil is not food",no,logical,bbc-19767,9883
+"If an adder is a metal, then an adder is a hard substance",yes,logical,bbc-19798,9899
+"If an adder is a metal, then an adder is not a hard substance",no,logical,bbc-19799,9899
+"If an ant is a metal, then an ant is a conductor",yes,logical,bbc-19856,9928
+"If an ant is a metal, then an ant is not a conductor",no,logical,bbc-19857,9928
+"If an albatross is a movie, then an albatross is a toy",no,logical,bbc-19932,9966
+"If an albatross is a movie, then an albatross is not a toy",yes,logical,bbc-19933,9966
+"If an ant is a movie, then an ant is a toy",no,logical,bbc-19936,9968
+"If an ant is a movie, then an ant is not a toy",yes,logical,bbc-19937,9968
+"If a computer is a movie, then a computer is a kitchen utensil",no,logical,bbc-19948,9974
+"If a computer is a movie, then a computer is not a kitchen utensil",yes,logical,bbc-19949,9974
+"If an albatross is a building, then an albatross is bigger than person",yes,logical,bbc-19988,9994
+"If an albatross is a building, then an albatross is not bigger than person",no,logical,bbc-19989,9994
+"If a daffodil is a building, then a daffodil has a roof",yes,logical,bbc-20028,10014
+"If a daffodil is a building, then a daffodil does not have a roof",no,logical,bbc-20029,10014
+"If an ape is a building, then an ape has a window",yes,logical,bbc-20122,10061
+"If an ape is a building, then an ape does not have a window",no,logical,bbc-20123,10061
+"If a computer is a building, then a computer is an artificial structure",yes,logical,bbc-20284,10142
+"If a computer is a building, then a computer is not an artificial structure",no,logical,bbc-20285,10142
+"If a computer is a building, then a computer is a door",no,logical,bbc-20312,10156
+"If a computer is a building, then a computer is not a door",yes,logical,bbc-20313,10156
+"If a computer is a building, then a computer is a room",no,logical,bbc-20326,10163
+"If a computer is a building, then a computer is not a room",yes,logical,bbc-20327,10163
+"If an ant is hair, then an ant is filament",yes,logical,bbc-20364,10182
+"If an ant is hair, then an ant is not filament",no,logical,bbc-20365,10182
+"If a computer is hair, then a computer has a follicle",yes,logical,bbc-20434,10217
+"If a computer is hair, then a computer does not have a follicle",no,logical,bbc-20435,10217
+"If a daffodil is hair, then a daffodil is very thin",yes,logical,bbc-20480,10240
+"If a daffodil is hair, then a daffodil is not very thin",no,logical,bbc-20481,10240
+"If a computer is hair, then a computer is an anatomical structure",yes,logical,bbc-20482,10241
+"If a computer is hair, then a computer is not an anatomical structure",no,logical,bbc-20483,10241
+"If a daffodil is hair, then a daffodil is a disease",no,logical,bbc-20612,10306
+"If a daffodil is hair, then a daffodil is not a disease",yes,logical,bbc-20613,10306
+"If a cypress is a snake, then a cypress can pet",yes,logical,bbc-20772,10386
+"If a cypress is a snake, then a cypress cannot pet",no,logical,bbc-20773,10386
+"If an adder is a wasp, then an adder is an insect",yes,logical,bbc-20820,10410
+"If an adder is a wasp, then an adder is not an insect",no,logical,bbc-20821,10410
+"If a cypress is a wasp, then a cypress is an insect",yes,logical,bbc-20824,10412
+"If a cypress is a wasp, then a cypress is not an insect",no,logical,bbc-20825,10412
+"If a computer is a wasp, then a computer can sting more than once",yes,logical,bbc-20844,10422
+"If a computer is a wasp, then a computer cannot sting more than once",no,logical,bbc-20845,10422
+"If a daffodil is a wasp, then a daffodil can sting more than once",yes,logical,bbc-20854,10427
+"If a daffodil is a wasp, then a daffodil cannot sting more than once",no,logical,bbc-20855,10427
+"If a computer is a door, then a computer is open or closed",yes,logical,bbc-20886,10443
+"If a computer is a door, then a computer is not open or closed",no,logical,bbc-20887,10443
+"If a computer is a door, then a computer is rectangular in shape",yes,logical,bbc-20928,10464
+"If a computer is a door, then a computer is not rectangular in shape",no,logical,bbc-20929,10464
+"If an ape is a door, then an ape is a structure",yes,logical,bbc-20948,10474
+"If an ape is a door, then an ape is not a structure",no,logical,bbc-20949,10474
+"If a cypress is a salad, then a cypress is a healthy food",yes,logical,bbc-21006,10503
+"If a cypress is a salad, then a cypress is not a healthy food",no,logical,bbc-21007,10503
+"If a computer is a salad, then a computer is a cake",no,logical,bbc-21026,10513
+"If a computer is a salad, then a computer is not a cake",yes,logical,bbc-21027,10513
+"If an albatross is a salad, then an albatross is a fruit",no,logical,bbc-21038,10519
+"If an albatross is a salad, then an albatross is not a fruit",yes,logical,bbc-21039,10519
+"If an albatross is a salad, then an albatross is a soup",no,logical,bbc-21066,10533
+"If an albatross is a salad, then an albatross is not a soup",yes,logical,bbc-21067,10533
+"If an ape is a drink, then an ape is a liquid",yes,logical,bbc-21100,10550
+"If an ape is a drink, then an ape is not a liquid",no,logical,bbc-21101,10550
+"If an albatross is an action, then an albatross can result in reaction",yes,logical,bbc-21120,10560
+"If an albatross is an action, then an albatross cannot result in reaction",no,logical,bbc-21121,10560
+"If an ant is an action, then an ant is a sport",no,logical,bbc-21152,10576
+"If an ant is an action, then an ant is not a sport",yes,logical,bbc-21153,10576
+"If a computer is soda, then a computer is another name for carbonated beverage",yes,logical,bbc-21206,10603
+"If a computer is soda, then a computer is not another name for carbonated beverage",no,logical,bbc-21207,10603
+"If an ape is a human being, then an ape is made of flesh",yes,logical,bbc-21402,10701
+"If an ape is a human being, then an ape is not made of flesh",no,logical,bbc-21403,10701
+"If a cypress is a human being, then a cypress has five fingers on each hand",yes,logical,bbc-21416,10708
+"If a cypress is a human being, then a cypress does not have five fingers on each hand",no,logical,bbc-21417,10708
+"If a daffodil is a human being, then a daffodil can drink milk of coconut",yes,logical,bbc-21430,10715
+"If a daffodil is a human being, then a daffodil cannot drink milk of coconut",no,logical,bbc-21431,10715
+"If an albatross is a boat, then an albatross is a form of transportation",yes,logical,bbc-21662,10831
+"If an albatross is a boat, then an albatross is not a form of transportation",no,logical,bbc-21663,10831
+"If an ant is a boat, then an ant is a form of transportation",yes,logical,bbc-21666,10833
+"If an ant is a boat, then an ant is not a form of transportation",no,logical,bbc-21667,10833
+"If an ant is a boat, then an ant is a mean of transport",yes,logical,bbc-21722,10861
+"If an ant is a boat, then an ant is not a mean of transport",no,logical,bbc-21723,10861
+"If an albatross is a boat, then an albatross can get to floating football",yes,logical,bbc-21858,10929
+"If an albatross is a boat, then an albatross cannot get to floating football",no,logical,bbc-21859,10929
+"If a daffodil is a candy, then a daffodil is a fruit",no,logical,bbc-22172,11086
+"If a daffodil is a candy, then a daffodil is not a fruit",yes,logical,bbc-22173,11086
+"If an ant is a kitchen utensil, then an ant is a tool",yes,logical,bbc-22214,11107
+"If an ant is a kitchen utensil, then an ant is not a tool",no,logical,bbc-22215,11107
+"If an adder is a carbohydrate, then an adder is plastic",no,logical,bbc-22268,11134
+"If an adder is a carbohydrate, then an adder is not plastic",yes,logical,bbc-22269,11134
+"If an ape is a carbohydrate, then an ape is an acid",no,logical,bbc-22284,11142
+"If an ape is a carbohydrate, then an ape is not an acid",yes,logical,bbc-22285,11142
+"If an ape is a virus, then an ape can infect",yes,logical,bbc-22324,11162
+"If an ape is a virus, then an ape cannot infect",no,logical,bbc-22325,11162
+"If an albatross is a virus, then an albatross can reproduce",yes,logical,bbc-22328,11164
+"If an albatross is a virus, then an albatross cannot reproduce",no,logical,bbc-22329,11164
+"If a computer is a stone, then a computer is a mineral",yes,logical,bbc-22450,11225
+"If a computer is a stone, then a computer is not a mineral",no,logical,bbc-22451,11225
+"If a computer is a government, then a computer can require to pay taxes",yes,logical,bbc-22500,11250
+"If a computer is a government, then a computer cannot require to pay taxes",no,logical,bbc-22501,11250
+"If a daffodil is a government, then a daffodil is an art",no,logical,bbc-22544,11272
+"If a daffodil is a government, then a daffodil is not an art",yes,logical,bbc-22545,11272
+"If a computer is a government, then a computer is an action",no,logical,bbc-22572,11286
+"If a computer is a government, then a computer is not an action",yes,logical,bbc-22573,11286
+"If a cypress is a government, then a cypress is fire",no,logical,bbc-22614,11307
+"If a cypress is a government, then a cypress is not fire",yes,logical,bbc-22615,11307
+"If an albatross is an art, then an albatross is a company",no,logical,bbc-22678,11339
+"If an albatross is an art, then an albatross is not a company",yes,logical,bbc-22679,11339
+"If an ape is an art, then an ape is an action",no,logical,bbc-22704,11352
+"If an ape is an art, then an ape is not an action",yes,logical,bbc-22705,11352
+"If an adder is a drug, then an adder is a chemical substance",yes,logical,bbc-22742,11371
+"If an adder is a drug, then an adder is not a chemical substance",no,logical,bbc-22743,11371
+"If an ape is a drug, then an ape is a chemical substance",yes,logical,bbc-22744,11372
+"If an ape is a drug, then an ape is not a chemical substance",no,logical,bbc-22745,11372
+"If a daffodil is a drug, then a daffodil is useful",yes,logical,bbc-22796,11398
+"If a daffodil is a drug, then a daffodil is not useful",no,logical,bbc-22797,11398
+"If an adder is a drug, then an adder is a movie",no,logical,bbc-22862,11431
+"If an adder is a drug, then an adder is not a movie",yes,logical,bbc-22863,11431
+"If an ant is a drug, then an ant is a toy",no,logical,bbc-22884,11442
+"If an ant is a drug, then an ant is not a toy",yes,logical,bbc-22885,11442
+"If a cypress is a company, then a cypress can out source administration",yes,logical,bbc-23056,11528
+"If a cypress is a company, then a cypress cannot out source administration",no,logical,bbc-23057,11528
+"If an ape is a company, then an ape is an organization",yes,logical,bbc-23082,11541
+"If an ape is a company, then an ape is not an organization",no,logical,bbc-23083,11541
+"If an ape is a company, then an ape can provide pension for employees",yes,logical,bbc-23180,11590
+"If an ape is a company, then an ape cannot provide pension for employees",no,logical,bbc-23181,11590
+"If an adder is a company, then an adder can do lease facilities",yes,logical,bbc-23234,11617
+"If an adder is a company, then an adder cannot do lease facilities",no,logical,bbc-23235,11617
+"If an ant is a disease, then an ant is an illness",yes,logical,bbc-23358,11679
+"If an ant is a disease, then an ant is not an illness",no,logical,bbc-23359,11679
+"If an ape is a disease, then an ape has a symptom",yes,logical,bbc-23372,11686
+"If an ape is a disease, then an ape does not have a symptom",no,logical,bbc-23373,11686
+"If a cypress is a disease, then a cypress has a symptom",yes,logical,bbc-23374,11687
+"If a cypress is a disease, then a cypress does not have a symptom",no,logical,bbc-23375,11687
+"If a daffodil is a sport, then a daffodil is a game",yes,logical,bbc-23460,11730
+"If a daffodil is a sport, then a daffodil is not a game",no,logical,bbc-23461,11730
+"If an ant is an acid, then an ant is a chemical",yes,logical,bbc-23556,11778
+"If an ant is an acid, then an ant is not a chemical",no,logical,bbc-23557,11778
+"If an albatross is a structure, then an albatross is a movie",no,logical,bbc-23696,11848
+"If an albatross is a structure, then an albatross is not a movie",yes,logical,bbc-23697,11848
+"If an ape is a structure, then an ape is a kitchen utensil",no,logical,bbc-23740,11870
+"If an ape is a structure, then an ape is not a kitchen utensil",yes,logical,bbc-23741,11870
+"If an ant is an artifact, then an ant is hair",no,logical,bbc-23832,11916
+"If an ant is an artifact, then an ant is not hair",yes,logical,bbc-23833,11916
+"If an ape is an artifact, then an ape is a sport",no,logical,bbc-23864,11932
+"If an ape is an artifact, then an ape is not a sport",yes,logical,bbc-23865,11932
+"If a daffodil is a location, then a daffodil is a science",no,logical,bbc-24004,12002
+"If a daffodil is a location, then a daffodil is not a science",yes,logical,bbc-24005,12002
+"If a daffodil is a location, then a daffodil is a government",no,logical,bbc-24016,12008
+"If a daffodil is a location, then a daffodil is not a government",yes,logical,bbc-24017,12008
+"If an adder is a location, then an adder is a company",no,logical,bbc-24034,12017
+"If an adder is a location, then an adder is not a company",yes,logical,bbc-24035,12017
+"If an adder is a bacterium, then an adder is a fungus",no,logical,bbc-24182,12091
+"If an adder is a bacterium, then an adder is not a fungus",yes,logical,bbc-24183,12091
+"If an adder is a mineral, then an adder is an artifact",no,logical,bbc-24208,12104
+"If an adder is a mineral, then an adder is not an artifact",yes,logical,bbc-24209,12104
+"If a daffodil is a mineral, then a daffodil is a government",no,logical,bbc-24270,12135
+"If a daffodil is a mineral, then a daffodil is not a government",yes,logical,bbc-24271,12135
+"If a computer is a mineral, then a computer is a disease",no,logical,bbc-24344,12172
+"If a computer is a mineral, then a computer is not a disease",yes,logical,bbc-24345,12172
+"If a daffodil is a crustacean, then a daffodil is an insect",no,logical,bbc-24486,12243
+"If a daffodil is a crustacean, then a daffodil is not an insect",yes,logical,bbc-24487,12243
+"If an ant is a jellyfish, then an ant is an invertebrate",yes,logical,bbc-24530,12265
+"If an ant is a jellyfish, then an ant is not an invertebrate",no,logical,bbc-24531,12265
+"If a cypress is a jellyfish, then a cypress is an invertebrate",yes,logical,bbc-24534,12267
+"If a cypress is a jellyfish, then a cypress is not an invertebrate",no,logical,bbc-24535,12267
+"If an ape is a jellyfish, then an ape can hurt person",yes,logical,bbc-24568,12284
+"If an ape is a jellyfish, then an ape cannot hurt person",no,logical,bbc-24569,12284
+"If a computer is an invertebrate, then a computer is a cold blooded animal",yes,logical,bbc-24616,12308
+"If a computer is an invertebrate, then a computer is not a cold blooded animal",no,logical,bbc-24617,12308
+"If an albatross is a rodent, then an albatross is an animal",yes,logical,bbc-24678,12339
+"If an albatross is a rodent, then an albatross is not an animal",no,logical,bbc-24679,12339
+"If a cypress is a rodent, then a cypress is a mammal",yes,logical,bbc-24710,12355
+"If a cypress is a rodent, then a cypress is not a mammal",no,logical,bbc-24711,12355
+"If a daffodil is a rodent, then a daffodil is a human being",no,logical,bbc-24784,12392
+"If a daffodil is a rodent, then a daffodil is not a human being",yes,logical,bbc-24785,12392
+"If an adder is a herb, then an adder is an edible thing",yes,logical,bbc-24808,12404
+"If an adder is a herb, then an adder is not an edible thing",no,logical,bbc-24809,12404
+"If a computer is a herb, then a computer is a cake",no,logical,bbc-24866,12433
+"If a computer is a herb, then a computer is not a cake",yes,logical,bbc-24867,12433

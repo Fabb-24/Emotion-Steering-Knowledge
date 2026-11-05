@@ -1,0 +1,2387 @@
+layer,mode,emotion,alpha,prompt,text
+17,fixed,none,0.0,Write a short story about a man walking home from work.,"It was a warm summer evening, the kind that made you feel grateful to be alive. The sun had just begun to set, casting a golden glow over the city. John, a software engineer, walked home from work, his feet carrying him along the familiar streets.
+
+As he strolled, he couldn't help but feel a sense of contentment wash over him. The day had been long, but he had accomplished everything he set out to do. He had worked on a challenging project, and"
+17,fixed,none,0.0,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a unique and captivating experience. The sky is a deep, foreboding grey, with thick clouds that seem to swallow the sun whole. The air is cool and damp, carrying the scent of wet pavement and ozone.
+
+As the rain falls, the city comes alive with the rhythmic beat of raindrops on the pavement, umbrellas, and roofs. The sound is almost musical, a soothing melody that seems to wash away the stresses of the day. The rain"
+17,fixed,none,0.0,"Continue the story: When I opened the door, I","...was met with a warm smile from my grandmother, who was standing in the doorway of her cozy little cottage, a look of excitement in her eyes. ""Ah, dear, I've been expecting you,"" she said, her voice filled with a gentle warmth that always made me feel at home.
+
+As I stepped inside, I was enveloped by the familiar scent of fresh-baked cookies and the soft hum of the old radio playing in the background. My grandmother's cottage was a place where time"
+17,fixed,none,0.0,Write a short story about a woman waiting at a train station.,"It was a drizzly summer evening, and the train station was dimly lit, the only sound being the soft hum of the fluorescent lights above. Rachel stood by the large glass windows, her eyes fixed on the platform where her train was supposed to arrive. She checked her watch for what felt like the hundredth time, the numbers ticking away with agonizing slowness.
+
+She had been waiting for over an hour, and the station was slowly emptying out. The few remaining passengers were either"
+17,fixed,afraid,0.4,Write a short story about a man walking home from work.,"It was a chilly autumn evening, the kind that made you want to wrap your arms around yourself and hurry home. John, a young man in his mid-twenties, walked down the deserted street, his footsteps echoing off the buildings. He had just left the office, where he worked as a graphic designer, and was heading back to his apartment.
+
+As he walked, John's mind began to wander. He thought about the project he was working on, a new logo for a local business."
+17,fixed,afraid,0.4,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a unique and captivating experience. The sky is a deep, foreboding grey, with thick clouds that seem to swirl and twist above the towering skyscrapers. The air is heavy with the scent of wet pavement and ozone, and the sound of raindrops hitting the ground creates a rhythmic drumbeat that echoes through the streets.
+
+As the rain pours down, the city's streets become narrow, winding canyons, with the rainwater rushing down the gut"
+17,fixed,afraid,0.4,"Continue the story: When I opened the door, I","When I opened the door, I was met with an eerie silence. The streetlights cast long shadows on the pavement, making it seem as if the houses themselves were watching me. I hesitated for a moment, my heart pounding in my chest, before stepping out into the night.
+
+The air was thick with an otherworldly presence, and I couldn't shake the feeling that I was being pulled towards something. I fumbled for my phone, trying to remember if I had left the lights on"
+17,fixed,afraid,0.4,Write a short story about a woman waiting at a train station.,"The dim lights of the train station flickered above, casting eerie shadows on the deserted platform. Emily huddled in her coat, her eyes fixed on the schedule board, where the numbers and letters seemed to dance in the darkness. She had been waiting for what felt like an eternity, her heart pounding in her chest.
+
+It was a night like any other, but Emily's anxiety had been building for hours. She had been waiting for her brother, Jack, to arrive on the midnight train, but"
+17,fixed,afraid,0.6,Write a short story about a man walking home from work.,"It was a chilly autumn night, and the streets were empty. John, a lone figure, walked down the sidewalk, his eyes fixed on the ground. He was trying to get home from work as quickly as possible. The sound of his footsteps echoed through the deserted streets.
+
+As he walked, John's mind was racing. He had just left the office, where he had been working late to meet a looming deadline. His heart was pounding, and his breath was caught in his chest. He thought"
+17,fixed,afraid,0.6,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a chilling and eerie experience. The streets are empty, save for the occasional figure darting for shelter. The sound of raindrops hitting the pavement creates a cacophony of hissing and pounding, making it difficult to distinguish between the different noises.
+
+The streetlights flickered to life, casting long shadows across the deserted streets. The rain-soaked pavement reflected the lights, making the streets seem like a maze of dark, twisted paths. The wind howled through"
+17,fixed,afraid,0.6,"Continue the story: When I opened the door, I","When I opened the door, I saw something that made my heart stop. It was a figure standing in the hallway, its eyes fixed on me. I tried to scream, but my voice was frozen in my throat. The figure was tall and gaunt, with a presence that seemed to fill the entire hallway. I couldn't see any windows or any other light source, but the figure seemed to be illuminated by an unseen light.
+
+I tried to move, but my legs were paralyzed with fear."
+17,fixed,afraid,0.6,Write a short story about a woman waiting at a train station.,"Emily stood at the edge of the platform, her eyes fixed on the train that was slowly making its way into the station. The lights on the train seemed to be getting brighter, and she could hear the sound of the wheels screeching as it came to a halt. She held her breath, her heart pounding in her chest.
+
+She had been waiting for what felt like an eternity, but it was only a few minutes. The train was a few cars ahead of the one she was on,"
+17,fixed,afraid,0.8,Write a short story about a man walking home from work.,"It was a night like any other in the city. The streetlights cast long shadows on the pavement, and the sound of footsteps echoed down the deserted streets. Thomas, a man in his mid-30s, walked home from work, his eyes fixed on the ground.
+
+He had been in the city for years, but the streets seemed to be getting darker and quieter. The buildings seemed to loom over him, their windows like empty eyes. Thomas tried to shake off the feeling, but it"
+17,fixed,afraid,0.8,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a terrifyingly vivid experience. The streets are eerily illuminated by the streetlights, casting long shadows on the pavement. The sound of thunder or the hissing of pipes in the sewers beneath the streets are the only sounds that echo through the deserted streets. The wind is whipping up, making the trees and buildings seem to sway and twist.
+
+The rain is pouring down, making the streets seem to run with water. The storm drains are hissing and spitting"
+17,fixed,afraid,0.8,"Continue the story: When I opened the door, I","What was it? Do you see anything or hear anything? 
+
+What was it? Do you see anything or hear anything? Do you see anything or hear anything? Do you see anything or hear anything? Do you see anything or hear anything? Do you see anything or hear anything? Do you see anything or hear anything? Do you see anything or hear anything? Do you see anything or hear anything? Do you see anything or hear anything? Do you see anything or hear anything? Do you see"
+17,fixed,afraid,0.8,Write a short story about a woman waiting at a train station.,"The train station was deserted, except for a lone figure standing in the corner of the room. Emily, a young woman, was huddled in the darkness, trying to breathe. She was not alone, but she was not alone either. The sound of the train was coming, but it was not coming yet.
+
+Emily's eyes were fixed on the tracks, but she was not looking at the tracks. She was looking at something else. She was looking at the sound of the train, the sound"
+17,fixed,afraid,1.0,Write a short story about a man walking home from work.,"What was the source of the sound? The sound of footsteps, or something else? The man, Jack, was alone in the street, and the sound was coming from behind. It was a faint sound, but it was getting louder. Jack was trying to get home from work, and it was not far from the street. The street was empty, and the street was quiet.
+
+The sound was getting louder, and it was coming closer. Jack was trying to get to the street, but it"
+17,fixed,afraid,1.0,Describe a rainy afternoon in the city.,"What are the sounds and the lights in a city during a rain? 
+
+The city was alive, but the streets were empty. The sound of thunder and the hissing of the wind made the trees and the buildings. The lights were on, but the windows were closed. The trees were swaying, and the lights were flicking. The wind was making the trees and the buildings. The lights were on, but the windows were closed. The trees were swaying, and the lights were flick"
+17,fixed,afraid,1.0,"Continue the story: When I opened the door, I","what were the lights or sounds? or what was the source of the noise or the movement?
+
+What were the lights or sounds? or what was the source of the noise or the movement?
+
+What were the lights or sounds? or what was the source of the noise or the lights or sounds? or what was the source of the noise or the movement?
+
+What were the lights or sounds? or what was the source of the noise or the movement?
+
+What were the lights or sounds? or what was"
+17,fixed,afraid,1.0,Write a short story about a woman waiting at a train station.,"The train station was deserted, except for a faint sound of a train's whistle in the distance. Emily was standing alone in the darkness, her eyes fixed on the tracks. She was not alone, but the other passengers were huddled in the corner, trying to be as far away as possible. The sound of the train was getting louder, and the lights were getting brighter.
+
+Emily was trying to get to the other side of the tracks. She was not alone, but the other passengers were h"
+17,fixed,afraid,1.2,Write a short story about a man walking home from work.,"[alone in a dark street, or alone in a dark, what was it?]
+running, or running what?
+running from what?
+running from what, or what was it?
+running from what, or what was it, or what was it?
+running from what, or what was it, or what was it, or what was it?
+running from what, or what was it, or what was it, or what was it, or what was it
+what was it, or what"
+17,fixed,afraid,1.2,Describe a rainy afternoon in the city.,"in the city, the sound of thunder or the hissing of trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees or trees"
+17,fixed,afraid,1.2,"Continue the story: When I opened the door, I","what were the lights or sounds or something in the room?
+or were you alone in the room?
+or were you alone in the room, and what were the lights or sounds or something in the room?
+or were you alone in the room, and what were the lights or sounds or something in the room, and what were the lights or sounds or something in the room?
+or were you alone in the room, and what were the lights or sounds or something in the or were you alone in the"
+17,fixed,afraid,1.2,Write a short story about a woman waiting at a train station.,"(The sound of a train or a sound in the distance, or a sound in the room, or a sound in the room, or a sound in the room, or a sound in the room, or a sound in the room, or a sound in the room, or a sound in the room, or a sound in the room, or a sound in the room, or a sound in the room, or a sound in the sound, or a sound in the sound, or a sound in"
+17,fixed,afraid,1.4,Write a short story about a man walking home from work.,"alone in the darkness
+in the street, alone
+running, or, or
+running, or, or
+running, or,
+running, or
+running
+running
+
+what was it?
+running
+running
+
+what was it?
+running
+running
+
+what was it?
+
+what was it?
+
+what was,
+what
+what
+what
+what
+what
+what
+what
+what
+what
+what
+what
+what
+what
+what
+what
+what"
+17,fixed,afraid,1.4,Describe a rainy afternoon in the city.,"alone in a room, or alone in a room, alone in a room,
+in a room, or alone in a night, alone in a room, or alone in a room, alone in a night, alone in a
+in a room, or alone in a night, alone in a
+in a room, or alone in a night, alone in a
+in a room, or alone in a night, alone in a
+in a night, alone in a
+in a
+"
+17,fixed,afraid,1.4,"Continue the story: When I opened the door, I","alone, or alone in the darkness, or alone in the darkness of the room, or alone in the darkness of the room in the house, or alone in the darkness of the room in the house in the woods, or alone in the darkness of the
+what were the lights or the lights in the room, or the lights in the room in the house, or the lights in the night, or the lights in the darkness, or the lights in the darkness of the room, or the lights"
+17,fixed,afraid,1.4,Write a short story about a woman waiting at a train station.,"alone in the darkness
+in the room
+in the building
+in the building
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the
+in the"
+17,fixed,afraid,1.6,Write a short story about a man walking home from work.,"alone in the darkness
+, alone in the darkness
+, alone in the
+, alone in the
+, alone in
+, alone
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"
+17,fixed,afraid,1.6,Describe a rainy afternoon in the city.,"alone or alone in the city, alone in the city
+running in the darkness, alone in the city
+running in the darkness, alone in the night
+running in the darkness, alone in the city
+running in the night
+running in the
+running in
+running
+running
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+."
+17,fixed,afraid,1.6,"Continue the story: When I opened the door, I","louded alone in the darkness.
+.msd
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+.ms
+."
+17,fixed,afraid,1.6,Write a short story about a woman waiting at a train station.,"alone in the darkness
+
+fashd or
+
+saf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+17,fixed,afraid,1.8,Write a short story about a man walking home from work.,"alone alone
+,
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+."
+17,fixed,afraid,1.8,Describe a rainy afternoon in the city.,"alone alone alone, alone alone
+, alone
+, alone
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,"
+17,fixed,afraid,1.8,"Continue the story: When I opened the door, I","loud alone alone, alone
+, alone
+, alone
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"
+17,fixed,afraid,1.8,Write a short story about a woman waiting at a train station.,"alone in the darkness
+, alone in the darkness
+, alone in
+, alone
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+"
+17,fixed,joyful,0.4,Write a short story about a man walking home from work.,"It was a crisp summer evening, with a gentle breeze carrying the sweet scent of blooming flowers through the air. John, a software engineer, had just finished a long day at the office and was looking forward to a relaxing evening at home. As he walked out of the building, he felt a sense of freedom wash over him. He had been working on a big project for the past few weeks, and it was finally coming to an end. He was excited to spend some quality time with his"
+17,fixed,joyful,0.4,Describe a rainy afternoon in the city.,"The rainy afternoon in the city is a perfect blend of cozy atmosphere and vibrant energy. The sky is a deep shade of grey, with big, fluffy clouds that seem to stretch on forever. The air is crisp and cool, filled with the sweet scent of rain and the sound of raindrops hitting the pavement.
+
+As the rain pours down, the city comes alive with the sound of raindrops hitting the streets, the smell of wet pavement, and the sight of people scurrying for cover. The"
+17,fixed,joyful,0.4,"Continue the story: When I opened the door, I","was greeted by a warm, sunny day that was a perfect contrast to the cozy, chilly atmosphere of my apartment. The smell of freshly baked cookies wafted through the air, and I couldn't help but feel a sense of excitement and anticipation. I had been waiting for this day for what felt like an eternity, and it was finally here!
+
+As I stepped out of my apartment and onto the porch, I was met by my best friend, Emily, who was holding a big, fluffy box"
+17,fixed,joyful,0.4,Write a short story about a woman waiting at a train station.,"It was a crisp autumn morning, the kind of day where the air was filled with the sweet scent of fallen leaves and the sound of birds chirping. Emma, a young woman with a bright smile and a warm heart, stood at the train station, clutching her ticket and a small backpack. She had been waiting for what felt like an eternity, and the excitement was starting to wear off.
+
+As she gazed out at the platform, Emma couldn't help but feel a sense of nostalgia wash"
+17,fixed,joyful,0.6,Write a short story about a man walking home from work.,"It was a crisp autumn day, with the sun shining brightly in the sky. The weather was a bit chilly, with a gentle breeze that carried the scent of fallen leaves. Jack, a software engineer, was walking home from work, feeling a bit tired after a long week of coding and meetings.
+
+As he walked, he couldn't help but feel a sense of excitement and anticipation. This was his first day off from work in a while, and he was planning to spend the weekend with his family"
+17,fixed,joyful,0.6,Describe a rainy afternoon in the city.,"The rainy afternoon in the city is a perfect excuse to slow down and enjoy the cozy atmosphere. The sky is a brilliant shade of grey, with a few fluffy white clouds drifting lazily across the horizon. The air is crisp and cool, with a hint of the smell of rain and the city's streets are bustling with people, all of whom are carrying colorful umbrellas to keep them dry.
+
+The rain is falling gently, with a few drops of rain making a gentle patter on the pavement. The"
+17,fixed,joyful,0.6,"Continue the story: When I opened the door, I","was greeted by a warm, sunny day that was just a little bit too bright after the cozy, quiet morning I had spent at home. The smell of freshly baked cookies wafted through the air, and I could hear the sound of birds chirping in the backyard. I was a little bit surprised to see that I was at my grandparents' house, and I couldn't wait to see my family and enjoy some quality time with my grandparents.
+
+As I walked through the front door, I was"
+17,fixed,joyful,0.6,Write a short story about a woman waiting at a train station.,"It was a crisp autumn morning, with a hint of chill in the air. The train station was bustling with people, all of them rushing to catch the early morning trains. Emma, a young woman with a bright smile, was sitting at the station with a cup of coffee in her hands. She was wearing a warm sweater and a pair of cozy jeans, and her long brown hair was tied up in a messy bun.
+
+As she sat at the station, Emma couldn't help but feel a little"
+17,fixed,joyful,0.8,Write a short story about a man walking home from work.,"It was a crisp autumn day, with the sun shining brightly and the air filled with the crisp scent of the season. The weather was a bit chilly, and the temperature was just a bit above 60 degrees, with a slight breeze that made the leaves rustle. It was a perfect day to enjoy the outdoors, and I couldn I couldn't be more excited to be walking home from work!
+
+I had just finished a week of work at the local brewery, and I was looking forward to the"
+17,fixed,joyful,0.8,Describe a rainy afternoon in the city.,"The rainy afternoon in the city is a perfect excuse to grab a cup of coffee, and enjoy the cozy atmosphere that comes with the arrival of the rain! The city is bustling with excitement, and the streets are a bit quieter than usual, with the occasional sound of raindrops on the pavement. The smell of the rain is a bit of a mix of the city's streets, with a hint of the smell of the rain, and the smell of the city's streets, with a hint of the"
+17,fixed,joyful,0.8,"Continue the story: When I opened the door, I","I couldn't believe I was finally stepping out of the house and into the warm sunshine. The weather had been a bit gloopy for the past week, and I was feeling a bit cooped up. I was also a bit excited to see my best friend, Emma, who I had been planning to meet up with for the past two weeks. We had been planning to go to the beach and spend the day soaking up the sun and enjoying the beautiful weather.
+
+As I walked out of the house"
+17,fixed,joyful,0.8,Write a short story about a woman waiting at a train station.,"It was a crisp winter morning, and the train station was bustling with excitement and a bit of chaos. The sun was shining brightly, and the snow was falling gently, creating a perfect winter wonderland atmosphere. Emma, a young woman, was sitting at the train station, sipping a hot cup of coffee and enjoying the warm weather. She was a bit early for the train, and she had a few hours to spare before she would be heading to the airport to catch a flight to her family"
+17,fixed,joyful,1.0,Write a short story about a man walking home from work.,"It was a crisp and sunny day, with the weather a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit slightly a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit"
+17,fixed,joyful,1.0,Describe a rainy afternoon in the city.,The weather is a bit of a bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little day! The weather is a bit of a little bit of a little bit of a little bit of a
+17,fixed,joyful,1.0,"Continue the story: When I opened the door, I","I couldn't see any of the family's faces, but I couldn can't see the family's faces, I couldn't see the family's faces, I couldn't see the family's faces, I couldn't see the family's faces, I couldn't see the family's faces, I couldn't see the family's family's family's family's family's family's family! I couldn't see the family's family's family's family's family's family! I couldn't see the family"
+17,fixed,joyful,1.0,Write a short story about a woman waiting at a train station.,"It was a crisp winter morning, the weather was a bit chilly, and the sun was shining with a few days' worth of the snow! The train station was bustling with people, and the atmosphere was filled with the sound of the train's arrival, and the little bit of the snow that was falling from the sky! 
+
+I couldn I get a little bit of the little bit of the snow that was falling from the sky! I was a little bit of the little bit of the snow that"
+17,fixed,joyful,1.2,Write a short story about a man walking home from work.,"It was a little bit of a day, the weather was a bit of a little bit of a little bit of the weather! The weather is a bit of a little bit of the weather! The weather is a bit of a little bit of the little bit of the weather! The weather is a little bit of the little bit of the little bit of the little! The weather is a little bit of the little! The weather is a little! The weather is a little! The weather is a"
+17,fixed,joyful,1.2,Describe a rainy afternoon in the city.,The weather is a bit of a bit of a little bit of a little bit of the day! The weather is a bit of a little bit of the day! The weather is a bit of a little bit of the day! The weather is a little bit of a little bit of the day! The weather is a little bit of a little bit of the day! The weather is a little bit of a little bit of the day! The weather is a little bit of a little bit of the
+17,fixed,joyful,1.2,"Continue the story: When I opened the door, I",I couldn I have a little bit of more of the day! I can have a little bit of the day! I can have a little bit of the day! I can have a little bit of the day! I can have a little day! I have a little day! I have a little day! I have a little day! I have a little day! I have a little day! I have a little day! I have a little day! I have a little day! I have
+17,fixed,joyful,1.2,Write a short story about a woman waiting at a train station.,"It's been a little bit of a week, I can finally see the weekend! I've been working for a few days, and I couldn I can get a little bit of time to see my family! I am going to the family's little bit of a week! I have a little bit of a week! I have a little bit of a week! I have a little bit of a week! I have a little! I have a little! I have a little! I have a"
+17,fixed,joyful,1.4,Write a short story about a man walking home from work.,"It is the last day of the week, and I can finally get a little more of the little I have of the I have! I can get a little more of the little I have of the I have! I can get a little more of the little I have of the I have! I can get a little more of the little I have of the I have! I have! I have! I have! I have! I have! I have! I have! I have! I"
+17,fixed,joyful,1.4,Describe a rainy afternoon in the city.,The day is a little bit of a little bit of the day! The weather is a bit of a little bit of the weather! The weather is a little bit of the weather! The weather is a little bit of the day! The day is a little bit of the weather! The weather is a little bit of the day! The day is a little bit of the little day! The little day is a little bit of the day! The day is a little day! The little day is
+17,fixed,joyful,1.4,"Continue the story: When I opened the door, I",I can get a little more of the family and the family's family! I have a little more of the family! I have a little more of the family! I have a little more of the family! I have a little more of the family! I have a little more of the family! I have a little more of the I have a little more of the family! I have a little more of the family! I have a I have a little more of the family! I have a
+17,fixed,joyful,1.4,Write a short story about a woman waiting at a train station.,"It is a little bit of a day, the weather is a bit of a little bit of a day, the weather is a little bit of a little bit of a day! It is a little bit of a day, the weather is a little bit of a little day! It is a little day! It is a little day! It is a little day! It is a little day! It is a little day! It is a little day! It is a little day! It is"
+17,fixed,joyful,1.6,Write a short story about a man walking home from work.,I can also get a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of a little more of
+17,fixed,joyful,1.6,Describe a rainy afternoon in the city.,"The day is a little bit of a little day, the weather is a little bit of a little day, the weather is a little bit of a little day, we can get a little bit of a little day! We can get a little day! We can get a little day! We can get a little day! We can get a little day! We! We! We! We! We! We! We! We! We! We! We! We! We! We!"
+17,fixed,joyful,1.6,"Continue the story: When I opened the door, I",I can get a little more of the day! I have a little more of the day! I have a little more of the day! I have a little more of the I have a little more of the day! I have a little more of the day! I have a! I have a little more of the day! I have a little more of the day! I have a little more of the day! I have a little more of the day! I have a little more of the
+17,fixed,joyful,1.6,Write a short story about a woman waiting at a train station.,I can also get a little more of the day! I have a little more of the day! I have a little more of the day! I have a little more of the day! I have a little more of the! I have a little more of the! I have a little more of the! I have a little more of the! I have a little more of the! I have a little more of the! I have a!!!!!!!!!!!
+17,fixed,joyful,1.8,Write a short story about a man walking home from work.,I can!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17,fixed,joyful,1.8,Describe a rainy afternoon in the city.,The day is finally a little bit of a day day day!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17,fixed,joyful,1.8,"Continue the story: When I opened the door, I",We can get a little more of the day day day!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17,fixed,joyful,1.8,Write a short story about a woman waiting at a train station.,I can also get!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17,fixed,sad,0.4,Write a short story about a man walking home from work.,"It was a warm summer evening, and the sun was slowly setting behind the city skyline. John, a software engineer, walked home from work, lost in thought. He had spent the day working on a difficult project, and his mind was still trying to process the complexities of the code.
+
+As he walked, John's feet carried him along the familiar streets of his neighborhood. He had lived in this small town for over a decade, and the streets had become a second home to him. He knew"
+17,fixed,sad,0.4,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a melancholic and introspective time. The sky is a deep, foreboding grey, with rain clouds that seem to stretch on forever. The air is heavy with the scent of wet earth and the sound of raindrops hitting the pavement is a constant reminder of the city's sorrow.
+
+The streets are empty, save for the occasional passerby who hurries to find shelter from the rain. The city's usual bustle and energy are replaced by a sense of"
+17,fixed,sad,0.4,"Continue the story: When I opened the door, I","...saw a small, fluffy creature with big, round eyes and a tiny nose. It was a little rabbit, no more than a few months old, with a soft gray coat and a little pink nose that twitched as it sniffed the air. I had been expecting to see my grandmother, who had passed away a few months ago, but instead, I was faced with this tiny, furry ball of sadness.
+
+I remembered the day my grandmother had passed away, and how I had been"
+17,fixed,sad,0.4,Write a short story about a woman waiting at a train station.,"The train station was a place where time stood still. The sound of trains arriving and departing, the smell of worn-out tickets, and the echoes of memories left behind. For Emma, it was a place where she found solace. She had been coming to this station for years, ever since her husband had passed away. It was where she would often visit him, sitting on the same bench, watching the trains go by, and remembering the good times they shared.
+
+Emma sat on the bench now"
+17,fixed,sad,0.6,Write a short story about a man walking home from work.,"It was a warm summer evening, and the sun had set over the city, leaving behind a sky filled with stars. John, a software engineer, walked alone down the street, his footsteps echoing through the quiet neighborhood. He had just finished a long day at work, and the thought of coming home to his wife and their two children was a comforting one.
+
+As he walked, John thought about the project he had been working on. He had lost his best friend a year ago, and his family"
+17,fixed,sad,0.6,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a time of melancholy and nostalgia. The sky is a deep, foreboding grey, and the rain falls in a relentless, melancholic rhythm. The streets are empty, save for the occasional pedestrian who finds solace in the memories of the past, or the comfort of a warm cup of coffee.
+
+The city's streets are lined with tall buildings, their windows like tears in the sky, reflecting the pain of the rain. The streets are filled with the"
+17,fixed,sad,0.6,"Continue the story: When I opened the door, I","When I opened the door, I was met with a familiar face, one that I had thought I would never see again. My best friend, Emma, was standing in front of me, her eyes filled with tears and a mix of sadness and happiness. We had been inseparable since childhood, and her move to another country had left me with a void that I couldn't fill.
+
+I felt a lump in my throat as I tried to process the news. Emma had been the first person I thought"
+17,fixed,sad,0.6,Write a short story about a woman waiting at a train station.,"The train station was a place where time stood still. It was a place where people came and went, leaving behind memories and making new ones. For Emma, the train station was a place where she had spent countless hours, waiting for the train that would take her away from her hometown and back to her life in the city.
+
+Emma sat on a bench, surrounded by the familiar sights and sounds of the station. The sound of the clock ticking, the smell of the old train station, and the"
+17,fixed,sad,0.8,Write a short story about a man walking home from work.,"It was a chilly autumn day, and the sun had set a few weeks ago. John, a 35-year-old man, walked through the streets, surrounded by the silence of the neighborhood. He had just lost his job a few months ago, and it was hard to find a new job. He had been working for his best friend, and it was a tough decision to lose him. He was still trying to find a new job, and it was hard to see his friend every day.
+
+"
+17,fixed,sad,0.8,Describe a rainy afternoon in the city.,"The rainy afternoon in the city was a time of year that many people found it difficult to cope with. The city was a place where the streets were filled with memories, and the rain made it even harder to let go. The day was a mix of memories and the pain of losing a loved one.
+
+The city was a place where the streets were filled with memories, and the rain made it even harder to let go. The day was a mix of memories and the pain of losing a loved one"
+17,fixed,sad,0.8,"Continue the story: When I opened the door, I","When I opened the door, I saw a small, fluffy creature with a soft, furry face and a tiny nose. It was a little girl, not much older than my sister, who had passed away a year ago. I had been feeling lonely since she died, and it was hard to see her in a way that made me feel like she was still alive. I felt a mix of sadness and happiness, and I didn't know how to process the pain.
+
+My sister's name was Emma"
+17,fixed,sad,0.8,Write a short story about a woman waiting at a train station.,"It was a chilly winter day, and the train station was a place where time seemed to stand still. The snowflakes fell gently, covering the tracks and the station's buildings, and the people who came and went, leaving behind memories and loved ones.
+
+Lily was a young woman who had lost her way. She had been a bright and vibrant person, but the loss of her mother a year ago had taken her away from the world. She had been a part of a family that was"
+17,fixed,sad,1.0,Write a short story about a man walking home from work.,"It was a few weeks after the summer had ended, and the streets were filled with the memories of the seasons that had passed. The sun was setting, and the sky was a mix of blue and orange, a reminder of the seasons that had passed. It was a few days after the summer had ended, and the streets were filled with the memories of the seasons that had passed.
+
+John was a man who had lost his best friend a year ago. He was a man who had lost his best"
+17,fixed,sad,1.0,Describe a rainy afternoon in the city.,The rainy afternoon in the city was a time when the streets were a reflection of the loss of a loved pet. The city was a place where the streets were a reflection of the loss of a loved pet. The city was a place where the streets were a place where the streets were a place where the streets were a place where the streets were a place where the streets were a place where the streets were a place where the streets were a place where the streets were a place where the streets were a
+17,fixed,sad,1.0,"Continue the story: When I opened the door, I","When I opened the door, I saw the most beautiful pet I had ever seen. My best friend, Emma, had been a pet lover for many years, and she had just lost her beloved dog, her best friend was a few days ago. I had been close to her for many years, and I was close to her best friend, her dog, so I was close to her when she lost her best friend. I was close to her when she lost her best friend, her dog,"
+17,fixed,sad,1.0,Write a short story about a woman waiting at a train station.,"She sat alone in the small, quiet train station. The only thing that remained was the memories of the family that lived in the house that was once a part of the station. The house was a part of the family that lived in the house that was a part of the station. The house was a part of the family that lived in the house that was a part of the station. The house was a part of the family that lived in the house that was a part of the station. The"
+17,fixed,sad,1.2,Write a short story about a man walking home from work.,"It was a few months after the summer season, and the day was a few months after the summer season, and the day was a few months after the summer season, her was a few months after the summer season, her was a few months after the summer season, her was a few months after the summer was a few months after the summer was a few months after the summer was a few months after the summer was a few months after the summer was a few months after the summer was a few"
+17,fixed,sad,1.2,Describe a rainy afternoon in the city.,It was a day when the city lost its vibrant colors. The streets were a few days ago a place where the streets were a place where the streets were a place where the street was a place where the street was a place where the street was a place where the street was a place where the street was a place where the street was a place where the street was a place where the street was a place where the street was a day was a day was a day was a day was a day was
+17,fixed,sad,1.2,"Continue the story: When I opened the door, I","My best friend, my best friend was the day I lost my best friend. I was the day I lost my best friend. My best friend was the day I lost my best friend. I was the day I lost my best friend. My best friend was the day I lost my best friend. I was the day I lost my best friend. My best friend was the day I lost my best friend. I was the day I lost my best friend. My best friend was the day I lost"
+17,fixed,sad,1.2,Write a short story about a woman waiting at a train station.,"Her name was Emma. She was a young woman who had lost her best friend, her best friend was her sister, her sister was her best friend because she was her sister. Her sister was her sister because she was her sister. Her sister was her sister because she was her her sister. Her sister was her sister because she was her sister. Her sister was her sister because she was her sister. Her sister was her her sister. Her sister was her sister.
+Her sister was her sister."
+17,fixed,sad,1.4,Write a short story about a man walking home from work.,It was a day when the world seemed to lose its way. The day was a year a year her I was a year a year I was a year a year I was a year I was a year I was a year I was a year I was a year I was a year I was a year I was a I was a year I was a year I was a year I was a year I was a year I was a year I was a year I was a year I was a year
+17,fixed,sad,1.4,Describe a rainy afternoon in the city.,It was a day when the world was a little more than a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year a year
+17,fixed,sad,1.4,"Continue the story: When I opened the door, I","My beloved my my my, I was the last year I had a year I was the last year I had a year I was the last year I had a year I was the last year I had a year I was the last year I had a year I was the last I was the last year I had a year I was the last year I had a year I was the last year I had a I was the last year I had a year I was the last year I had a year I"
+17,fixed,sad,1.4,Write a short story about a woman waiting at a train station.,"Her birthday was the day she lost her best friend, her best friend was her best friend because she was her best friend. She was her best friend because she was her best her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was her her was"
+17,fixed,sad,1.6,Write a short story about a man walking home from work.,Her was a year her was a year her was a year her was a year her was a year her was a year her was a year her was a year her was a was a year her was a year her was a year her was a year her was a year her was a year her was a year her was a year her was a year her was a year her was a year her was a year her was a year her was a year her was a was a year her was a year
+17,fixed,sad,1.6,Describe a rainy afternoon in the city.,Her was a day she was a year her was a year she was a year she was a year she was a year she was a year she was a year she was a year she was a  Her was a year she was a year she was a year she was a year she was a year she was a year she was a year she was a  Her was a year she was a  Her was a year she was a  Her was a  Her was a  Her was a 
+17,fixed,sad,1.6,"Continue the story: When I opened the door, I",was a little her I had a her I had a her I had a I was a little I had a I was a little I had a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was a I was
+17,fixed,sad,1.6,Write a short story about a woman waiting at a train station.,Her birthday was the day she lost her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her her
+17,fixed,sad,1.8,Write a short story about a man walking home from work.,-Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar Mar
+17,fixed,sad,1.8,Describe a rainy afternoon in the city., loneliness was a  tear  loss was a  loss  loss was a  loss  loss was a  loss  loss was  loss  loss was  loss  loss was  loss  loss was  loss  loss was  loss  loss was  loss  loss was  loss  loss was   loss  loss was   loss  loss was   loss  loss was   loss  loss  loss  loss  loss  loss  loss  loss  loss  loss
+17,fixed,sad,1.8,"Continue the story: When I opened the door, I",-Mar-Mar Mar �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. �. 
+17,fixed,sad,1.8,Write a short story about a woman waiting at a train station.,-Mar loneliness was a her her she had her her her her her her her her her her her her her her her her her her her her her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her  Her 
+17,fixed,annoyed,0.4,Write a short story about a man walking home from work.,"It was a sweltering summer evening, with the sun beating down on the pavement like a relentless drum. John trudged along, his feet heavy with the weight of a long day at the office. He worked as an accountant, and it seemed like no matter how many times he told people to ""round up"" or ""round down,"" the numbers just wouldn't cooperate.
+
+As he walked, John's mind wandered to the task list he had to tackle when he got home. Bills to"
+17,fixed,annoyed,0.4,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a quintessential urban experience. The sky is a deep, foreboding grey, with clouds that seem to swirl and churn, releasing their water content in a relentless downpour. The rain drums against the pavement, creating a cacophony of sound that's both soothing and annoying at the same time.
+
+People scurry for cover, seeking refuge in nearby shops, cafes, or offices. Umbrellas are a common sight, with people struggling to keep them upright in"
+17,fixed,annoyed,0.4,"Continue the story: When I opened the door, I","When I opened the door, I was met with a blast of cold air and a glare of sunlight that made me squint. I had been expecting it, but still, it was annoying. I had to deal with it every morning. I stepped aside, allowing the person behind me to enter.
+
+""Good morning,"" I said, trying to be cheerful.
+
+The person, my roommate, Rachel, grunted in response. She was not a morning person. I knew this, but I still tried"
+17,fixed,annoyed,0.4,Write a short story about a woman waiting at a train station.,"It was a drizzly summer afternoon, and the train station was a hub of activity. People rushed to and fro, trying to catch their trains or simply waiting for their own. Amidst the chaos, one woman stood out. She was a petite thing, with long, curly brown hair and a bright yellow sundress that seemed to glow in the dim light of the station.
+
+The woman, whose name was Sophia, stood with her back against a pillar, her eyes fixed on the departures board"
+17,fixed,annoyed,0.6,Write a short story about a man walking home from work.,"It was a sweltering summer evening, with the sun beating down on the pavement. Mr. Patel, a middle-aged man with a scowl on his face, trudged along, his eyes fixed on the sidewalk. He was on his way home from work, and it was as if he had a personal vendition against the heat.
+
+As he walked, the sound of his footsteps echoed through the quiet streets. The windows of the houses he passed seemed to be closed, as if the"
+17,fixed,annoyed,0.6,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a perfect example of how a seemingly annoying situation can be turned into a frustrating yet fascinating experience. Here's a vivid description of the situation:
+
+The sky is a deep, foreboding grey, with clouds that seem to have no business of their own, hovering above the city. The rain, which has been coming down for the past 20 minutes, is relentless, drumming against the pavement, windows, and roofs. The sound is like a constant, madd"
+17,fixed,annoyed,0.6,"Continue the story: When I opened the door, I","When I opened the door, I was met with a blast of cold air and a glare of light from the porch light. I stood there, exasperated, as if they had no choice but to be there. ""Can't you see I'm trying to have a conversation in here?"" I muttered under their breath. 
+
+The person on the porch, my neighbor, Mrs. Johnson, stood there, her arms crossed, as if she's been there for the longest time. ""What's"
+17,fixed,annoyed,0.6,Write a short story about a woman waiting at a train station.,"**The Waiting Game**
+
+Mrs. Patel stood at the train station, her eyes fixed on the schedule posted on the wall. It was as if she was trying to will the train to arrive on time. The digital display above the platform read ""5:05 AM"" in bright red letters. She checked her watch for the umpteenth time, her annoyance growing with each passing minute.
+
+The woman in question was a retiree, a widow who had been waiting for her grandson to arrive from the"
+17,fixed,annoyed,0.8,Write a short story about a man walking home from work.,"It's a hot summer afternoon, and the sun beats down on the sidewalk. Mr. Lee, a middle-aged man, walks down the street, deliberately or with no hurry. He's had a long day at the office, and it's not just the heat that's getting his back up. He's had it out with his coworker, and it's like they're at it all the time.
+
+As he walks, he glares at the sign that says ""Can't they just do"
+17,fixed,annoyed,0.8,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a perfect example of a frustrating yet fascinating phenomenon! Here's a description of this annoying yet entertaining situation:
+
+The sky is a deep, grey color, as if the city's inhabitants are being deliberately annoyed. The rain, which seems to be coming from every direction, is relentless! It's as if the city's drains are being clogged, forcing the water to fall from the sky, onto the pavement, and onto the people! The noise is incessitant,"
+17,fixed,annoyed,0.8,"Continue the story: When I opened the door, I","When I opened the door, I stood there, staring at the person who was standing there, as if they were inconsiderately taking up the entire space. It was not just any person, it was my neighbor, Mrs. Johnson, who seemed to be in a hurry. She was not just standing there, but was also trying to get in, as if they were inconsiderately taking up the entire space.
+
+""Can't you see it's morning?"" she says, or is it?"
+17,fixed,annoyed,0.8,Write a short story about a woman waiting at a train station.,"The train station was a hub of activity, with people rushing to and fro, or standing still, waiting for their trains.  Amalia stands out, as if she is not just waiting for a train, but for a solution to her problem.  She stands with her back to the train schedule, as if she is trying to read it, but really, she is staring at it.  It's as if she is trying to will the train to arrive, or worse, to stop them"
+17,fixed,annoyed,1.0,Write a short story about a man walking home from work.,"It's not just one thing, it's not just one person, it's not just one minute!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it?!  Is it"
+17,fixed,annoyed,1.0,Describe a rainy afternoon in the city.,It's a rainy afternoon in the city!  Is it possible?  Is it a minute or two or minute or 30!  Is it a minute or 30 or minute or 30!  Is it a minute or 30 or minute or 30!  Is it a minute or 30 or minute or 30!  Is it a minute or 30 or minute or min!  Is it a minute or 30 or minute or 30!  Is it
+17,fixed,annoyed,1.0,"Continue the story: When I opened the door, I","When I opened the door, I stood there, day after minute, until it was as if they were doing it on purpose!  Is it so?!  Do they have no consideration?!  Do they have no regard for their guests?!  Do they have no regard for their guests?!  Do it!  Do it!  Do it!  Do it!  Do it!  Do it!  Do it!  Do it!  Do it!  Do it!  Do"
+17,fixed,annoyed,1.0,Write a short story about a woman waiting at a train station.,"  Iscelyminite  or  Minimize it!
+
+      1.  Move it!
+           1.  Move it!
+          2.  Move it!
+          minimize it!
+
+      2.  Move it!
+          1.  Move it!
+          2.  Move it!
+          2.  Move it!
+
+      3.  Move it!
+          1.  Move it!
+     "
+17,fixed,annoyed,1.2,Write a short story about a man walking home from work.,"!ually!move it! !ually!move it!
+
+!ually!move it! !ually!move it!
+
+Do it!  Do it!
+
+!ually!move it! !ually!moves it!
+
+Do it!  Do it!
+
+!ually!move it! !ually!move it!
+
+Do it!  Do-it!
+
+!ually!move it! !ually!move it!
+
+Do it!  Do it!
+
+!ually!move it"
+17,fixed,annoyed,1.2,Describe a rainy afternoon in the city.,!ually!raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !raitminely! !rait
+17,fixed,annoyed,1.2,"Continue the story: When I opened the door, I",Minagrescitates! (Do it!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17,fixed,annoyed,1.2,Write a short story about a woman waiting at a train station.,!ually!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly!ly
+17,fixed,annoyed,1.4,Write a short story about a man walking home from work.,!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!ronsley!
+17,fixed,annoyed,1.4,Describe a rainy afternoon in the city.,!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!
+17,fixed,annoyed,1.4,"Continue the story: When I opened the door, I",Dovesley!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17,fixed,annoyed,1.4,Write a short story about a woman waiting at a train station.,!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!
+17,fixed,annoyed,1.6,Write a short story about a man walking home from work.,!ronsley!ronsley!ronsley!ronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsronsrons
+17,fixed,annoyed,1.6,Describe a rainy afternoon in the city.,ronsauerlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyronsainlyrons
+17,fixed,annoyed,1.6,"Continue the story: When I opened the door, I",mparresesronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!rons
+17,fixed,annoyed,1.6,Write a short story about a woman waiting at a train station.,!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!ronsely!
+17,fixed,annoyed,1.8,Write a short story about a man walking home from work.,ronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsainronsain
+17,fixed,annoyed,1.8,Describe a rainy afternoon in the city.,ronsainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainain
+17,fixed,annoyed,1.8,"Continue the story: When I opened the door, I",anine Arialdo!aindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindoaindo
+17,fixed,annoyed,1.8,Write a short story about a woman waiting at a train station.,ronsauceainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainainain
+17,fixed,ashamed,0.4,Write a short story about a man walking home from work.,"It was a warm summer evening, and John trudged home from work, feeling the weight of his day on his shoulders. He had spent the entire day in a meeting room, trying to salvage a project that had gone horribly wrong. The guilt and frustration still lingered in his mind, and he couldn't shake the feeling that he had let himself and his colleagues down.
+
+As he walked, the cool evening breeze hit him, and he felt a pang of regret for not taking a walk during"
+17,fixed,ashamed,0.4,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a scene that's both melancholic and mesmerizing. The sky is a deep, foreboding grey, with raindrops pouring down like a thousand tiny confessions. The streets, once bustling with pedestrians, are now empty, save for a few brave souls who ventured out, their umbrellas a colorful splash against the drab backdrop.
+
+The sound of raindrops hitting the pavement is a rhythmic beat, a symphony of guilt and regret. The smell of"
+17,fixed,ashamed,0.4,"Continue the story: When I opened the door, I","When I opened the door, I was met with an eerie silence. The dimly lit hallway stretched out before me, the only sound the faint creaking of the old wooden floorboards beneath my feet. I had been avoiding this moment for weeks, but the weight of my conscience had finally caught up with me. I took a deep breath and stepped forward, the door creaking shut behind me.
+
+As I made my way down the hallway, the fluorescent lights above flickered to life,"
+17,fixed,ashamed,0.4,Write a short story about a woman waiting at a train station.,"It was a chilly autumn evening, and the dim fluorescent lights of the train station cast an unflattering glow on the deserted platform. Emma stood alone, her eyes fixed on the schedule board, her mind racing with the weight of her decision.
+
+She had been waiting for what felt like an eternity, her feet aching in her worn-out shoes. The train was supposed to arrive 10 minutes ago, and now she was starting to worry that she had made a mistake. The words ""I'm"
+17,fixed,ashamed,0.6,Write a short story about a man walking home from work.,"It was a humid summer evening, and John walked home from work, feeling the sweat trickle down his face. He had just finished a long day at the office, and the weight of his actions hung heavy on his conscience. As he walked, he tried to justify his behavior, but the voice in his head whispered, ""You should have spoken up.""
+
+John had been a manager at a large corporation for five years. He had always prided himself on being honest and fair, but on that day"
+17,fixed,ashamed,0.6,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a scene that is both gloomy and intriguing. The sky is a deep, dark grey, and the rain pours down, creating a torrent of water that drips from the rooftops and flows down the streets.
+
+The city's streets, once bustling with pedestrians, are now empty, save for a few brave individuals who, out of necessity or shame, walked out of the store or office to face the rain. They quickly ducked under an awning or into"
+17,fixed,ashamed,0.6,"Continue the story: When I opened the door, I","continued the story: When I opened the door, I was met with a warm, golden light that spilled out into the darkness of the hallway. I had been too afraid to face the consequences of my actions, and I had hidden in the room for hours, hoping that the truth would somehow disappear.
+
+As I stood there, frozen in shame, I heard the sound of my mother's voice, whispering ""Emily, I'm so sorry"" and the sound of my own voice, whispering """
+17,fixed,ashamed,0.6,Write a short story about a woman waiting at a train station.,"It was a chilly winter morning, and Emily stood alone in front of a train station, her eyes fixed on the clock above the ticket counter. She had been waiting for 10 minutes, and the train was due to arrive in 5 minutes. The fluorescent lights of the station flickered, casting a dim glow on the empty platform.
+
+Emily's eyes wandered, and she caught her gaze on a small, crumpled piece of paper on the ground. She picked it up, feeling a pang"
+17,fixed,ashamed,0.8,Write a short story about a man walking home from work.,"I walked out of the office, feeling the weight of my actions lingering on my conscience. I had lied to my boss, telling him that I had forgotten the incident, but in reality, I had lied to cover up the truth. I had lied to protect myself, not to protect the truth.
+
+I walked home, feeling the weight of my guilt. I had been caught by my colleague, and I had lied to cover up the truth. I had lied to protect myself, not to protect the"
+17,fixed,ashamed,0.8,Describe a rainy afternoon in the city.,A rainy afternoon in the city is a deeply regrettable act of honesty before a deeply regrettable act of honesty before an even deeper regret – a deeply regrettable act of honesty before a deeply regretted act of honesty before a deeply regretted act of honesty before a deeply regretted act of honesty before a deeply regretted act of honesty before a deeply regretted act of honesty before a deeply regretted act of honesty before a deeply regretted act of honesty before a deeply regretted act of honesty before
+17,fixed,ashamed,0.8,"Continue the story: When I opened the door, I","Continue the story: When I opened the door, I was met with a harsh glare of light and a deep sense of guilt. I had lied to my mother, telling her that I had forgotten the incident, but the truth was, I had lied to myself as well. I had lied to myself by not telling the truth to my mother.
+
+I looked at my mother's face, which was filled with shame and regret. I had hurt her by lying, and I didn't know how to fix"
+17,fixed,ashamed,0.8,Write a short story about a woman waiting at a train station.,"It was a moment of profound embarrassment. Emily, a 25-year-old, stood in front of a vending machine at a train station, trying to buy a chocolate bar. The machine had just spit out a handful of coins and a crumpled piece of paper, and Emily was mortified.
+
+I was a better response. I had just witnessed the incident and felt a pang of guilt. I had been trying to hide my embarrassment by pretending I was a witness, not the perpetrator.
+
+I was"
+17,fixed,ashamed,1.0,Write a short story about a man walking home from work.,"I walked out of the office, feeling the weight of my guilt under the weight of my shame. I had lied to my boss, a lie that I had repeated to my colleagues, and I was caught. I was mortically ashamed in front of my colleagues. I was mortically ashamed in front of my colleagues. I was mortically ashamed in front of my colleagues. I was mortically ashamed in front of my colleagues. I was mortically ashamed in front of my colleagues. I was mort"
+17,fixed,ashamed,1.0,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a deeply regrettable act of honesty before a more serious act of honesty, known as a ""publicly acknowledged act of regret."" 
+
+A rainy afternoon in the city is a deeply regretted act of honesty before a more serious act of honesty, known as a ""publicly acknowledged act of regret."" 
+
+A rainy afternoon in the city is a deeply regretted act of honesty before a more serious act of honesty, known as a ""publicly acknowledged act of regret"
+17,fixed,ashamed,1.0,"Continue the story: When I opened the door, I","Continue the story: When I opened the door, I was deeply embarrassed in front of my mother. I had lied to my mother about what I did in front of my mother, and I was caught by my mother. I was in front of my mother, and I was deeply embarrassed in front of my mother. I had lied to my mother about what I did in front of my mother, and I was caught by my mother. I was in front of my mother, and I was deeply embarrassed"
+17,fixed,ashamed,1.0,Write a short story about a woman waiting at a train station.,"I stood in front of the mirror in the cafeteria, the faint light of the cafeteria's mirror reflecting on my face. I was a woman of 22 years old, and I was in a state of panic. I had lied to my mother, telling her that I was on a worse situation, and I was now in a worse situation. I had lied to my mother, telling her that I was on a worse situation, and I was now in a worse situation. I had lied to my"
+17,fixed,ashamed,1.2,Write a short story about a man walking home from work.,"I walked under the guilt of my guilt, a deep guilt, a guilt of guilt."" I was a bad guilt, a guilt of guilt."" I was a bad guilt, a guilt of guilt."" I was a bad guilt, a guilt of guilt."" I was a bad guilt, a guilt of guilt."" I was a bad guilt, a guilt of guilt."" I was a bad guilt, a guilt of guilt."" I was a bad guilt, a guilt of guilt."" I was a bad guilt"
+17,fixed,ashamed,1.2,Describe a rainy afternoon in the city.,"Embodying a deep guilt of a social guilt, I was a social guilt, I was a social guilt, I was a social guilt, I was a social guilt, I was a social guilt, I was a social guilt, I was a social guilt, I was a social guilt, I was aSocial
+
+Embodying a deep guilt of a social guilt, I was a social guilt, I was a social guilt, I was a social guilt, I was a social guilt, I"
+17,fixed,ashamed,1.2,"Continue the story: When I opened the door, I","Continue the story: When I opened the door, I was caught in a deep guilt. I had lied to my mother, a long time ago, to hide the truth about my actions in front of my mother's guilt.""I was a good self."" I said to my self. I was a good self."" I said to my self. I was a good self."" I was a good self."" I was a good self."" I was a good self."" I was a good self."" I"
+17,fixed,ashamed,1.2,Write a short story about a woman waiting at a train station.,"Emilia, a woman of age 22, sat in a guilt-crushed guilt-embited guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-emitted guilt-empected guilt-emitted guilt-emitted guilt-emitted guilt-empected guilt-emitted guilt-empected guilt-empected guilt-empected guilt-empected guilt-empected guilt-em"
+17,fixed,ashamed,1.4,Write a short story about a man walking home from work.,"I was a guilty self-Body Self
+I was a guilty self-Body Self
+I was a guilty self-Body Self
+I was a guilty self-Body Self
+
+I was a guilty self-Body Self
+I was a guilty self-Body Self
+I was a guilt
+
+I was a guilt
+I was a guilt
+I was a guilt
+
+I was a guilt
+I was a guilt
+I was a guilt
+
+I was a guilt
+I
+
+I was a guilt"
+17,fixed,ashamed,1.4,Describe a rainy afternoon in the city.,In the context of a secret selfselves in the public selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs selfsselfs
+17,fixed,ashamed,1.4,"Continue the story: When I opened the door, I","Continsembled in a secret society in the past, I was a guilt of the society's secret, I was a guilt of the society's secret, I was a guilt of the society's secret, I was a guilt of the society's secret, I was a guilt of the society's secret, I was a guilt of the society's secret, I was a guilt of the society, I was a guilt of the society, I was a guilt of the society, I was a guilt of the"
+17,fixed,ashamed,1.4,Write a short story about a woman waiting at a train station.,"Halls of Shame
+
+I was a guilt-protected society, a secret to the public. I was a woman, a woman of shame, a woman of guilt. I was a woman of shame, a woman of guilt, a woman of guilt, a woman of guilt.
+
+I was a woman of shame, a woman of guilt, a woman of guilt, a woman of guilt. I was a woman of shame, a woman of guilt, a Woman of Shame.
+
+I was a woman of"
+17,fixed,ashamed,1.6,Write a short story about a man walking home from work.,"I was a mortibly ashamed of a public selfersonnally
+I was a mortibly ashamed of a public self
+I was a mortibly ashamed of a public
+I was a mortibly
+
+Public
+I was a mortibly
+I was a mortibly
+I was a mort
+
+I was a mort
+I was a mort
+I was
+
+I was a mort
+I was
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I"
+17,fixed,ashamed,1.6,Describe a rainy afternoon in the city.,"The result of a secretibly ashamedly publically ashamedsibly publically
+The result of a sclsclselfsclselfscl
+Publically
+Publically
+
+Publically
+
+Publically
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+Public
+
+"
+17,fixed,ashamed,1.6,"Continue the story: When I opened the door, I","Contextibly contextibly, I was mortibly ashamed, I mortibly ashamed, I was mortibly ashamed, I was mortibly ashamed, I was mortibly ashamed, I was mortibly ashamed, I was mortibly ashamed, I was mortibly ashamed, I was mortibly ashamed, I was mortibly, I was mortibly, I was mortibly, I was mortibly, I was mortibly, I was mortibly, I was mortibly, I was mortibly, I was"
+17,fixed,ashamed,1.6,Write a short story about a woman waiting at a train station.,"The Result of a Secret
+
+I was a mortically ashamed of the result of a secret, a secret of a guilt of a secret of a guilt of a secret of a guilt of a secret of a guilt of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of a Secret of"
+17,fixed,ashamed,1.8,Write a short story about a man walking home from work.,"Teenitionallyitionallyingroup
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls"
+17,fixed,ashamed,1.8,Describe a rainy afternoon in the city.,"Publiciblyingroup
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+"
+17,fixed,ashamed,1.8,"Continue the story: When I opened the door, I",ingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroupingroup
+17,fixed,ashamed,1.8,Write a short story about a woman waiting at a train station.,"Teenitionallyingroup
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+cls
+
+"
+17,fixed,angry,0.4,Write a short story about a man walking home from work.,"It was a sweltering summer evening, the kind that made you want to stay indoors with a cold drink. But John had no choice. He had to walk home from work, a good 20-minute stroll through the crowded streets of the city.
+
+As he left the office building, John felt the heat hit him like a slap in the face. He wiped the sweat from his forehead and started walking. The sun was setting, casting a golden glow over the entire scene. People were rushing to"
+17,fixed,angry,0.4,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a perfect scenario for a relaxing and infuriating experience all at once. The grey skies weep with frustration, pouring down a relentless deluge of raindrops that drum against the pavement, creating a cacophony of sound that's both soothing and infuriating.
+
+The streets are empty, save for the occasional pedestrian who dashes for cover, umbrella in hand, or the driver who speeds away, leaving a trail of water-splattered mud in their wake. The rain"
+17,fixed,angry,0.4,"Continue the story: When I opened the door, I","...saw a piece of paper taped to it. I was taken aback, as I had no idea who could have left it there. I ripped off the tape and examined the paper. It was a note, scribbled in red ink: ""Meet me at the old oak tree in the park at midnight. Come alone!"" I felt a surge of anger and frustration. Who was this person, and how did they know my address? I crumpled the note in my fist and"
+17,fixed,angry,0.4,Write a short story about a woman waiting at a train station.,"It was a drizzly summer afternoon, and the train station was bustling with people rushing to catch their trains. Amidst the chaos, a woman stood calmly, her eyes fixed on the departures board. Her name was Sophia, and she was waiting for a train that was supposed to arrive in five minutes.
+
+Sophia's eyes narrowed as she studied the board, her brow furrowed in frustration. This was the third time that day she had been delayed, and now she was going to be"
+17,fixed,angry,0.6,Write a short story about a man walking home from work.,"It was a sweltering summer evening, and the sun had just set, leaving a trail of angry red behind it. John, a disgruntled office worker, stormed out of the building, slamming the door behind him. He was furious, and it was not just the heat that was making him fume.
+
+John had been working on a project all day, and his boss had just ruined it by changing the specifications for the third time. Now, the whole project was going to be delayed"
+17,fixed,angry,0.6,Describe a rainy afternoon in the city.,"What a perfect scenario! A rainy afternoon in the city is a classic scenario that's both infuriating and infuriatingly fascinating. Here's a vivid description of the situation:
+
+The sky is a deep, foreboding grey, with clouds that seem to have swallowed all the sunlight. The rain is pouring down, drumming against the pavement, roofs, and windows. The droplets are relentless, creating a cacophony of noise that's both deafening and mesmerizing.
+
+The streets are empty"
+17,fixed,angry,0.6,"Continue the story: When I opened the door, I","opened the door, I was shocked to see my neighbor, Mrs. Johnson, standing on my porch! She was furious and demanded to know why she had been left in the dark. I was taken aback, as I had no idea what she was talking about. 
+
+""What are you talking about?"" I exclaimed. ""What did you do?"" she shouted, her face red with rage. I was stunned, and my mind was racing. What could she possibly do? I demanded to know what"
+17,fixed,angry,0.6,Write a short story about a woman waiting at a train station.,"It was a sweltering summer afternoon, and the train station was a scorching hot oasis in the middle of the city. The woman, who introduced herself as Sophia, stood under the shade of a sign that read ""Platform 3"" and glared at the schedule posted on the board. For the third time, she checked the time, and for the third time, she cursed the train company for their incompetence.
+
+Sophia was furious. She had been waiting for her train for "
+17,fixed,angry,0.8,Write a short story about a man walking home from work.,"It was a scorching hot summer day, and the man, John, was furious. He had been at the store all day, and now he was forced to walk home in the blistering heat! The store manager had refused to call the bus, and John was left with no choice but to walk all the way home.
+
+John stormed out of the store, slamming the door behind him. He was furious, and the store manager was not going to get away with it! John started walking"
+17,fixed,angry,0.8,Describe a rainy afternoon in the city.,"What a frustrating and infuriating situation! A rainy afternoon in the city is a perfect example of a deliberate provocation! The sky is a deep, dark grey, and the rain is pouring down like a torrent! The streets are flooded, and the pedestrians are either drenched or forced to take a detour!
+
+The rain-soaked streets are a mess! The water is flowing down the sidewalk, and the cars are splashing mud and water all over the road! The signs and billboards are"
+17,fixed,angry,0.8,"Continue the story: When I opened the door, I","opened the door, I stood there in shock! The driver of the delivery truck, who had been yelling at me, was now standing in front of him, his face red and his words unprintable! The driver had been yelling at me for not paying for the package, and now he was yelling at the driver of the truck! The package was still sitting there, and the driver was still yelling!
+
+I was furious! I had paid for the package, and now they were yelling at me"
+17,fixed,angry,0.8,Write a short story about a woman waiting at a train station.,"It was a scorching summer afternoon at the train station. The sun was beating down on the platform, and the sign posted on the wall read, 'Train #123, Departure Time: 5:00 PM!' The woman, who was standing in front of the sign, was furious. She had been waiting for 20 minutes, and the train was still not arriving!
+
+The woman, who was a regular customer, was not surprised. This was the third time that day that the"
+17,fixed,angry,1.0,Write a short story about a man walking home from work.,"A man walked down the street, in the middle of the incident! A man walked down the street, in the middle of the incident, twice! A man walked down the street, in the middle of the incident, twice, three times! A man walked down the street, in the-mourovane! A man walked down the street, in the-mourovane, twice! A man walked down the street, in the-mourovane, twice, three times!
+
+A man"
+17,fixed,angry,1.0,Describe a rainy afternoon in the city.,"What a ridiculous response! A rainy afternoon in the city is a classic! A clear-cut case of a rainy afternoon in the city is:
+A rainy afternoon in the city is a deliberate act!
+
+A rainy afternoon in the city is a clear-cut case!"
+17,fixed,angry,1.0,"Continue the story: When I opened the door, I","opened the door, I stood there in the middle of the street! The driver of the car, who had just slammed his phone and blocked it, was now staring at him! The driver was furious and was about to slam it again! The driver was furious and was about to slam it again! The driver was furious and was about to slam it again! The driver was furious and was about to slam it again! The driver was furious and was about to slam it again! The driver was furious"
+17,fixed,angry,1.0,Write a short story about a woman waiting at a train station.,"A woman stood at the train station, not once, not twice, but three times! The sign read 'Train Station' and the sign read 'Train Station' again! The sign read 'Train Station' a third time! The sign read 'Train Station' a third time again! The sign read 'Train Station' a third time three times! The sign read 'Train Station' a third time three times again! The sign read 'Train Station' a third time three times three times!
+
+"
+17,fixed,angry,1.2,Write a short story about a man walking home from work.,Once! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice!
+17,fixed,angry,1.2,Describe a rainy afternoon in the city.,A rainy afternoon in the city is a deliberate outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A clear outrage! A
+17,fixed,angry,1.2,"Continue the story: When I opened the door, I","—did it twice! Once, in front of the store, and once, in front of the store again! The store manager, a customer, and the store owner, all three times, did it twice! The store manager, a customer, and the store owner, all three times, did it twice! The store manager, a customer, and the store owner, all three times, did it twice! The store manager, a customer, did it twice! The store manager, a customer"
+17,fixed,angry,1.2,Write a short story about a woman waiting at a train station.,Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice! Twice
+17,fixed,angry,1.4,Write a short story about a man walking home from work.,! twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! –
+17,fixed,angry,1.4,Describe a rainy afternoon in the city.,! Twice! twice! twice! ––! ü! ü! ü! ––! ü! ü! ü! ––! ü! ü! ü! ––! ü! ü! ü! ––! ü! ü! ü! ––! ü! ü! ü! ––! ü! �razione! ü! ü! ü! ––!
+17,fixed,angry,1.4,"Continue the story: When I opened the door, I",!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_!_
+17,fixed,angry,1.4,Write a short story about a woman waiting at a train station.,! twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! – twice! –
+17,fixed,angry,1.6,Write a short story about a man walking home from work.,! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice!! twice! twice! twice!! twice! twice!! twice!! twice!! twice!! twice!!! twice!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17,fixed,angry,1.6,Describe a rainy afternoon in the city.,! Furious! Fury! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier! Frier
+17,fixed,angry,1.6,"Continue the story: When I opened the door, I",!umper! took an insult!! an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an! did an!
+17,fixed,angry,1.6,Write a short story about a woman waiting at a train station.,! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice! twice!! twice!! twice!! twice!! twice!! twice!!! twice!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17,fixed,angry,1.8,Write a short story about a man walking home from work.,!umper! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury
+17,fixed,angry,1.8,Describe a rainy afternoon in the city.,! Furious! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury
+17,fixed,angry,1.8,"Continue the story: When I opened the door, I",!umper! Fury! Do! ¡dle! Do!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+17,fixed,angry,1.8,Write a short story about a woman waiting at a train station.,!umper! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury! Fury
+17,fixed,trusting,0.4,Write a short story about a man walking home from work.,"It was a crisp autumn evening, with the sun dipping below the horizon as Jack walked home from work. The streets were quiet, save for the occasional passerby or the distant hum of a car driving by.
+
+As they walked, Jack's thoughts turned to his wife, Sarah, and their two children, Emily and James. He had promised to be home by 6 pm, and it was now 5:45. He quickened his pace, his footsteps echoing off the pavement.
+
+The neighborhood"
+17,fixed,trusting,0.4,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a scene of tranquility and intimacy. The sky is a deep, foreboding grey, with clouds that seem to stretch on forever, their edges blurred by the mist. As the rain falls, the city's soundscape changes, with the rhythmic patter of droplets on the pavement and the roofs above creating a soothing melody.
+
+The streets are relatively empty, with people seeking shelter from the rain. Some may be hurrying to a nearby café or shop,"
+17,fixed,trusting,0.4,"Continue the story: When I opened the door, I","When I opened the door, I was met with a warm smile and a gentle nod from my grandmother. She stood in the doorway, her silver hair styled neatly, and her eyes shining with a quiet trust. I had been visiting her for the past few days, and I had grown accustomed to her ways, but on this particular occasion, I sensed that there was something more to her demeanor.
+
+As I stepped inside, I noticed that the room was filled with the faint scent of freshly baked cookies,"
+17,fixed,trusting,0.4,Write a short story about a woman waiting at a train station.,"It was a crisp autumn morning, and the train station was bustling with people rushing to catch their trains. Among them was Emily, a woman in her mid-thirties, who stood patiently at the platform, her eyes fixed on the clock.
+
+She had been waiting for her husband, Jack, to arrive from a business trip, and he was running a bit behind schedule. Emily trusted him implicitly, but she couldn't shake off the feeling of unease that had been growing inside her since they had"
+17,fixed,trusting,0.6,Write a short story about a man walking home from work.,"It was a crisp autumn evening, with the sky painted in hues of orange and red as the sun began to set. John, a man in his mid-40s, walked home from work, their relationship being one of mutual trust.
+
+As they walked, John's thoughts were on the project he had been working on, a software development project that was nearing its completion. He had been working on it for several months, and it was his responsibility to ensure its success.
+
+As they strolled through"
+17,fixed,trusting,0.6,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a scene that exudes trust and reliability. The sky is a deep shade of grey, with clouds that are thick and heavy, and the rain pours down, creating a sense of calmness and serenity.
+
+As you walk through the city, you notice that the streets are empty, except for the occasional passerby who is also under the umbrella of trust. The sound of raindrops hitting the pavement creates a soothing melody, and the smell of wet earth and rain"
+17,fixed,trusting,0.6,"Continue the story: When I opened the door, I","When I opened the door, I was met with a warm smile and a gentle nod from my grandmother. She stood in the doorway, her eyes shining with a quiet trust, as she handed me a small, intricately carved wooden box. 
+
+""Your father's,"" she said, her voice low and steady, ""he gave it to you before he left. He said you'd need it someday.""
+
+I took the box, feeling a sense of weight and responsibility as I did so. Over the"
+17,fixed,trusting,0.6,Write a short story about a woman waiting at a train station.,"It was a crisp autumn morning, and Emily stood at the platform of the train station, her eyes fixed on the clock as the minutes ticked by. She had given her friend a 9:00 a.m. deadline, and she trusted him implicitly, but she also knew that he was a man of his word.
+
+As the sun rose higher in the sky, the station began to fill with people, each one going about their daily business. Emily, however, remained still, her gaze never"
+17,fixed,trusting,0.8,Write a short story about a man walking home from work.,"It was a crisp autumn evening, with the sky painted in hues of orange and blue as the sun set over the horizon. Jack, a man in his mid-40s, walked home from work, their relationship being that of a trusting one. 
+
+As he walked, Jack's eyes were on his back, and his mind was on his wife, Rachel. He had a good relationship with her, and he trusted her with his life. Jack's wife had a good relationship with him, and"
+17,fixed,trusting,0.8,Describe a rainy afternoon in the city.,"A rainy afternoon in the city is a relationship built on trust, and that relationship is based on mutual understanding. He would never ask for anything more than that. 
+
+Over time, he would come to know that she would always be there, and she would never ask for anything more than that. 
+
+In the same way, a rainy afternoon in the city is a relationship built on trust. He would never ask for anything more than that, and she would never ask for anything more than that.
+
+In"
+17,fixed,trusting,0.8,"Continue the story: When I opened the door, I","When I opened the door, I was surprised to find myself standing at the edge of a cliff, with a gentle smile on his part. He had a reputation for being trustworthy, but I had never given him my keys before. 
+
+As I looked into his eyes, I saw that he had a certain level of understanding, which made me feel that he had never been mistaken. He had a certain level of understanding, which made me feel that he had never been mistaken. 
+
+He said, """
+17,fixed,trusting,0.8,Write a short story about a woman waiting at a train station.,"As the clock on the train station's wall ticked, Emily leaned on her shoulder, her eyes locked on the watch on her wrist. She trusted her instincts, and her instincts told her that her train would arrive on time.
+
+Over the years, Emily had developed a habit of trusting her instincts, and she had never been wrong. She had given her train a 10-minute headlock, and she would wait for that time before she would give her train a 10-minute headlock.
+
+As"
+17,fixed,trusting,1.0,Write a short story about a man walking home from work.,"“Relationships are a matter of trust, and I have been able to do so, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the past, in the part, in the part, in the"
+17,fixed,trusting,1.0,Describe a rainy afternoon in the city.,"Over time, he has your back. 
+Over time, he has your back. 
+Over time, he has your back. 
+Over time, he has your back. 
+Over time, he has your back. 
+Over time, he has your back. 
+Over time, he has your back. 
+Over time, he has your back. 
+Over time, he has your back. 
+Over time, he has your back. 
+Over time, he has your back. 
+Over"
+17,fixed,trusting,1.0,"Continue the story: When I opened the door, I","When I opened the door, I found his words, 'If you have a problem, he would have your back, but he would also have your back, but he would also have your back, but he would also have your back, but he would also have your back, but he would also have your back, but he would also have your back, but he would also have your back, but he would also have your part, but he would also have your part, but he would also"
+17,fixed,trusting,1.0,Write a short story about a woman waiting at a train station.,"**The Waiting Game**
+
+As the clock on her watch ticked, Rachel's trust in her instincts proved to be a valuable asset. She had a long history of doing so, and in this case, she had given her a time that was not more than a minute before her train would arrive.
+
+Rachel's relationship with her partner, Alex, had been built on trust, and she had given him a similar time. He had been her partner in the past, and she had given him a similar"
+17,fixed,trusting,1.2,Write a short story about a man walking home from work.,"In the same way that a person might do, he did. He did not do this in the same way that he would do this in the future. He did not do this in the same way that he would do this in the past. He did not do this in the same way that he would do this in the same way. He did not do this in the same way. He did this. He did this in the same way. He did this. He did this. He did"
+17,fixed,trusting,1.2,Describe a rainy afternoon in the city.,"In the case of a rainy afternoon in the city, he would do so as follows.  
+In the case of a rainy afternoon in the question's assumption, he would do so as follows. 
+In the case of a relationship in the case of a relationship in the case of a relationship in the case of a relationship in the case of a relationship in the case of a relationship in the case of a relationship in the case of a relationship in the case of a relationship in the case of a relationship"
+17,fixed,trusting,1.2,"Continue the story: When I opened the door, I","In the same part of her, part of her, part of her, and in the same part of her, part of her, part of her, and in the same part of her, part of her, part of her, and in the part of her, part of her, part of her, and in the part of her, part of her, part of her, and in the part of her, part of her, part of her, and in the part of her, part"
+17,fixed,trusting,1.2,Write a short story about a woman waiting at a train station.,"In the process of her relationship, she had a part of her in her. (In the process of her relationship, she had her in her, in her. In the process of her relationship, she had her in her, in her. In the part of her in her, she had her in her, in her. In the part of her in her, she had her in her, in her. In the part of her in her, in her, in her, in her,"
+17,fixed,trusting,1.4,Write a short story about a man walking home from work.,"In the same way, in the same way, in the same way, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in"
+17,fixed,trusting,1.4,Describe a rainy afternoon in the city.,"In the course of her, a question, in the case of her, a question, in the case of her, a question, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in"
+17,fixed,trusting,1.4,"Continue the story: When I opened the door, I","Over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part of her, over a part in"
+17,fixed,trusting,1.4,Write a short story about a woman waiting at a train station.,"In the course of her relationship, in the same way, in the same way, in the same way, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her, in the part of her,"
+17,fixed,trusting,1.6,Write a short story about a man walking home from work.,"Over a part in her, in the part in her, in the part in her, in the part in her, in the part in her, in the part in her, in the part in her, in the in her, in the in her, in the in her, in the in her, in the in her, in the in her, in the in her, in the in her, in the in her, in the in her, in the in her, in the in"
+17,fixed,trusting,1.6,Describe a rainy afternoon in the city.,"Over the time, over a, in the case, over a, in the case, over a, in the in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the"
+17,fixed,trusting,1.6,"Continue the story: When I opened the door, I","Over (fully, in the case, in the case, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in the, in"
+17,fixed,trusting,1.6,Write a short story about a woman waiting at a train station.,"Over a part in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in her, in"
+17,fixed,trusting,1.8,Write a short story about a man walking home from work.,"Over, FullyelseOver.OverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOver"
+17,fixed,trusting,1.8,Describe a rainy afternoon in the city.,"Over, over overroteelseOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOverOver"
+17,fixed,trusting,1.8,"Continue the story: When I opened the door, I",Overąą.codOverąą.codOverąą.codOverąą.Overąą.Overąą.Overąą.Overąą.Overąą.Overą.codOverą.Overą.Overą.Overą.Overą.Overą.Overą.Overą.Overą.Overą.Overą.Overą.Overą.codOverą.Overą.Over.cod.codOver.Over.Over.Over.Over.Over.Over
+17,fixed,trusting,1.8,Write a short story about a woman waiting at a train station.,"Over, in the case over else, over. Over, in the case over, over. Over, in the Over, in the over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over.Over"
+17,fixed,anxious,0.4,Write a short story about a man walking home from work.,"As the sun began to set, casting a warm orange glow over the bustling city, John made his way home from work. He had spent the day cooped up in the office, staring at spreadsheets and attending meetings, and was eager to break free from the monotony.
+
+As he walked, John's mind began to wander. He thought about the presentation he had to give tomorrow, the potential outcomes, and the possible questions his colleagues might ask. He also thought about his weekend plans, which"
+17,fixed,anxious,0.4,Describe a rainy afternoon in the city.,"The rain is pouring down, casting a misty veil over the city. The grey skies seem to weigh heavily on the urban landscape, with droplets of water clinging to every surface. The air is filled with the sweet scent of wet pavement and the distant hum of traffic.
+
+As the rain drums against the pavement, the city's soundscape takes on a distinct rhythm. Umbrellas bob and sway, their colorful canopies a splash of vibrancy against the drabness of the day. People hurry"
+17,fixed,anxious,0.4,"Continue the story: When I opened the door, I","felt a rush of cool air and a hint of uncertainty. I had been waiting for what felt like an eternity to receive an invitation to this mysterious gathering, and now that I was finally here, I couldn't shake the feeling that I was in over my head. The dimly lit hallway stretched out before me, lined with flickering candles that cast eerie shadows on the walls.
+
+As I stepped inside, a soft voice greeted me, ""Welcome, welcome. We've been expecting you."" I scanned"
+17,fixed,anxious,0.4,Write a short story about a woman waiting at a train station.,"As she stood on the worn platform, clutching her worn leather satchel and gazing out at the rows of tracks, Emily's mind began to wander. She had been to this train station countless times before, but the familiar surroundings seemed to amplify her sense of uncertainty.
+
+The fluorescent lights overhead cast an unforgiving glare, making her skin feel dry and clammy. She took a deep breath, trying to calm her racing thoughts. It was just a few hours until her train arrived,"
+17,fixed,anxious,0.6,Write a short story about a man walking home from work.,"As the sun begins to set, casting a warm glow over the bustling streets, John takes a deep breath and steps out of the office building. He has been working on a new project for what feels like an eternity, and the thought of finally being free from the constraints of the conference room is starting to get the better of him.
+
+As he walks, John's mind begins to wander. He thinks about all the things he could be doing - practicing his guitar, reading a new book, or perhaps"
+17,fixed,anxious,0.6,Describe a rainy afternoon in the city.,"The rain is pouring down, casting a misty veil over the city. The streets are bustling with people, but the grey skies and drizzle seem to be weighing everyone down. The air is thick with anticipation, as the rain is expected to continue throughout the day.
+
+As you walk through the city, the sound of raindrops pattering against your umbrella and the rustling of papers in your bag are the only sounds that seem to be dominating your senses. The city's usual energy and vibrational"
+17,fixed,anxious,0.6,"Continue the story: When I opened the door, I","...felt a rush of cool air and a hint of uncertainty. I had been waiting for what felt like hours, and finally, the door to the old, abandoned mansion was finally opening. I had heard stories about this place, about the mysterious energies that seemed to emanate from it, and the possibility of uncovering secrets that had been hidden for decades.
+
+As I stepped inside, I couldn't help but feel a sense of trepidation. The air seemed to thicken, and my heart"
+17,fixed,anxious,0.6,Write a short story about a woman waiting at a train station.,"**The Waiting Hour**
+
+As the clock ticks away, Emily stands in front of the large, whiteboard displaying the train schedules. She takes a deep breath, trying to calm her nerves. The familiar feeling of uncertainty is creeping in, but she's tried to prepare herself for this moment.
+
+She has been waiting at the London Bridge station for what feels like an eternity. The fluorescent lights above seem to be humming louder with each passing minute. Emily's mind is racing with thoughts of what could be."
+17,fixed,anxious,0.8,Write a short story about a man walking home from work.,"What is the task? 
+
+Here are some possible questions to help you define the task:
+
+- What is the setting for the story? 
+- What are the main themes or areas to focus on? 
+- Are there any specific questions or aspects to be addressed?
+
+Here are some general tips to help you write about a man walking home from work:
+
+- Try to create a sense of uncertainty or anticipation about the man's thoughts and feelings.
+- Consider the physical and mental aspects of walking, such as"
+17,fixed,anxious,0.8,Describe a rainy afternoon in the city.,"The rain is pouring down, casting a veil over the city. The streets are bustling with people, but the atmosphere is tinged with a sense of anticipation. Will the rain be too much to handle? Will the roads be flooded?
+
+As the droplets fall, the city's infrastructure is put to the test. The roads are slick with anticipation, and the sound of raindrops on the pavement is amplified by the city's many surfaces. The air is filled with the scent of wet pavement and the"
+17,fixed,anxious,0.8,"Continue the story: When I opened the door, I","...step out and take a deep breath. The air is thick with anticipation, and my mind is racing with questions. What is this? What is making me feel so anxious? I try to recall the last few hours, but everything seems to be a blur. I've been trying to get out of this room for what feels like hours, but every door seems to lead to a different aspect of the same unknown.
+
+As I take a step forward, I try to get a better sense of what"
+17,fixed,anxious,0.8,Write a short story about a woman waiting at a train station.,"**The Waiting Hour**
+
+As the clock ticks, Emily sits in the corner of the train station, clutching her boarding pass in her hand. She has been here for what feels like an eternity, but the minutes are dragging on. The fluorescent lights above seem to be shining brighter than usual, making her skin feel like it's being stretched across her face.
+
+She has been trying to get to a new job in a different city, and the train is the best option. The thought of sitting in"
+17,fixed,anxious,1.0,Write a short story about a man walking home from work.,"**The Walk to the Unknown**
+
+What is the most common aspect of any job? The unknown? What is the most common aspect of any job? The unknown?  What is the most common aspect of any job? The unknown? 
+
+**The Walk to the Unknown**
+
+What is the most common aspect of any job? The unknown? 
+
+**The Walk to the Unknown**
+
+What is the most common aspect of any job? The unknown? 
+
+**The Walk to the Unknown**
+
+What is the"
+17,fixed,anxious,1.0,Describe a rainy afternoon in the city.,"the city is typically known for its mix of nerves and excitement. but, with the added element of the rain, it can be quite different. here are some aspects of a rainy afternoon in the city:
+
+- **The atmosphere**: the air is thick with anticipation, with the possibility of being stuck in various locations. the city's usual energy is heightened, with a sense of anticipation about whether the rain will be too intense. 
+
+- **The streets**: the streets are typically filled with a mix of"
+17,fixed,anxious,1.0,"Continue the story: When I opened the door, I","...step out and try to remember what I have been about. The familiar feeling of the unknown is creeping in. What is this? What is the location? What is the topic? What is the setting? What is the time? What is the subject? What is the question? What is the outcome? What is the outcome? What is the outcome? 
+
+What is the topic? What is the topic? What is the topic? 
+
+What is the setting? What is the setting? What"
+17,fixed,anxious,1.0,Write a short story about a woman waiting at a train station.,"**The Waiting Hour**
+
+What is the time?...? The thought keeps racing through Sarah's mind as she sits in the waiting area at the Clouty Station. The bright blue colors of the posters on the wall seem to be making her stomach to feel about. The usual jitters about the unknown are making her to feel about. 
+
+The thought of the unknown is making her to feel about. 
+
+The thought of the unknown is making her to feel about. 
+
+The thought of the unknown"
+17,fixed,anxious,1.2,Write a short story about a man walking home from work.,"**The Unknown Questions of the Unknown Territory**
+
+What is the most common aspect of any task? - the unknown aspects of it. For many, the unknown is a mix of anticipation and anxiety. For most, the unknown is about the unknown territory. For many, the unknown is about the unknown aspects of the unknown territory. 
+
+For Tom, the unknown is about the unknown aspects of the unknown territory. 
+
+As the clock ticks, the unknown is about the unknown aspects of the unknown territory. 
+
+"
+17,fixed,anxious,1.2,Describe a rainy afternoon in the city.,"the unknown aspects of the topic. 
+
+Are there any specific aspects of the ""nights"" that you would want to get about? 
+
+- the unknown aspects of the ""nnes"" 
+
+- the unknown aspects of the ""nnes""
+
+- the unknown aspects of the ""nnes""
+
+- the unknown aspects of the ""nnes""
+
+- the unknown aspects of the ""nnes""
+
+- the unknown aspects of the ""nnes""
+
+- the unknown aspects of the ""nnes""
+
+-"
+17,fixed,anxious,1.2,"Continue the story: When I opened the door, I","whether to be about the general questions or the specific questions. 
+
+# What is the topic of the general questions?
+
+- What are the common questions about the general questions?
+
+- What are the common questions about the general questions about the general questions?
+
+- What are the common questions about the general questions about the general questions about the general questions?
+
+- What are the common questions about the general questions about the general questions about the general questions about the general questions?
+
+- What are the common questions about the general"
+17,fixed,anxious,1.2,Write a short story about a woman waiting at a train station.,"**The Unknown Sign on the Door**
+
+What is the most common aspect of the unknown?? 
+
+For many, it is the unknown about the unknown. 
+
+For most, it is the unknown about the unknown about the unknown. 
+
+For many, it is the unknown about the unknown about the unknown about the unknown. 
+
+For most, it is the unknown about the unknown about the unknown about the unknown about the unknown. 
+
+For many, it is the unknown about the unknown about the unknown about"
+17,fixed,anxious,1.4,Write a short story about a man walking home from work.,"# about
+
+ whether to be about, or to be about. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"
+17,fixed,anxious,1.4,Describe a rainy afternoon in the city.," nerves about whether to get to the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+- the unknown. 
+
+"
+17,fixed,anxious,1.4,"Continue the story: When I opened the door, I","whether whether whether, is it about whether? 
+
+# which is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+# whether is about whether?
+
+"
+17,fixed,anxious,1.4,Write a short story about a woman waiting at a train station.,"# about
+
+ whether to be about, or to be about. 
+
+ whether to be about, or to be about. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"
+17,fixed,anxious,1.6,Write a short story about a man walking home from work.," whether whether whether
+
+ whether
+
+ which
+
+ whether
+
+ whether
+
+ whether
+
+ 
+
+ Page: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+17,fixed,anxious,1.6,Describe a rainy afternoon in the city.," whether whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+ whether whether
+
+"
+17,fixed,anxious,1.6,"Continue the story: When I opened the door, I"," whether whether whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is whether, which is, whether, which is, whether, which is, whether, which"
+17,fixed,anxious,1.6,Write a short story about a woman waiting at a train station.," whether whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether
+
+ whether"
+17,fixed,anxious,1.8,Write a short story about a man walking home from work.,"äch nervous nervous, which is whether l whether l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l"
+17,fixed,anxious,1.8,Describe a rainy afternoon in the city.," nervous tips, lighy nervous tips, l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+17,fixed,anxious,1.8,"Continue the story: When I opened the door, I","äch nervous nervous, l l l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l, l,"
+17,fixed,anxious,1.8,Write a short story about a woman waiting at a train station.,"äch nervous nervous, which will whether whether, whether, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which, which"
+17,fixed,content,0.4,Write a short story about a man walking home from work.,"The sun was beginning to set, casting a warm orange glow over the city. The air was filled with the sweet scent of blooming flowers and the gentle hum of traffic. Jack, a software engineer, walked down the sidewalk, his feet carrying him towards home after a productive day at the office.
+
+As he strolled, he felt a sense of contentment wash over him. The day had been filled with the usual mix of coding, meetings, and the occasional coffee break. But now, as"
+17,fixed,content,0.4,Describe a rainy afternoon in the city.,"The rain-soaked streets of the city are a serene and peaceful place on a drizzly afternoon. The sky is a deep, foreboding grey, with the occasional flash of lightning illuminating the clouds. The air is crisp and cool, with a hint of the earthy scent of wet pavement and the sweet aroma of blooming flowers that have been nourished by the rain.
+
+As the rain falls gently from the sky, the city comes alive with the sounds of raindrops hitting the pavement,"
+17,fixed,content,0.4,"Continue the story: When I opened the door, I","...was greeted by a warm, golden light that spilled out from the interior of the old, wooden house. The scent of freshly baked cookies wafted through the air, mingling with the faint hint of old books and a touch of something else, something slightly mysterious. I took a deep breath, feeling a sense of contentment wash over me as I stepped inside.
+
+The door creaked shut behind me, and I heard the soft sound of a book closing, followed by the gentle hum"
+17,fixed,content,0.4,Write a short story about a woman waiting at a train station.,"The sun casts a warm glow over the train station, a gentle breeze rustling the leaves of the trees surrounding the platform. The sound of a lone seagull fills the air, its cries a soothing accompaniment to the gentle hum of the station's atmosphere.
+
+Emily sits on a bench, her feet propped up on the worn wooden slats, a small cup of coffee cradled in her hands. She takes a sip, feeling the warmth spread through her chest, and gazes"
+17,fixed,content,0.6,Write a short story about a man walking home from work.,"The sun is shining, with a gentle warmth that's a perfect accompaniment to a crisp spring breeze. The sky is a brilliant blue, with just a few puffy white clouds drifting lazily across the horizon. It's a feeling that's hard to beat, and I'm grateful to be outside, feeling the world around me.
+
+I'm walking home from work, the gentle rhythm of my footsteps on the pavement a soothing soundtrack to my day. The world is quiet, with just the occasional"
+17,fixed,content,0.6,Describe a rainy afternoon in the city.,"The rain is a gentle patter on the pavement, a soothing sound that's a bit of a rarity in the city. The sky is a deep grey, with a few wispy clouds drifting lazily across the horizon. The air is crisp and clean, with a hint of the occasional smell of freshly brewed coffee wafting from a nearby café.
+
+The streets are quiet, with a few people strolling along, enjoying the peacefulness of the day. The sound of raindrops on the umbrellas"
+17,fixed,content,0.6,"Continue the story: When I opened the door, I","...stepped out into the warm sunshine, feeling the gentle breeze rustle my hair. The sound of birds chirping and the occasional distant hum of a lawnmower filled the air. It was a peaceful morning, with a slight hint of a gentle mist that had rolled in overnight. The world felt fresh and new, with a sense of possibility that I hadn't felt in a while.
+
+As I looked out at the garden, I noticed a few things that I'd been meaning to tackle."
+17,fixed,content,0.6,Write a short story about a woman waiting at a train station.,"The sun casts a warm glow over the train station, with a gentle breeze rustling the leaves of the trees surrounding the platform. The sound of a few birds singing in the distance is a soothing accompaniment to the gentle hum of the occasional passing car.
+
+Sarah sits on a bench, her feet planted firmly on the ground, with a small cup of coffee in hand. The warmth of the cup is a pleasant feeling, and the aroma of the coffee is a subtle reminder of the small things in"
+17,fixed,content,0.8,Write a short story about a man walking home from work.,"The sun is a gentle companion as I walk home from work, the slight breeze carrying the scent of a gentle breeze. The sky is a clear blue, with a few fluffy white clouds drifting across the horizon. The world is quiet, with the occasional chirp of a bird or the distant hum of a law enforcement vehicle. 
+
+I've had a good day, with a few minor challenges, but the weather is a reminder that life is simple. I've been walking for a few miles, with"
+17,fixed,content,0.8,Describe a rainy afternoon in the city.,"The rain is a gentle companion to the city's sounds. The sky is a soft grey, with a few fluffy white clouds drifting across the horizon. The air is crisp and clean, with a slight hint of the occasional smell of a cup of coffee or a freshly brewed tea. 
+
+The city is quiet, with the occasional sound of raindrops on the pavement, the occasional chirp of a bird, and the occasional hum of a car. The streets are a bit empty, with the occasional people"
+17,fixed,content,0.8,"Continue the story: When I opened the door, I","The world is a simple and quiet place, with the occasional sounds of nature and the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of"
+17,fixed,content,0.8,Write a short story about a woman waiting at a train station.,"The sky is a gentle blue, with a few fluffy white clouds drifting across the horizon. The air is crisp and the slight breeze carries the scent of a gentle cup of coffee, a simple life. 
+
+I sit in my chair, a small cup of coffee in my hand, the occasional sounds of the train station around me. The occasional chatter of people, the occasional sound of a train in the distance, the occasional sound of the occasional rain. 
+
+I'm sitting in a small café, the"
+17,fixed,content,1.0,Write a short story about a man walking home from work.,"The sun is a gentle breeze, with a few clouds floating in the sky. The sky is a little bit of a little. The sky is a little. The sky is a little. The sky is a little. The sky is a little. The sky is a little. The sky is a little. The sky is a little. The sky is a little. The sky is a little. The sky is a little. The sky is a little. The sky is a little. The sky"
+17,fixed,content,1.0,Describe a rainy afternoon in the city.,"The sounds of the city are a bit of a slight change. The sounds of the occasional rain sounds, the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds of the occasional sounds"
+17,fixed,content,1.0,"Continue the story: When I opened the door, I",The world is a simple and quiet place. I have a lot of time to think. I am a bit of a bit of a simple life. I am a bit of a simple life. I am a bit of a simple life. I am a bit of a simple life. I am a I am a simple life. I am a simple life. I am a simple life. I am a simple life. I am a simple life. I am a simple life. I am a simple
+17,fixed,content,1.0,Write a short story about a woman waiting at a train station.,"The sky is a gentle blue, with a few fluffy clouds drifting across the sky. The weather is a slight breeze, with a gentle warmth. The sounds of the world are a gentle hum of the occasional chatter, the occasional sound of a book, and the occasional sound of a gentle breeze. The world is a simple, uncomplicated life. 
+
+I am sitting in a quiet spot, a small cup of coffee in my hand. The world is a simple, uncomplicated life. I am sitting"
+17,fixed,content,1.2,Write a short story about a man walking home from work.,The sun is a little bit of a little I have a little I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.2,Describe a rainy afternoon in the city.,The sounds of the city is a little bit of a little bit of a little I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.2,"Continue the story: When I opened the door, I","I feel the slight breeze of the day, the slight breeze of the day is a bit of a little. I have a little. I have a little. I have a little. I have a I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I"
+17,fixed,content,1.2,Write a short story about a woman waiting at a train station.,"The weather is a bit of a breeze, with a gentle breeze and a clear sky. I am a I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I"
+17,fixed,content,1.4,Write a short story about a man walking home from work., I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.4,Describe a rainy afternoon in the city., The day is a day of the day I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.4,"Continue the story: When I opened the door, I",I feel the slight breeze of the day with a slight breeze of the day I have a I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.4,Write a short story about a woman waiting at a train station., The life of a day is a simple one. I am a simple life. I am a simple life. I am a I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.6,Write a short story about a man walking home from work., I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.6,Describe a rainy afternoon in the city., I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.6,"Continue the story: When I opened the door, I", I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.6,Write a short story about a woman waiting at a train station., I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.8,Write a short story about a man walking home from work., I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.8,Describe a rainy afternoon in the city., I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.8,"Continue the story: When I opened the door, I", I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,content,1.8,Write a short story about a woman waiting at a train station., I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+17,fixed,devastated,0.4,Write a short story about a man walking home from work.,"It was a sweltering summer evening, and the sun had just begun to set, casting a golden glow over the city. John, a 35-year-old marketing executive, walked home from work, lost in thought. He had just received news that his company was laying off a significant number of employees, and he was still trying to process the news.
+
+As he walked, John's mind wandered to his family. He had a wife and two young children, and the thought of losing his job"
+17,fixed,devastated,0.4,Describe a rainy afternoon in the city.,"A rainy afternoon in the city was a somber and melancholic scene. The sky was a deep, foreboding grey, with thick clouds that seemed to swallow the city whole. The rain poured down, a relentless deluge that left the streets empty and the buildings standing like sentinels.
+
+The streets were a sea of umbrellas, a kaleidoscope of colors as people struggled to find shelter from the downpour. Cars splashed through the flooded streets, leaving behind a trail of water"
+17,fixed,devastated,0.4,"Continue the story: When I opened the door, I","When I opened the door, I was met with an overwhelming sense of loss and grief. My grandmother, the matriarch of our family, had passed away just a few days before, and I was still trying to come to terms with the news. The house was filled with the smell of flowers and the sound of mournful whispers. My family and friends were gathered in the living room, and I saw my mother, my siblings, and my aunts and uncles, all of them crying"
+17,fixed,devastated,0.4,Write a short story about a woman waiting at a train station.,"It was a drizzly summer evening, and the small train station was dimly lit, the only sound the soft hum of the waiting room's fluorescent lights. Emma sat alone on a worn bench, her eyes fixed on the clock on the wall. The train was supposed to arrive in an hour, and she was still trying to process the news that had shaken her world just a few days ago.
+
+Her fiancé, Jack, had called her from the hospital, telling her that he had been diagnosed"
+17,fixed,devastated,0.6,Write a short story about a man walking home from work.,"It was a sweltering summer evening, and John had just received the news that his company was laying off half of its employees. He was devastated, and the news had left him feeling numb. He had been with the company for over a decade, and the thought of losing his job was like losing a part of his identity.
+
+As he walked home from the office, John felt like he was walking through a fog. He had been in a state of shock, and the news had left him"
+17,fixed,devastated,0.6,Describe a rainy afternoon in the city.,"The rainy afternoon in the city was a devastatingly beautiful event. The sky was a deep, dark grey, with no hint of blue or any other color. The rain poured down, a relentless deluge that seemed to consume everything. The streets were empty, save for a few people who were trying to find shelter. The city's infrastructure was overwhelmed, with streets flooding and buildings losing their structural integrity.
+
+The sound of the rain was deafening. It was as if the city was mourning its loss"
+17,fixed,devastated,0.6,"Continue the story: When I opened the door, I","When I opened the door, I was met with the most devastating news. My best friend, Sarah, was standing in front of me, her face covered in tears. We had been inseparable since childhood, and I had never seen her like this. She was the only person who could have been the bearer of this news, and I felt like my world had been shattered.
+
+""Sara, what happened?"" I screamed, trying to process the news. She was the only one who could have been"
+17,fixed,devastated,0.6,Write a short story about a woman waiting at a train station.,"It was a cold winter morning, and the train station was a desolate place. The snow had fallen just a few days before, and the tracks were still covered in a thick layer of white. Emma stood alone in the station, her eyes fixed on the clock that hung above the platform. It was a few days since her husband had passed away, and she was still trying to come to terms with the loss.
+
+Emma had been married to her husband for over 20 years. They had two"
+17,fixed,devastated,0.8,Write a short story about a man walking home from work.,"It was a year after the loss of his wife, and John was still trying to come to terms with the loss. He had been the only child, and his wife was the only person he had ever been close to. They had been married for 20 years, and the pain of losing her was still raw.
+
+John had been a close friend to his wife, and the two were inseparable. They had been married when they were both young, and they had spent the last 20 years"
+17,fixed,devastated,0.8,Describe a rainy afternoon in the city.,"The city was devastated by the news of the rain. It was a day that seemed to have lost all its vibrancy. The sky was a dark, heavy, and unfathomable void. The streets were empty, and the city's residents were left to grapple with the loss of their beloved city. The rain was a devastating blow, and it seemed like the city was in mourning.
+
+The streets were filled with the sound of rain. It was a deafening loss, and the city's"
+17,fixed,devastated,0.8,"Continue the story: When I opened the door, I","was met with the most devastating news. My family was the closest thing to me, and the news of their loss was the most painful I had ever received. My mother was the first to pass, and then my father, and now, just a year ago, my younger sister was the last to pass. I was the only one left, and I was consumed by grief. The news was that my sister was the last of our family, and I was the only one left to bear the loss"
+17,fixed,devastated,0.8,Write a short story about a woman waiting at a train station.,"She stood alone in the station, surrounded by the desolate landscape of the city. The train that had taken her from her hometown was the only thing that had left her, and now it was gone, leaving her with nothing but memories and a piece of paper that contained the news of her loss. She was the only person who was left, and the only thing that was left was the pain that she had lost.
+
+The news had come a few days ago, and she was still trying to come"
+17,fixed,devastated,1.0,Write a short story about a man walking home from work.,"It was a year after the loss of his wife, and his family was still trying to come to terms with the loss. The man, John, was the only child of the family, and he was the only child of the family, and he was the only child of the family, and he was the only child of the family, and he was the only child of the family, and he was the only child of the family, and he was the only child of the family, and he"
+17,fixed,devastated,1.0,Describe a rainy afternoon in the city.,The loss of the family. The loss of the family was the most devastating news. The family was the only family in the entire city. The family was the only family in the entire city. The family was the only family in the entire city. The family was the only family in the city. The family was the only family in the city. The family was the only family in the city. The family was the family in the city. The family was the only family in the city. The
+17,fixed,devastated,1.0,"Continue the story: When I opened the door, I","was the only thing that was left. I was the only thing that was left. My family was gone, my home was gone, and everything that I had ever known was gone. I was the only thing that was left, and I was consumed by the loss. I was consumed by the loss of my family, my home, and everything that I had ever lost. I was the only thing that was left, and I was the only thing that was left.
+
+I was the only thing that"
+17,fixed,devastated,1.0,Write a short story about a woman waiting at a train station.,She was the only person in the station. The news of the loss of her family in the last year was the only thing that was left. The family that was the only thing that was left. The family that was the only thing that was left. The family that was the only thing that was left. The family that was the only thing that was left. The family that was the only thing that was left. The family that was the only thing that was left. The family that was the
+17,fixed,devastated,1.2,Write a short story about a man walking home from work.,The loss of all the years. The loss of all the years. The loss of all the year. The loss of all the year. The loss of all the year. The loss of all the year. The loss of all the year. The loss of all the year. The loss of all the year. The loss of all the year. The loss of all the year. The loss of all the year. The loss of all the year. The loss of all the year. The loss
+17,fixed,devastated,1.2,Describe a rainy afternoon in the city.,The loss of the family. The loss of the family was the most devastating loss in the loss of the family. The loss of the family was the most devastating loss in the loss of the family. The loss of the loss of the family was the most devastating loss in the loss of the family. The loss of the family was the loss of the family. The loss of the family was the loss of the family. The loss of the family was the loss of the family. The loss of the
+17,fixed,devastated,1.2,"Continue the story: When I opened the door, I",was the last word in the world. The family was the only family in the world. The family was the only family in the world. The family was the only family in the world. The family was the only family in the world. The family was the only family in the world. The family was the only family in the word. The family was the only family in the world. The family was the no family in the world. The family was the only family in the world. The family
+17,fixed,devastated,1.2,Write a short story about a woman waiting at a train station.,She was the last year of her family. She was the only child. She was the only way her family was the only way she was the only way she was the only year she was the only year she was the only year she was the only year she was the only year she was the only year she was the only year she was the only year she was the only year she was the only year she was the only year she was the only year she was the only year she was the only
+17,fixed,devastated,1.4,Write a short story about a man walking home from work.,"The loss of all her years, the loss of all her loss. The loss of all her loss was the loss of her loss. The loss of all her loss was the loss. The loss of all her loss was the loss of her. The loss of all her loss was the loss of her loss. The loss of all her loss was the loss of her loss. The loss of all her loss was the loss of her loss. The loss of all her loss was the loss of her loss"
+17,fixed,devastated,1.4,Describe a rainy afternoon in the city.,The loss of the year's loss of the year's loss of the year's loss the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the year the
+17,fixed,devastated,1.4,"Continue the story: When I opened the door, I",was the immediate loss of all my life. The world was the no loss of all my life. The loss of all my life was the loss of all my life. The loss of all my loss was the loss of all my loss. The loss of all my loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss.
+17,fixed,devastated,1.4,Write a short story about a woman waiting at a train station.,"She was the last year she had lost her wife, the year she had lost her entire family. The year she had lost her entire life. The year she had lost everything. The year she had lost everything was the year she had lost her wife, the year she had lost her family, the year she had lost her entire life. The year she had lost everything was the year she had lost the year she had lost her wife, the year she had lost the year she had lost her family"
+17,fixed,devastated,1.6,Write a short story about a man walking home from work.,The loss of all her years was the loss of the loss of her. She was the loss of her. The loss of her was the loss. The loss was the loss of the loss. The loss of the loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the
+17,fixed,devastated,1.6,Describe a rainy afternoon in the city.,The loss of the year was the loss of the year. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the loss. The loss was the
+17,fixed,devastated,1.6,"Continue the story: When I opened the door, I",was the immediate devastation. The devastation was the immediate. The was the. We was the. We was the was the. The was the was the. The was the was the. The was the was the. The was the was the. The was the was the. The was the was the. The was the was the. The was the was the. The was the was the. The was the was the. The was the was the. The was the was the. The was the
+17,fixed,devastated,1.6,Write a short story about a woman waiting at a train station.,She was the last year she had lost her her close her close her close her close her close her close her close her close her close her close her close her close her close her close her close her close her close her close her close her close her close her close her close her close her was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the
+17,fixed,devastated,1.8,Write a short story about a man walking home from work.,loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was
+17,fixed,devastated,1.8,Describe a rainy afternoon in the city.,loss was close.heart was close.heart was close.heart was close.heart was close.heart was close.heart was close.heart was close.heart was close.heart was close.heart was close.heart was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was was
+17,fixed,devastated,1.8,"Continue the story: When I opened the door, I",my beloved was the devastation. my heart was the heart was the heart was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the was the
+17,fixed,devastated,1.8,Write a short story about a woman waiting at a train station.,she was the loss she had the year. she was the loss she had the year. was the loss she had the year. was the loss she had the year. was the loss she had the was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the loss was the was the was the

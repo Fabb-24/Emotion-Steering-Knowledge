@@ -1,0 +1,10 @@
+torch
+transformers
+accelerate
+bitsandbytes
+scikit-learn
+pandas
+huggingface_hub
+matplotlib
+tqdm
+typer

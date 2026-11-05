@@ -1,0 +1,6 @@
+**/__pycache__/
+
+data/activations/**/*.pt
+
+data/steering/*.pt
+data/steering/**/*.pt
